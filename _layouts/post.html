@@ -30,15 +30,15 @@ layout: compress
             <span>
               <time>{{ page.date | date_to_string }}</time>&nbsp;
             </span>
-          <span>
-              {% assign words = content | number_of_words %}
-                {% if words < 360 %}
-                  1 min
-                {% else %}
-                  {{ words | divided_by:180 }} mins
-              {% endif %} read
-              &nbsp;
-          </span>
+          <!--<span>-->
+              <!--{% assign words = content | number_of_words %}-->
+                <!--{% if words < 360 %}-->
+                  <!--1 min-->
+                <!--{% else %}-->
+                  <!--{{ words | divided_by:180 }} mins-->
+              <!--{% endif %} read-->
+              <!--&nbsp;-->
+          <!--</span>-->
         </p>
       </div>
     </div>
@@ -83,19 +83,19 @@ layout: compress
       </div>
     </div>
 
-    {% if site.disqus.shortname %}
+    <!--{% if site.disqus.shortname %}-->
 
-    <div class="comments">
-      <div class="container">
-        <div class="post-content">
+    <!--<div class="comments">-->
+      <!--<div class="container">-->
+        <!--<div class="post-content">-->
 
-          {% include disqus.html %}
+          <!--{% include disqus.html %}-->
 
-        </div>
-      </div>
-    </div>
+        <!--</div>-->
+      <!--</div>-->
+    <!--</div>-->
 
-    {% endif %}
+    <!--{% endif %}-->
 
   </main>
 
