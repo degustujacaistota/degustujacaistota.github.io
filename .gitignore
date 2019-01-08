@@ -1,7 +1,7 @@
 *.gem
 .bundle
 .sass-cache
-_site
+
 _img
 Gemfile.lock
 /.idea/
