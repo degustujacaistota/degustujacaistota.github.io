@@ -10,11 +10,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.degustujacaistota.pl/" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: Degustująca-Istota-309847352979817 # replace with your_facebook_username or comment to remove link from footer
 github_username:  DanutaZabinska # replace with your_github_username or comment to remove link from footer
-#instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+instagram_username: degustujacaistota # replace with your_instagram_username or comment to remove link from footer
 social:
   name: Danuta Żabińska
   links:
-#    - https://twitter.com/BenBalter
+    - https://www.instagram.com/degustujacaistota/
     - https://www.facebook.com/Degustująca-Istota-309847352979817/
     - https://www.linkedin.com/in/danuta-żabińska-94a74410b/
 #    - https://plus.google.com/+BenBalter
