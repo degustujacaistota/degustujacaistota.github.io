@@ -16,7 +16,7 @@ Dla pożeraczy krewetek, którą stety, niestety (niestety dla odkładających s
 Krewetki przyrządzone są tu w sposób doskonały. Nie są gumowate i twarde, jak się czasem spotyka, tylko delikatne i soczyste. Jeśli ktoś nie wie, czy smakują mu krewetki, to Degustująca Istota poleca się tam wybrać. Bo jak te nie zasmakują, to może faktycznie lepiej sobie dać spokój.
 
 
-Curry Shrimp, to dla Degustującej Istoty najlepsze danie w Shrimp House. Lekko rozgrzewający, gęsty krewetkowy “gulasz”, łączy w sobie pożywne bataty, ananasa i mleko kokosowe. Podawany ze świeżą kolendrą, tworzy harmonijne połączenie, które zajada ona z uczuciem błogości na twarzy.
+Curry Shrimp, to dla Degustującej Istoty najlepsze danie w Shrimp House, jakie zdarzyło jej się tam jeść. Lekko rozgrzewający, gęsty krewetkowy “gulasz”, łączy w sobie pożywne bataty, ananasa i mleko kokosowe. Podawany ze świeżą kolendrą, tworzy harmonijne połączenie, które zajada ona z uczuciem błogości na twarzy.
 
 <center><div style="width:65%"> <img src="{{site.url}}/assets/img/posts/Fajitas.jpg" alt="Krewetkowe Fajits" height="100px" width="40px">
 
@@ -30,8 +30,8 @@ Miejsce przyjemne i mocno oblegane w godzinach obiadowych. Bywa tam też nieco d
 
 ### Podsumowanie :
 
-1. Smak potraw: 35/50 - Minus 10 za Fajitas i 5 za sałatkę
-2. Prezentacja potraw: 20/30 - ładne kompozycje, barowo
+1. Smak potraw: 40/50 - Minus 5 za Fajitas i 5 za sałatkę
+2. Prezentacja potraw: 25/30 - ładne kompozycje, barowo
 3. Atmosfera: 30/30 - miło, przytulnie
 4. Wystrój/czystość : 20/30 - schludnie i czysto, minusem jest niezbyt dobra wentylacja
 5. Obsługa: 20/30 - zaganiana, ale uprzejma mimo zmęczenia
@@ -39,7 +39,7 @@ Miejsce przyjemne i mocno oblegane w godzinach obiadowych. Bywa tam też nieco d
 7. Podejście do komplikacji żywieniowych: 15/30 - Raczej nie ma tu możliwości modyfikowania potraw. Jedynie można wymienić sos podawany osobno.
    Weganie i Wegetarianie nie mają tu czego szukać, ale raczej sama nazwa na to wskazuje.
 
-## W sumie Shrimp House otrzymuje punktów: 190/250
+## W sumie Shrimp House otrzymuje punktów: 200/250
 Link do [Shrimp House]
 
 Adres:
