@@ -30,21 +30,21 @@ Miejsce przyjemne i mocno oblegane w godzinach obiadowych. Bywa tam też nieco d
 
 ### Podsumowanie :
 
-1. Smak potraw: 40/50 - Minus 5 za Fajitas i 5 za sałatkę
-2. Prezentacja potraw: 25/30 - ładne kompozycje, barowo
-3. Atmosfera: 30/30 - miło, przytulnie
-4. Wystrój/czystość : 20/30 - schludnie i czysto, minusem jest niezbyt dobra wentylacja
-5. Obsługa: 20/30 - zaganiana, ale uprzejma mimo zmęczenia
-6. Stosunek jakości do ceny: 50/50 - odpowiednia cena jak za taką ilość i jakość krewetek
-7. Podejście do komplikacji żywieniowych: 15/30 - Raczej nie ma tu możliwości modyfikowania potraw. Jedynie można wymienić sos podawany osobno.
+1. Smak potraw: **40/50** - Minus 5 za Fajitas i 5 za sałatkę
+2. Prezentacja potraw: **25/30** - ładne kompozycje, barowo
+3. Atmosfera: **30/30** - miło, przytulnie
+4. Wystrój/czystość : **20/30** - schludnie i czysto, minusem jest niezbyt dobra wentylacja
+5. Obsługa: **20/30** - zaganiana, ale uprzejma mimo zmęczenia
+6. Stosunek jakości do ceny: **50/50** - odpowiednia cena jak za taką ilość i jakość krewetek
+7. Podejście do komplikacji żywieniowych: **15/30** - Raczej nie ma tu możliwości modyfikowania potraw. Jedynie można wymienić sos podawany osobno.
    Weganie i Wegetarianie nie mają tu czego szukać, ale raczej sama nazwa na to wskazuje.
 
-## W sumie Shrimp House otrzymuje punktów: 200/250
+## W sumie Shrimp House otrzymuje punktów: **200/250**
 Link do [Shrimp House]
 
 Adres:
 ul. Młyńska 11, Katowice
 
-_Obrazek tytułowy: Curry Shrimp. Foto: Degustująca Istota_
+_Obrazek tytułowy: Curry Shrimp_
 
 [Shrimp House]: https://shrimp-house.pl/
