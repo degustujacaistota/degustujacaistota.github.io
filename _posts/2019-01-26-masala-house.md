@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Masala House - nie żałują przypraw-*Katowice*
-featured-img: Masala
+featured-img: masala_house
 tags: Katowice Polska Indyjska Masla_house
 ---
 
