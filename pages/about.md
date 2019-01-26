@@ -32,7 +32,8 @@ Odznaka wesołego bakłażana - najwyższe wyróżnienie. Nadawane, gdy restaura
 Degustującej Istocie. Może być odebrane za złamanie serca.
 
 
-<img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="DegustującaIstota" height="602" width="auto">
+<center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="DegustującaIstota" height="602" width="auto" />
+</div></center>
 
 Techniczne informacje: Zdjęcie na stronie główniej Degustująca Istota zrobiła w restauracji Umami w Pyskowicach.
 Wszystkie inne zdjęcia i grafiki też zrobiła ona i są jej własnością.
