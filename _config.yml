@@ -48,3 +48,9 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+collections:
+  categories:
+    output: true
+  tags:
+    output: true
