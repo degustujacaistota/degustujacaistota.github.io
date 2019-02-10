@@ -6,8 +6,8 @@ tags: Katowice Polska Fine_dining Fine_dining_week Restauracja Wesoły_bakłaża
 ---
 
 
-Kojeny raz Degustująca Istota zawitała do ISTO. Tym razem z okazji trwającego Festiwalu Sztuki Kulinarnej, Fine Dining Week.
-Niesamowite, jak Isto potrafi zaskoczyć. Zaprezentowano dania z zakresu kuchni molekularnej, przygotwane z użyciem ciekłego azotu oraz agar agar.
+Kolejny raz Degustująca Istota zawitała do ISTO. Tym razem z okazji trwającego Festiwalu Sztuki Kulinarnej, Fine Dining Week.
+Niesamowite, jak Isto potrafi zaskoczyć. Zaprezentowano dania z zakresu kuchni molekularnej, przygotowane z użyciem ciekłego azotu oraz agar agar.
 Isto dzięki świetnej kolacji na najwyższym poziomie utrzymuje odznakę Wesołego Bakłażana.
 
 
@@ -75,7 +75,7 @@ To była wspaniała przygoda w Isto, pomimo tej niedogodności ze względu na al
 4. Wystrój/czystość: **30/30** - czysto i elegancko
 5. Obsługa: **30/30** - w 100 % profesjonalna i uprzejma
 6. Stosunek jakości do ceny: **50/50** - cena ustalona z góry przez festiwal
-7. Podejście do komplikacji żywieniowych: **20/30** - minus za nie uwzglednienie wcześniej przesłanych alergenów,
+7. Podejście do komplikacji żywieniowych: **20/30** - minus za nie uwzględnienie wcześniej przesłanych alergenów,
 ale plus za ogarnięcie sytuacji tak, aby Istota nie wyszła rozczarowana.
 
 ## W sumie ISTO otrzymuje punktów: **240/250!**
