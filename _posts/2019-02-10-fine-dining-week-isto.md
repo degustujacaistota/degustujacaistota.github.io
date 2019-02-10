@@ -6,7 +6,7 @@ tags: Katowice Polska Fine_dining Fine_dining_week Restauracja Wesoły_bakłaża
 ---
 
 
-Kolejny raz Degustująca Istota zawitała do ISTO. Tym razem z okazji trwającego Festiwalu Sztuki Kulinarnej, Fine Dining Week.
+Kolejny raz Degustująca Istota zawitała do Isto. Tym razem z okazji trwającego Festiwalu Sztuki Kulinarnej, Fine Dining Week.
 Niesamowite, jak Isto potrafi zaskoczyć. Zaprezentowano dania z zakresu kuchni molekularnej, przygotowane z użyciem ciekłego azotu oraz agar agar.
 Isto dzięki świetnej kolacji na najwyższym poziomie utrzymuje odznakę Wesołego Bakłażana.
 
@@ -29,8 +29,8 @@ pora.
     </font>
 </div></center>
 <br />
-Kolejne danie było również serową ucztą. Istota rozsmakowywała się w delikatnych ravioli, które otaczał maślany, niesamowity sos
-( Uwaga! znowu trudne słowo!!! :-P ) Beurre Blanc. Świetna kompozycja smakowa.
+Następne danie było także bardzo serowe. Istota rozsmakowywała się w delikatnych ravioli, które otaczał maślany, niesamowity sos
+(Uwaga! znowu trudne słowo :-P) Beurre Blanc. Świetna kompozycja smakowa.
 
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
@@ -38,7 +38,7 @@ Kolejne danie było również serową ucztą. Istota rozsmakowywała się w deli
 
     <font size="2">
         A oto kryształki sera koziego zrobione przy użyciu ciekłego azotu. Cudownie chłodne i słone, doskonale komponowały się z
-        buraczanym smakiem risotto. Całość podkręcał chrupiący, przypieczony topinambur. Dodatkowo otaczała risotto oliwa lubczykowa,
+        buraczanym smakiem risotta. Całość podkręcał chrupiący, przypieczony topinambur. Dodatkowo otaczała risotto oliwa lubczykowa,
         ale dla Degustującej Istoty była zbyt intensywna w smaku, albo po prostu Istota za lubczykiem nie przepada.
     </font>
 </div></center>
@@ -73,12 +73,12 @@ To była wspaniała przygoda w Isto, pomimo tej niedogodności ze względu na al
 2. Prezentacja potraw: **30/30** - piękna, przemyślana, zaskakująca
 3. Atmosfera: **30/30** - bardzo miła, spokojna
 4. Wystrój/czystość: **30/30** - czysto i elegancko
-5. Obsługa: **30/30** - w 100 % profesjonalna i uprzejma
+5. Obsługa: **25/30** - profesjonalna i uprzejma, mały minus za lekką panikę przy historii z alergenami
 6. Stosunek jakości do ceny: **50/50** - cena ustalona z góry przez festiwal
 7. Podejście do komplikacji żywieniowych: **20/30** - minus za nie uwzględnienie wcześniej przesłanych alergenów,
 ale plus za ogarnięcie sytuacji tak, aby Istota nie wyszła rozczarowana.
 
-## W sumie ISTO otrzymuje punktów: **240/250!**
+## W sumie ISTO otrzymuje punktów: **235/250!**
 Link do [ISTO]
 
 Strona Isto, ani ich profil fb, nia nadążają za wydarzeniami, jakie dzieją się w restauracji.
