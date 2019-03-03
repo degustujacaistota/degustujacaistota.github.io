@@ -2,9 +2,9 @@
 layout: post
 title: Kolacja w ciemności - *Radzionków*
 featured-img: poliki_app
-tags: Polska Śląsk Radzionków Restauracja Appastionata Kolacja_w_ciemności
+tags: Polska Śląsk Radzionków Restauracja Appassionata Kolacja_w_ciemności
 ---
-Kolacja w ciemności w której wzięła udział Degustująca Istota została zorganizowana przez restaurację Appasionata.
+Kolacja w ciemności w której wzięła udział Degustująca Istota została zorganizowana przez restaurację Appassionata.
 Na początku wydarzenia moderator udzielił wyjaśnień, żeby wyłączyć telefony oraz schować zegarki,
 aby nie dawały nawet najmniejszej ilości światła.
  Potem goście, trzymając rękę na ramieniu kelnera, zostali zaprowadzeni na swoje miejsca.
@@ -24,7 +24,7 @@ Kelner podając potrawy miał założony noktowizor, który dawał pewną iloś�
 <br />
 
 Przy każdej potrawie moderator oraz kelner dopytywali się osób na sali co uważają, że jedzą i jak im smakuje.
- Istocie trudno było się skupić na jednoczesnym odpowiadaniu i łapaniu szcztućcami jedzenia na talerzu
+ Istocie trudno było się skupić na jednoczesnym odpowiadaniu i łapaniu sztućcami jedzenia na talerzu
   i ogólnie trafianiu w talerz. Początki były więc trudne.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
@@ -63,7 +63,7 @@ Natomiast wiedząc, że zwykle do risotto kucharze dodają śmietanę uważa, ż
 <br />&ensp;&ensp;&ensp;
 Na sam koniec Istota dostała deser. Na szczęście nie bardzo słodki,
 ale z za dużą ilością przypraw korzennych, co nieco przeszkadzało.
-Po deserze nastąpiło stopniowe zapalanie światła oraz zademonstrowanie potraw. Prezentowały się one bardzo ładnie.
+Po deserze nastąpiło stopniowe zapalanie światła oraz demonstrowanie potraw. Prezentowały się one bardzo ładnie.
 
 Ogólnie bardzo udany wieczór, jedzenie pyszne, całkiem duże porcje, jak na degustację.
  Do kolacji podano kieliszek białego wina oraz wodę. Obsługa na wysokim poziomie, miła i pomocna.
@@ -79,8 +79,8 @@ Ogólnie bardzo udany wieczór, jedzenie pyszne, całkiem duże porcje, jak na d
 6. Stosunek jakości do ceny: **50/50** - 149 zł/os za 6 dań plus kieliszek wina i woda, wszystko dobrej jakości
 7. Podejście do komplikacji żywieniowych: **30/30** - Istota mogła zjeść smaczne i dostosowane pod jej ograniczenia żywieniowe dania
 
-## W sumie Appasionata za kolację w ciemności otrzymuje punktów: **225/250**
-Link do [Appasionaty]
+## W sumie Appassionata za kolację w ciemności otrzymuje punktów: **225/250**
+Link do [Appassionaty]
 
 Adres:
 ul. Anieli Krzywoń 1,
@@ -88,4 +88,4 @@ ul. Anieli Krzywoń 1,
 
 _Obrazek tytułowy: Policzki wołowe_
 
-[Appasionaty]: https://appassionata.com.pl/
+[Appassionaty]: https://appassionata.com.pl/
