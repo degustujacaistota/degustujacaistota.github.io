@@ -4,8 +4,6 @@ title: O Degustującej Istocie
 permalink: /about/
 ---
 
-
-
 Chodzi ona sobie razem z innymi Degustującymi Istotami po restauracjach.
 Jada w nich, zdjęcia robi a potem opisuje, co degustowała. Stara się oceną nikogo nie krzywdzić, a jedynie naświetlić to, co można by poprawić.
 Nie spodziewajcie się pięknych, okrągłych zdań i poprawnej gramatyki. Stara się, ale to nie jest jej mocna strona.
@@ -35,11 +33,18 @@ Degustującej Istocie. Może być odebrane za złamanie serca.
 <center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
-Techniczne informacje: Zdjęcie na stronie główniej Degustująca Istota zrobiła w restauracji Umami w Pyskowicach.
+### Tagi
+Pod każdym artykułem znajduje się lista tagów, dzięki którym Istota pogrupowała wpisy.
+Tagi: Michelin_guide oraz Gault_Millau są umieszczone przy restauracjach, które zostały wspomniane w tych
+przewodnikach.
+
+### Techniczne informacje
+Zdjęcie na stronie głównej Degustująca Istota zrobiła w restauracji Umami w Pyskowicach.
 Wszystkie inne zdjęcia i grafiki też zrobiła ona i są jej własnością.
 Blog zrobiła na podstawie motywu [Sleek], który używa statycznego generatora stron [Jekyll].
 Jak masz ochotę, to możesz napisać mail do [Degustującej Istoty](mailto:{{site.email}}).
 Dla tych, co nie używają klienta poczty: degustujaca.istota@gmail.com.
+Jednak Istota poleca kontaktować się przez jej fanpage na facebooku - najszybciej odpisze.
 
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
