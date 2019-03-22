@@ -6,10 +6,14 @@ permalink: /about/
 
 Chodzi ona sobie razem z innymi Degustującymi Istotami po restauracjach.
 Jada w nich, zdjęcia robi a potem opisuje, co degustowała. Stara się oceną nikogo nie krzywdzić, a jedynie naświetlić to, co można by poprawić.
-Nie spodziewajcie się pięknych, okrągłych zdań i poprawnej gramatyki. Stara się, ale to nie jest jej mocna strona.
+Nie spodziewajcie się pięknych, okrągłych zdań i poprawnej gramatyki. To nie jest jej mocna strona.
 Zawodowo też testuje. Jest inżynierem do spraw zapewniania jakości w branży IT.
-Mieszka na Śląsku. Czasem zdarza się jej coś ugotować. Nie jest weganką, ale sympatyzuje z kuchnią roślinną.
+Mieszka na Śląsku. Sympatyzuje z kuchnią roślinną, ale nie jest weganką.
 Medytuje i stara się ogarniać życie jak umie najlepiej.
+
+Nie pisze treści sponsorowanych, zawsze sama (albo z bliskimi Istotami) wybiera co i gdzie testuje i sama za to płaci.
+Natomiast informacje chętnie zbiera: o nowym menu, o ciekawym wydarzeniu kulinarnym, interesujacych
+produktach itp.
 
 Po co pisze ten blog? Może ktoś się uśmieje, może znajdzie jakieś pyszne danie w którejś z polecanych restauracji.
 Jak ocenia?
