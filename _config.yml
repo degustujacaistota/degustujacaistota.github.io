@@ -44,11 +44,10 @@ permalink: /:title/
 
 compress_html:
   clippings: all
-paginate: 6
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate
 
 collections:
   categories:
