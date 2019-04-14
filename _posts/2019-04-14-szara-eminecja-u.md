@@ -5,7 +5,7 @@ featured-img: golabek_szara_em
 tags: Polska Warszawa Restauracja Restaurant_week Szara_eminencja_Ursynów
 ---
 Szara Eminencja na Ursynowie skusiła swoim wegetariańskim menu, wybredną
-Degustująca Istotę i przyszła ona tam na kolejną festiwalową ucztę w okazji Restaurant Week.
+Degustującą Istotę i przyszła ona tam na kolejną festiwalową ucztę w okazji Restaurant Week.
 
 Lokal jest ładnie położony, pośród zieleni. Wnętrze jest eleganckie, ale “na luzie”.
 
@@ -21,7 +21,7 @@ Istota zaczęła od Carpaccio z buraka z hummusem pistacjowym.
 </div></center>
 <br />
 
-Gołąbki z kasztanami i kaszą gryczaną było następnym daniem.
+Gołąbki z kasztanami i kaszą gryczaną były następnym daniem.
  Przyozdobione kłębowiskiem chrustu z makaronu ryżowego i polane salsą concasse.
  To danie zrobiło na Istocie wrażenie, bo wyglądało bardzo oryginalnie. Smak też był dobry,
  ale kasztany trudno było wyczuć. Chrust był smaczny i świetnie chrupał, ale jako dodatek do obiadu sprawiał wiele
