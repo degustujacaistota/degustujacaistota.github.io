@@ -1,0 +1,85 @@
+---
+#
+# You don't need to edit this file, it's empty on purpose.
+# Edit sleeks's default layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: compress
+title: Degustująca Istota
+---
+<html lang="{{ page.lang | default: site.lang | default: "en_US" }}">
+
+{% include head.html %}
+
+<body class="site">
+
+{% if site.google_tag_manager %}
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+{% endif %}
+
+{% include header.html %}
+
+<div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/main.jpg">
+    <div class="hero__wrap">
+        <h1 class="hero__title">Degustująca istota</h1>
+        <p class="hero__meta">“Money, pardon the expression, is like manure. It's not worth a thing unless it's spread around, encouraging young things to grow.”
+            Hello Dolly
+        </p>
+    </div>
+</div>
+
+<main class="site__content">
+    <section class="blog">
+        <div class="container">
+            <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+                {% for post in paginator.posts %}
+                {% include card.html %}
+                {% endfor %}
+
+                <!-- {% include pagination.html %} -->
+            </div>
+        </div>
+    </section>
+</main>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Poprzednia</a>
+  {% else %}
+    <span>&laquo; Poprzednia</span>
+  {% endif %}
+  &nbsp;
+
+  {% for page in (1..paginator.total_pages) %}
+    &nbsp;
+    {% if page == paginator.page %}
+    [<em>{{ page }}</em>]
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">[{{ page }}]</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">[{{ page }}]</a>
+    {% endif %}
+    &nbsp;
+  {% endfor %}
+
+  &nbsp;
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Następna &raquo;</a>
+  {% else %}
+    <span>Następna &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+
+{% include footer.html %}
+
+</body>
+
+</html>
