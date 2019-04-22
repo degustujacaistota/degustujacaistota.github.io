@@ -54,6 +54,16 @@ layout: compress
 
       <div class="post-content controls__inner tags">
         <div class="tags">
+          {% assign restaurant = page.restaurant %}
+          Restauracja:
+          <a href="{{ site.baseurl }}/restaurants/{{ restaurant }}">{{ restaurant }}</a>
+        </div>
+        <div class="tags">
+          {% assign location = page.location %}
+          Miejscowość:
+          <a href="{{ site.baseurl }}/locations/{{ location }}">{{ location }}</a>
+        </div>
+        <div class="tags">
           {% assign tags = page.tags | sort %}
           Tagi:
           {% for tag in tags %}
