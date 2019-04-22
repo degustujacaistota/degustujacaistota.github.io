@@ -2,7 +2,7 @@
 layout: post
 title: Szara Eminencja(Ursynów)- Restaurant Week -*Warszawa*
 featured-img: golabek_szara_em
-tags: Polska Warszawa Restauracja Restaurant_week Szara_eminencja_Ursynów
+tags: Polska Warszawa Restauracja Restaurant_week Szara_eminencja_Ursynów Gault_Millau
 ---
 Szara Eminencja na Ursynowie skusiła swoim wegetariańskim menu, wybredną
 Degustującą Istotę i przyszła ona tam na kolejną festiwalową ucztę w okazji Restaurant Week.
