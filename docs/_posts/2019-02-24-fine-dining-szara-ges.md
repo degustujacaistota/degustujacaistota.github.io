@@ -2,7 +2,9 @@
 layout: post
 title: Fine Dining w Szara Gęś - *Kraków*
 featured-img: fine_szara_ges
-tags: Kraków Polska Fine_dining Fine_dining_week Restauracja Szara_gęś Gault_Millau
+tags: Polska Fine_dining Fine_dining_week Restauracja Gault_Millau
+restaurant: Szara_gęś
+location: Kraków
 ---
 To prawda, że Degustująca Istota została rozpieszczona przez doskonałe restauracje w których bywa i
  kiedy idzie na kolację degustacyjną w ramach Fine Dining Week oczekuje najwyższej jakości zarówno potraw, jak i obsługi.

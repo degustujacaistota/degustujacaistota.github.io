@@ -2,7 +2,9 @@
 layout: post
 title: Walentynkowe Momo - *Gliwice*
 featured-img: momo
-tags: Gliwice Polska Walentynki Śląsk Momo Wesoły_bakłażan
+tags: Polska Walentynki Śląsk Wesoły_bakłażan
+restaurant: Momo
+location: Gliwice
 ---
 
  Momo Restaurant & Wine mieści się w centrum rynku w Gliwicach. Degustująca Istota była tam już wiele razy, 

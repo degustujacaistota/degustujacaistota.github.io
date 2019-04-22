@@ -2,7 +2,9 @@
 layout: post
 title: Kolacja w ciemności - *Radzionków*
 featured-img: poliki_app
-tags: Polska Śląsk Radzionków Restauracja Appassionata Kolacja_w_ciemności Gault_Millau
+tags: Polska Śląsk Restauracja Kolacja_w_ciemności Gault_Millau
+restaurant: Appassionata
+location: Radzionków
 ---
 Kolacja w ciemności w której wzięła udział Degustująca Istota została zorganizowana przez restaurację Appassionata.
 Na początku wydarzenia moderator udzielił wyjaśnień, żeby wyłączyć telefony oraz schować zegarki,

@@ -2,7 +2,9 @@
 layout: post
 title: Shrimp House - królestwo krewetek-*Katowice*
 featured-img: ShrimpHouse
-tags: Katowice Polska Bar Śląsk Owoce_morza Shrimp_house
+tags: Polska Bar Śląsk Owoce_morza
+restaurant: Shrimp_house
+location: Katowice
 ---
 
 
