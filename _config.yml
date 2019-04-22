@@ -51,8 +51,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+collections_dir: docs
 collections:
   categories:
     output: true
   tags:
+    output: true
+  points:
+    output: true
+  restaurants:
+    output: true
+  locations:
     output: true
