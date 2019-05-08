@@ -13,7 +13,7 @@ Kontynuując przygodę na Restaurant Week, Istotę zainteresowała Kuchnia Otwar
 Powitanie było bardzo miłe. Obsługa starała się, aby gość czuł się zaopiekowany.
 Na początek Degustujące Istoty dostały chlebek z masłem, aby umilić im czekanie na potrawy.
 <br />&ensp;&ensp;&ensp;
-<center><div style="width:45%">
+<center><div style="width:65%">
  <img src="{{site.url}}/assets/img/posts/kuchnia_otwarta.jpg" alt="Kromki chleba, jako czekadełko" height="200px" width="40px" />
  <font size="2">
     Amuse-bouche w postaci kromek chleba z masłem.
@@ -21,9 +21,9 @@ Na początek Degustujące Istoty dostały chlebek z masłem, aby umilić im czek
 </div></center>
 <br />
 
-Istota wybrała menu wegetariańskie i niestety musi przyznać, że było ono dość ubogie i przyrządzanie
+Istota wybrała menu wegetariańskie i&nbsp;niestety musi przyznać, że&nbsp;było ono dość ubogie i&nbsp;przyrządzanie
 go było znacznie mniej spektakularne, niż wersji mięsnej. Na szczęście jedna z Istot,
- która była przy stoliku jest wybitnym mięsożercą i wszyscy mogli się nacieszyć buchającymi obok płomieniami z przygotowania wątróbki z królika.
+ która była przy stoliku jest wybitnym mięsożercą i&nbsp;wszyscy mogli się nacieszyć buchającymi obok płomieniami z&nbsp;przygotowania wątróbki z królika.
 
 Istoty wegetariańskie uraczone zostały, burakami Hrabiego Tyszkiewicza. Które były całkiem smaczne.
 <br />&ensp;&ensp;&ensp;
@@ -35,7 +35,7 @@ Istoty wegetariańskie uraczone zostały, burakami Hrabiego Tyszkiewicza. Które
 </div></center>
 <br />
 
-Kolejnym daniem były całkiem dobre gołąbki z kaszą i grzybami w sosie śmietanowo grzybowym.
+Kolejnym daniem były całkiem dobre gołąbki z&nbsp;kaszą i&nbsp;grzybami w&nbsp;sosie śmietanowo grzybowym.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
  <img src="{{site.url}}/assets/img/posts/golabki_ko.jpg" alt="Gołąbki z kaszą gryczaną i grzybami" height="200px" width="40px" />
@@ -45,7 +45,7 @@ Kolejnym daniem były całkiem dobre gołąbki z kaszą i grzybami w sosie śmie
 </div></center>
 <br />
 
-Jako deser podano sorbet jabłkowy z cydrem i bezą. Również smaczny, prosty deser.
+Jako deser podano sorbet jabłkowy z cydrem i&nbsp;bezą. Również smaczny, prosty deser.
 <center><div style="width:55%">
  <img src="{{site.url}}/assets/img/posts/sorbet_ko.jpg" alt="Sorbet jabłkowy w pucharku z bezą" height="200px" width="40px" />
 
@@ -55,9 +55,9 @@ Sorbet z cydrem, bezą i dodatkiem mięty.
 </div></center>
 <br />&ensp;&ensp;&ensp;
 
-Rzeczywiście warto się wybrać do Kuchni Otwartej i zobaczyć jak  wygląda serwis francuski,
+Rzeczywiście warto się wybrać do Kuchni Otwartej i&nbsp;zobaczyć jak  wygląda serwis francuski,
  bo nie spotyka się tego często. Jest on sam w sobie ciekawą atrakcją.
- Dania są proste i klasyczne, ale smaczne. Ceny w menu są przystępne.
+ Dania są proste i&nbsp;klasyczne, ale smaczne. Ceny w menu są przystępne.
  Istota chętnie jeszcze raz tam wróci spróbować kaczki :D .
 
 ### Podsumowanie :
@@ -66,16 +66,16 @@ Rzeczywiście warto się wybrać do Kuchni Otwartej i zobaczyć jak  wygląda se
 3. Atmosfera: **30/30**
 4. Wystrój/czystość: **30/30**
 5. Obsługa: **30/30**
-6. Stosunek jakości do ceny: **50/50** - stała cena z uwagi na festiwal
+6. Stosunek jakości do ceny: **50/50** - stała cena z&nbsp;uwagi na festiwal
 7. Podejście do komplikacji żywieniowych: **20/30** - odnośnie stałego menu - są dania wegetariańskie
 
-## W sumie Kuchnia Otwarta otrzymuje punktów: **220/250!!!**
+## W sumie Kuchnia Otwarta otrzymuje punktów: **220/250**
 Link do [Kuchnia Otwarta]
 
-Adres: Hotel Park Inn by Radisson Katowice
-ul. Bytkowska 1a
+Adres: Hotel Park Inn by Radisson Katowice,
+ul. Bytkowska 1a,
 40-147 Katowice
 
-_Obrazek tytułowy: Gołąbki w sosie grzybowym_
+_Obrazek tytułowy: Gołąbki w&nbsp;sosie grzybowym_
 
 [Kuchnia Otwarta]: https://www.kuchniaotwarta.eu/
