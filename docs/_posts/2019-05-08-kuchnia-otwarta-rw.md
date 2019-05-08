@@ -25,7 +25,7 @@ Istota wybrała menu wegetariańskie i&nbsp;niestety musi przyznać, że&nbsp;by
 go było znacznie mniej spektakularne, niż wersji mięsnej. Na szczęście jedna z Istot,
  która była przy stoliku jest wybitnym mięsożercą i&nbsp;wszyscy mogli się nacieszyć buchającymi obok płomieniami z&nbsp;przygotowania wątróbki z królika.
 
-Istoty wegetariańskie uraczone zostały, burakami Hrabiego Tyszkiewicza. Które były całkiem smaczne.
+Istoty wegetariańskie uraczone zostały, burakami Hrabiego Tyszkiewicza. Były one całkiem smaczne.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
  <img src="{{site.url}}/assets/img/posts/buraczki_ko.jpg" alt="Buraki z sosem chrzanowym" height="200px" width="40px" />
@@ -56,8 +56,10 @@ Sorbet z cydrem, bezą i dodatkiem mięty.
 <br />&ensp;&ensp;&ensp;
 
 Rzeczywiście warto się wybrać do Kuchni Otwartej i&nbsp;zobaczyć jak  wygląda serwis francuski,
- bo nie spotyka się tego często. Jest on sam w sobie ciekawą atrakcją.
- Dania są proste i&nbsp;klasyczne, ale smaczne. Ceny w menu są przystępne.
+ bo nie spotyka się tego często. Jest on sam w&nbsp;sobie ciekawą atrakcją. W&nbsp;iększości potrawy są dokańczane
+ zaraz przy stoliku gościa, który może obserwować cały proces i&nbsp; podziwiać kunszt kucharza. Gdy dania są gotowe,
+ zostają nałożone na talerz leżący już przed gościem.
+ Same dania są proste i&nbsp;klasyczne, ale smaczne. Ceny w&nbsp;menu są przystępne.
  Istota chętnie jeszcze raz tam wróci spróbować kaczki :D .
 
 ### Podsumowanie :
