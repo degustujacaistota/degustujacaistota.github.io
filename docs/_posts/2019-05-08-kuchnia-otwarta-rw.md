@@ -56,22 +56,22 @@ Sorbet z cydrem, bezą i dodatkiem mięty.
 <br />&ensp;&ensp;&ensp;
 
 Rzeczywiście warto się wybrać do Kuchni Otwartej i&nbsp;zobaczyć jak  wygląda serwis francuski,
- bo nie spotyka się tego często. Jest on sam w&nbsp;sobie ciekawą atrakcją. W&nbsp;iększości potrawy są dokańczane
+ bo nie spotyka się tego często. Jest on sam w&nbsp;sobie ciekawą atrakcją. W&nbsp;większości potrawy są dokańczane
  zaraz przy stoliku gościa, który może obserwować cały proces i&nbsp; podziwiać kunszt kucharza. Gdy dania są gotowe,
  zostają nałożone na talerz leżący już przed gościem.
  Same dania są proste i&nbsp;klasyczne, ale smaczne. Ceny w&nbsp;menu są przystępne.
  Istota chętnie jeszcze raz tam wróci spróbować kaczki :D .
 
 ### Podsumowanie :
-1. Smak potraw: **40/50**
+1. Smak potraw: **35/50**
 2. Prezentacja potraw: **20/30**
 3. Atmosfera: **30/30**
 4. Wystrój/czystość: **30/30**
 5. Obsługa: **30/30**
-6. Stosunek jakości do ceny: **50/50** - stała cena z&nbsp;uwagi na festiwal
-7. Podejście do komplikacji żywieniowych: **20/30** - odnośnie stałego menu - są dania wegetariańskie
+6. Stosunek jakości do ceny: **50/50** - cena festiwalowa
+7. Podejście do komplikacji żywieniowych: **20/30**
 
-## W sumie Kuchnia Otwarta otrzymuje punktów: **220/250**
+## W sumie Kuchnia Otwarta otrzymuje punktów: **215/250**
 Link do [Kuchnia Otwarta]
 
 Adres: Hotel Park Inn by Radisson Katowice,
