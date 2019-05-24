@@ -3,6 +3,7 @@ layout: post
 title: Taste Masters - Smakowanie w Wilanowie
 featured-img: tm_pijana_koza
 tags: Polska Warszawa Restauracja Gault_Millau
+restaurant: Villa_intrata
 location: Warszawa
 ---
 Istota nie miała pojęcia jak będzie Taste Masters wyglądać. Wiedziała tylko,
@@ -13,7 +14,8 @@ Degustująca Istota odwiedziła kilkanaście polecanych przez ten przewodnik res
 i w znacznej większości była zadowolona z prezentowanego tam poziomu. Dlatego postanowiła wybrać się na
 Taste Masters i była to dobra decyzja.
 
-Degustacje odbywały się w pięknej Villi Intrata należącej do Muzeum Jana III Sobieskiego w Wilanowie.
+Degustacje odbywały się w pięknej Villi Intrata należącej do Muzeum Jana III Sobieskiego w Wilanowie, które było
+współorganizatorem imprezy.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
  <img src="{{site.url}}/assets/img/posts/tm_villa_intrata.jpg" alt="Wilanów, Villa Intrata od frontu" height="200px" width="40px" />
@@ -68,7 +70,7 @@ które ją zachwyciły i o których chciałaby Ci opowiedzieć.
 <center><div style="width:55%">
  <img src="{{site.url}}/assets/img/posts/tm_risotto.jpg" alt="Team Kurta Schellera i sam Szef podający risotto" height="200px" width="40px" />
  <font size="2">
- Wspaniały Szef i jego przemiła drużyna zaserwowali genialne risotto z cukinią. Idealnie al denta. Istota chętnie się
+ Wspaniały Szef i jego przemiła drużyna zaserwowali genialne risotto z cukinią. Idealnie al dente. Istota chętnie się
  wybierze do Akademii Szefa na szkolenie :D
    <b>Szef: Kurt Scheller.</b>
  </font>
@@ -137,7 +139,7 @@ degustację i była nią zachwycona.
 <center><div style="width:45%">
  <img src="{{site.url}}/assets/img/posts/tm_zurek.jpg" alt="Talerzyk z żurkiem i klopsem" height="200px" width="40px" />
  <font size="2">
-Idealny żurek. Kwaśny z pysznym klopsem z żeberek, z białą kiełbasą i śmietanową sferką. Bardzo Istotanie smakował.
+Idealny żurek. Kwaśny z pysznym klopsem z żeberek, z białą kiełbasą i śmietanową sferką. Bardzo Istocie smakował.
 Istota jeszcze nie dotarła do Śląskiej Prohibicji i musi koniecznie to nadrobić.
    <b>Szef: Magdalena Nowaczewska, Restauracja: Śląska Prohibicja.</b>
  </font>
@@ -162,9 +164,9 @@ doskonale przyrządzone.
 </div></center>
 <br />
 
-To był świetny weekend. Zjeść tyle pyszności! Poznać tyle wspaniałych osób!
-Istota dziękuje organizatorom, że w Polsce mogło się odbyć takie niesamowite
- wydarzenie kulinarne i ma nadzieję, że będzie ich więcej.
+To był rewelacyjny weekend. Zjeść tyle pyszności! Poznać tyle wspaniałych osób!
+Istota dziękuje za to, że w Polsce mogło się odbyć takie niesamowite
+ wydarzenie kulinarne i ma nadzieję na więcej.
 
 _Obrazek tytułowy: Sernik Pijana Koza_
 
