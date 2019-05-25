@@ -7,15 +7,15 @@ restaurant: Villa_intrata
 location: Warszawa
 ---
 Istota nie miała pojęcia jak będzie Taste Masters wyglądać. Wiedziała tylko,
-że będzie mogła spróbować ponad 50 dań w dwa dni, zaserwowanych przez znanych i uznanych szefów kuchni.
+że będzie mogła spróbować 50 dań w dwa dni, zaserwowanych przez znanych i uznanych szefów kuchni.
 Wydarzenie zostało zorganizowane przez prestiżowy żółty przewodnik po restauracjach Gault & Millau (czyt. Gao e mijo),
  który przyznaje 1 do 5 czapek szefa kuchni ocenionym restauracjom.
 Degustująca Istota odwiedziła kilkanaście polecanych przez ten przewodnik restauracji
 i w znacznej większości była zadowolona z prezentowanego tam poziomu. Dlatego postanowiła wybrać się na
 Taste Masters i była to dobra decyzja.
 
-Degustacje odbywały się w pięknej Villi Intrata należącej do Muzeum Jana III Sobieskiego w Wilanowie, które było
-współorganizatorem imprezy.
+Degustacje odbywały się w pięknej Villi Intrata należącej do Muzeum Jana III w Wilanowie, które było
+współorganizatorem imprezy. Wydarzenie odbyło się 11-12 maja 2019.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
  <img src="{{site.url}}/assets/img/posts/tm_villa_intrata.jpg" alt="Wilanów, Villa Intrata od frontu" height="200px" width="40px" />
@@ -26,10 +26,9 @@ współorganizatorem imprezy.
 <br />
 
 Szefowie kuchni przygotowywali i wydawali potrawy w specjalnie przygotowanych namiotach,
-gdzie można było pooglądać jak pracują i zamienić z nimi kilka słów. W samej Villi odbywały się warsztaty,
-oraz można było posmakować wina i piwa.
+gdzie można było pooglądać jak pracują i zamienić z nimi kilka słów. W samej Villi odbywały się warsztaty.
 
-Przejdźmy do konkretów! Ponieważ dań było tak wiele, Istota postanowiła przedstawić tylko te niezwykłe,
+Przejdźmy do konkretów! Ponieważ dań było tak wiele, Istota postanowiła przedstawić tylko te, niezwykłe,
 które ją zachwyciły i o których chciałaby Ci opowiedzieć.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
@@ -79,7 +78,7 @@ które ją zachwyciły i o których chciałaby Ci opowiedzieć.
 <center><div style="width:55%">
  <img src="{{site.url}}/assets/img/posts/tm_szpik.jpg" alt="Szpik i świeca wołowa z gremolatą" height="200px" width="40px" />
  <font size="2">
- To było wyzwanie, bo Istota wcześniej nie jadła Szpiku ani Świecy wołowej, ale jedno i drugie bardzo jej smakowało.
+ To było wyzwanie, bo Istota wcześniej nie jadła szpiku ani świecy wołowej, ale jedno i drugie bardzo jej smakowało.
  Pieczony szpik rozsmarowany na bagietce był genialny. Do tego sos bordelaise i rzodzkiewkowa gremolata.
    <b>Szef: Adam Chrząstkowski.</b>
  </font>
@@ -163,13 +162,24 @@ doskonale przyrządzone.
  </font>
 </div></center>
 <br />
+<center><div style="width:55%">
+ <img src="{{site.url}}/assets/img/posts/tm_kielbaska.jpg" alt="Kiełbaska z grilla w kawałkach z sałatką" height="200px" width="40px" />
+ <font size="2">
+Kiełbaska z grilla w genialnym wydaniu. Sałatka była zbędna ;) 
+   <b>Szef: Aleksander Baron, Restauracja: Zoni</b>
+ </font>
+</div></center>
+<br />
 
 To był rewelacyjny weekend. Zjeść tyle pyszności! Poznać tyle wspaniałych osób!
 Istota dziękuje za to, że w Polsce mogło się odbyć takie niesamowite
  wydarzenie kulinarne i ma nadzieję na więcej.
 
+ Link do [Taste Masters] na Facebooku
+
 _Obrazek tytułowy: Sernik Pijana Koza_
 
+[Taste Masters]: https://www.facebook.com/events/2033694020081687/
 
 
 
