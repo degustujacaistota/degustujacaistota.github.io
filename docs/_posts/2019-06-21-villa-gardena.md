@@ -24,7 +24,7 @@ Trzeba pobrać bilecik przy wjeździe, ale&nbsp;przy wyjściu z&nbsp;restauracji
 </div></center>
 <br />
 
-Po złożeniu zamówienia Istota została uraczona świetny chlebkiem na zakwasie z&nbsp;masłem i&nbsp;solą.
+Po złożeniu zamówienia Istota została uraczona świetnym chlebkiem na zakwasie z&nbsp;masłem i&nbsp;solą.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
  <img src="{{site.url}}/assets/img/posts/chlebek_vgardena.jpg" alt="Kromki chleba z masłem opruszonym solą"
