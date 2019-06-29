@@ -2,7 +2,7 @@
 layout: post
 title: Villa Gardena - Urzekająca - *Katowice*
 featured-img: vgardenapoliki
-tags: Polska Restauracja Gault_Millau Wesoły_bakłażan
+tags: Polska Restauracja Gault_Millau Wesoły_bakłażan Poland_100_best_restaurants
 restaurant: Villa_gardena
 location: Katowice
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Umami i chrobotkowy deser -*Pyskowice*
 featured-img: chrobotek
-tags: Polska Śląsk Restauracja Gault_Millau
+tags: Polska Śląsk Restauracja Gault_Millau Poland_100_best_restaurants
 restaurant: Umami
 location: Pyskowice
 ---
