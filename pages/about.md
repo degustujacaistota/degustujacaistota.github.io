@@ -19,13 +19,13 @@ Po co pisze ten blog? Może ktoś się uśmieje, może znajdzie jakieś pyszne d
 Jak ocenia?
 
 ### Ocenie podlegają:
-1. Smak potraw 0-50 pkt
-2. Prezentacja potraw 0-30 pkt
-3. Atmosfera 0-30 pkt
-4. Wystrój / Czystość 0-30 pkt
-5. Obsługa 0-30 pkt
-6. Stosunek jakości do ceny 0-50 pkt
-7. Podejście do komplikacji żywieniowych  0-30 pkt
+1. Smak potraw
+2. Prezentacja potraw
+3. Atmosfera
+4. Wystrój / Czystość
+5. Obsługa
+6. Stosunek jakości do ceny
+7. Podejście do komplikacji żywieniowych
 
 Maksymalnie restauracja/bistro/bar może otrzymać 250 pkt.
 
