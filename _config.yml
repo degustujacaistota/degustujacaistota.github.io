@@ -26,6 +26,7 @@ social:
 
 # Build settings
 markdown: kramdown
+#markdown: CommonMarkGhPages
 highlighter: rouge # or pygments or null
 exclude:
   - README.md
@@ -48,8 +49,28 @@ compress_html:
   clippings: all
 
 plugins:
-  - jekyll-sitemap
+  - jekyll-avatar
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-remote-theme
+  - jekyll-sass-converter
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+
+jekyll-mentions:
+  base_url: https://www.instagram.com
+#  base_url: https://www.facebook.com
 
 collections_dir: docs
 collections:
