@@ -19,15 +19,24 @@ Po co pisze ten blog? Może ktoś się uśmieje, może znajdzie jakieś pyszne d
 Jak ocenia?
 
 ### Ocenie podlegają:
-1. Smak potraw 0-50 pkt
-2. Prezentacja potraw 0-30 pkt
-3. Atmosfera 0-30 pkt
-4. Wystrój / Czystość 0-30 pkt
-5. Obsługa 0-30 pkt
-6. Stosunek jakości do ceny 0-50 pkt
-7. Podejście do komplikacji żywieniowych  0-30 pkt
+1. Smak potraw
+2. Prezentacja potraw
+3. Atmosfera
+4. Wystrój / Czystość
+5. Obsługa
+6. Stosunek jakości do ceny
+7. Podejście do komplikacji żywieniowych
 
 Maksymalnie restauracja/bistro/bar może otrzymać 250 pkt.
+
+### Dodatkowo oceniane są potrawy.
+Danie może dostać od 0 do 5 bakłażanów.
+* 0 bakłażanów - nie jadalne
+* 1 bakłażan - da się zjeść
+* 2 baklążany - dobre
+* 3 bakłażany - pyszne
+* 4 bakłażany - wspaniałe
+* 5 bakłażanów - fenomenalne, zaskakujące, genialne!
 
 ### Odznaczenie specjalne
 Odznaka wesołego bakłażana - najwyższe wyróżnienie. Nadawane, gdy restauracja skradnie serce
