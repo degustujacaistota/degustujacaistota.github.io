@@ -186,6 +186,7 @@ Kiełbaska z&nbsp;grilla w&nbsp;genialnym wydaniu. Sałatka była zbędna ;)
 </div></center>
 <br />
 
+### Podsumowanie :
 To był rewelacyjny weekend. Zjeść tyle pyszności! Poznać tyle wspaniałych osób!
 Istota dziękuje za to, że w Polsce mogło się odbyć takie niesamowite
  wydarzenie kulinarne i&nbsp;ma nadzieję na więcej.

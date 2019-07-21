@@ -5,6 +5,7 @@ featured-img: chrobotek
 tags: Polska Śląsk Restauracja Gault_Millau Poland_100_best_restaurants
 restaurant: Umami
 location: Pyskowice
+points: 230
 ---
 Kolejny pobyt Degustującej Istoty w Umami był bardzo udany.
 Sezonowe menu okazało się niezwykle interesujące, również dania ze stałej karty świetnie smakowały.
@@ -64,21 +65,14 @@ Na koniec coś, co skłoniło Istotę, aby ponownie odwiedzić Umami.
   (zdjęcie tytułowe). Doskonały deser i nie bardzo słodki. Gładki kasztanowy krem wspaniale grał z
    chrupiącym chrobotkiem i lekko kwaskowatą emulsją buraczaną.
 
+### Podsumowanie :
+
 Za tak wspaniałe wrażenia i świetne pomysły Degustująca Istota przyznaje order “Wesołego Bakłażana”!
 <center><div style="width:30%">
    <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
-### Podsumowanie :
-1. Smak potraw: **45/50** - minus za bulion, reszta super
-2. Prezentacja potraw: **30/30** - piękna
-3. Atmosfera: **30/30** - relaksująca, spokojna
-4. Wystrój/czystość: **30/30** - bardzo ładny
-5. Obsługa: **30/30** - profesjonalna i miła
-6. Stosunek jakości do ceny: **45/50** - dość drogo, ale świetne składniki
-7. Podejście do komplikacji żywieniowych: **10/30** - Dania Wege się znajdą, ale wegańskie już gorzej. Brak oznaczeń alergenów i wege, wegan.
-
-## W sumie Umami otrzymuje punktów: **230/250!**
+## Umami otrzymuje punktów: **230/250!**
 Link do [Umami]
 
 Adres: Pyskowice

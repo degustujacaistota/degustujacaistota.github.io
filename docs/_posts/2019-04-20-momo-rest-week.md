@@ -5,6 +5,7 @@ featured-img: deser_momo
 tags: Polska Śląsk Restauracja Restaurant_week
 restaurant: Momo
 location: Gliwice
+points: 235
 ---
 Momo Istota odwiedziła wiele razy i teraz też chętnie tam wstąpiła z okazji Restaurant Week.
  Oczekiwania Istoty były duże, bo wiele razy Momo udowodniło, że potrafi zaserwować kreatywne i smaczne dania.
@@ -51,16 +52,8 @@ Co dla Istoty jest plusem, jak chodzi o desery.
 <br />&ensp;&ensp;&ensp;
 
 ### Podsumowanie :
-1. Smak potraw: **40/50** - minus za buraki i deser
-2. Prezentacja potraw: **30/30** - piękna
-3. Atmosfera: **30/30** - bardzo miła, relaksująca
-4. Wystrój/czystość: **30/30** - Bardzo ładna ceramika i wnętrze
-5. Obsługa: **30/30** - profesjonalna i uprzejma
-6. Stosunek jakości do ceny: **50/50** - stała cena z uwagi na festiwal
-7. Podejście do komplikacji żywieniowych: **25/30** - Menu z oznaczonymi alergenami i obsługa.
- Przydałoby się jeszcze oznaczyć dania vege i vegan.
 
-## W sumie  Momo za nowe menu otrzymuje punktów: **235/250!!!**
+## Momo za nowe menu otrzymuje punktów: **235/250!!!**
 Link do [Momo]
 
 Adres:

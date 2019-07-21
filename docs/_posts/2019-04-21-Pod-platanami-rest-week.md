@@ -5,6 +5,7 @@ featured-img: czarne_tagliatelle
 tags: Polska Śląsk Restauracja Restaurant_week Gault_Millau
 restaurant: Pod_platanami
 location: Zbrosławice
+points: 195
 ---
 Istotę znowu skusiło interesujące menu festiwalowe i zawitała do restauracji Pod Platanami w Zbrosławicach
  koło Tarnowskich Gór. Budynek to odrestaurowany zabytek. W środku jest przestronnie i klimatycznie.
@@ -70,20 +71,11 @@ Krewetki duszone w białym winie. Podane z chlebem i rukolą.
 </div></center>
 <br />&ensp;&ensp;&ensp;
 
-Ogólnie restauracja jest bardzo ciekawa i podają smaczne i cenowo rozsądne potrawy.
+### Podsumowanie :
+Ogólnie restauracja jest bardzo ciekawa i podają smaczne oraz cenowo rozsądne potrawy.
 Istotę martwi jedynie długa karta, która nie jest zachęcająca.
 
-### Podsumowanie :
-1. Smak potraw: **35/50** - minus za ravioli, deser i krewetki
-2. Prezentacja potraw: **20/30** - niektóre potrawy bardzo ładne
-3. Atmosfera: **25/30** - duża otwarta sala, przydałoby się więcej przepierzeń
-4. Wystrój/czystość: **30/30** - Ładne wnętrze, czysto
-5. Obsługa: **25/30** - uprzejma i pomocna, czasem zapominała opowiadać o podanym potrawach
-6. Stosunek jakości do ceny: **50/50** - stała cena z uwagi na festiwal oraz dobra cena przystawek
-7. Podejście do komplikacji żywieniowych: **10/30** - wegetarianie i weganie nie mają tu za bardzo co zjeść.
- Brak informacji o alergenach w menu.
-
-## W sumie Pod Platanami otrzymuje punktów: **195/250**
+## Pod Platanami otrzymuje punktów: **195/250**
 Link do [Pod Platanami]
 
 Adres: ul. Księżoleśna 1
