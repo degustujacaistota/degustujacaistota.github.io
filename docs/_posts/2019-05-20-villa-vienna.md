@@ -5,6 +5,7 @@ featured-img: rolada_w_klusce
 tags: Polska Śląsk Restauracja Restaurant_week Wesoły_bakłażan
 restaurant: Villa_vienna
 location: Bytom
+points: 230
 ---
 Villa Vienna to niezwykła restauracja. Istota miała przyjemność ją odwiedzić zarówno z&nbsp;okazji Restaurant Week,
  jak i&nbsp;zwyczajnie na obiad. Obie te wizyty były bardzo udane.
@@ -69,6 +70,7 @@ Tagliatelle z krewetkami i pomidorkami z dużą ilością sera.
 </div></center>
 <br />&ensp;&ensp;&ensp;
 
+### Podsumowanie :
 Dużym plusem restauracji Villa Vienna jest duży parking, bo w&nbsp;tej okolicy bardzo trudno jest zaparkować.
 Obsługa bardzo miła i&nbsp;profesjonalna.
 Za całość tych wszystkich pysznych dań Villa Vienna otrzymuje Odznakę Wesołego Bakłażana! Istota Gratuluje :D
@@ -76,16 +78,7 @@ Za całość tych wszystkich pysznych dań Villa Vienna otrzymuje Odznakę Weso�
    <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
-### Podsumowanie :
-1. Smak potraw: **45/50**
-2. Prezentacja potraw: **25/30**
-3. Atmosfera: **30/30**
-4. Wystrój/czystość: **30/30**
-5. Obsługa: **30/30**
-6. Stosunek jakości do ceny: **50/50**
-7. Podejście do komplikacji żywieniowych: **20/30** - odnośnie stałego menu - są dania wegetariańskie
-
-## W sumie Villa Vienna otrzymuje punktów: **230/250!!!**
+## Villa Vienna otrzymuje punktów: **230/250!!!**
 Link do [Villa Vienna]
 
 Adres:ul. Wrocławska 62, Bytom
