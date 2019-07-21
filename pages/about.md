@@ -3,10 +3,12 @@ layout: page
 title: O Degustującej Istocie
 permalink: /about/
 ---
-
-Chodzi ona sobie razem z innymi Degustującymi Istotami po restauracjach.
-Jada w nich, zdjęcia robi a potem opisuje, co degustowała. Stara się oceną nikogo nie krzywdzić, a jedynie naświetlić to, co można by poprawić.
-Nie spodziewajcie się pięknych, okrągłych zdań i poprawnej gramatyki. To nie jest jej mocna strona.
+Degusutjąca Istota chodzi sobie razem z innymi Degustującymi Istotami po restauracjach.
+Jada w nich, zdjęcia robi a potem opisuje, co degustowała. Stara się oceną nikogo nie krzywdzić.
+ Ma świadomość, że obsługa w restautacji często wkłada wiele pracy i serca w to co robi.
+ Istota bardzo tą pracę docenia a zarazem chce być pomocna dla
+tych, którzy szukają poleceń dobrych restauracji.
+Nie spodziewajcie się pięknych, okrągłych zdań i poprawnej gramatyki. To nie jest Istoty mocna strona.
 Zawodowo też testuje. Jest inżynierem do spraw zapewniania jakości w branży IT.
 Mieszka na Śląsku. Sympatyzuje z kuchnią roślinną, ale nie jest weganką.
 Medytuje i stara się ogarniać życie jak umie najlepiej.
@@ -15,7 +17,9 @@ Nie pisze treści sponsorowanych, zawsze sama (albo z bliskimi Istotami) wybiera
 Natomiast informacje chętnie zbiera: o nowym menu, o ciekawym wydarzeniu kulinarnym, interesujacych
 produktach itp.
 
-Po co pisze ten blog? Może ktoś się uśmieje, może znajdzie jakieś pyszne danie w którejś z polecanych restauracji.
+Po co pisze ten blog? Bo ma słabą pamięć :D a kocha pyszne jedzenie i chce móc sobie powspominać, co i gdzie jadła
+i jakie to było pyszne, albo i nie ;) Przy okazji upubliczniając swoje zdanie o restauracji/potrawie chciałaby się przydać tym,
+co szukają poleceń dobrych restauracji.
 Jak ocenia?
 
 ### Ocenie podlegają:
@@ -29,7 +33,7 @@ Jak ocenia?
 
 Maksymalnie restauracja/bistro/bar może otrzymać 250 pkt.
 
-### Dodatkowo oceniane są potrawy.
+### Dodatkowo (od niedawna) oceniane są potrawy.
 Danie może dostać od 0 do 5 bakłażanów.
 * 0 bakłażanów - nie jadalne
 * 1 bakłażan - da się zjeść

@@ -5,6 +5,7 @@ featured-img: amber_room
 tags: Polska Restauracja Gault_Millau Michelin_guide Poland_100_best_restaurants
 restaurant: Amber_room
 location: Warszawa
+ponits: 230
 ---
 
 Warszawska restauracja Amber Room została umieszczona na&nbsp;prestiżowej La Liste 2019,
@@ -91,6 +92,8 @@ Pralinki, jako poczęstunek na koniec obiadu.
 </div></center>
 <br />&ensp;&ensp;&ensp;
 
+### Podsumowanie :
+
 Ogólnie restauracja Amber Room zrobiła na Istocie bardzo dobre wrażenie. Szefem kuchni jest tutaj Lee Jones,
  któremu nie można odmówić profesjonalizmu. Dania były pięknie podane z&nbsp;dbałością o&nbsp;szczegóły,
   a&nbsp;obsługa bardzo miła. Jedyne co się Istocie nie podobało to fakt doliczania 12,5% serwisu do rachunku.
@@ -99,16 +102,6 @@ Ogólnie restauracja Amber Room zrobiła na Istocie bardzo dobre wrażenie. Szef
   do Amber Room z&nbsp;tego powodu.
    W Polsce napiwki są zwyczajowo kwestią uznaniową, która jest sposobem docenienia obsługi i&nbsp;kucharzy.
     Istota wolałaby, aby tak pozostało, bo bardzo lubi dawać napiwki.
-
-### Podsumowanie :
-1. Smak potraw: **45/50**
-2. Prezentacja potraw: **30/30**
-3. Atmosfera: **25/30**
-4. Wystrój/czystość: **30/30**
-5. Obsługa: **30/30**
-6. Stosunek jakości do ceny: **40/50**
-7. Podejście do komplikacji żywieniowych: **30/30** - świetnie opisane menu. Oznaczone dania bezglutenowe,
-dla wegetarian i&nbsp;wegan. Do tego można było wymienić lody na sorbet w przypadku uczulenia na mleko. Za to duży plus.
 
 ## Restauracja Amber Room otrzymuje punktów: **230/250**
 Link do [Amber Room]
