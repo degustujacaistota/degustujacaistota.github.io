@@ -5,6 +5,7 @@ featured-img: golabek_szara_em
 tags: Polska Restauracja Restaurant_week Gault_Millau
 restaurant: Szara_eminencja_Ursynów
 location: Warszawa
+points: 215
 ---
 Szara Eminencja na Ursynowie skusiła swoim wegetariańskim menu, wybredną
 Degustującą Istotę i przyszła ona tam na kolejną festiwalową ucztę w okazji Restaurant Week.
@@ -50,15 +51,8 @@ Gruszka duszona w winie. Podana z parfait cynamonowym i kawiorem jagodowym.
 <br />&ensp;&ensp;&ensp;
 
 ### Podsumowanie :
-1. Smak potraw: **45/50** - minus za gołąbki
-2. Prezentacja potraw: **30/30** - bardzo ładna
-3. Atmosfera: **30/30** - swobodna, ciepła, elegancka
-4. Wystrój/czystość: **25/30** - Wystrój bardzo ładny, z czystością sztućców był mały problem
-5. Obsługa: **25/30** - profesjonalna i uprzejma, trochę zabiegana
-6. Stosunek jakości do ceny: **50/50** - stała cena z uwagi na festiwal
-7. Podejście do komplikacji żywieniowych: **10/30** - w menu są dania wegetariańskie, ale wegańskich Istota nie znalazła. Brak też oznaczeń o alergenach i wege/wegan opcjach.
 
-## W sumie Szara Eminencja Ursynów otrzymuje punktów: **215/250**
+## Szara Eminencja Ursynów otrzymuje punktów: **215/250**
 Link do [Szara Eminencja Ursynów]
 
 Adres: ul. Romera 4b, Warszawa

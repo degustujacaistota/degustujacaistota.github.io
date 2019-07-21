@@ -5,8 +5,8 @@ featured-img: vgardenapoliki
 tags: Polska Restauracja Gault_Millau Wesoły_bakłażan Poland_100_best_restaurants
 restaurant: Villa_gardena
 location: Katowice
+points: 230
 ---
-
 Villa Gardena jest ostatnio często odwiedzana przez Istotę. Stało&nbsp;się&nbsp;tak,
  gdyż kilkukrotnie skusiła ona Istotę swoim ciekawym menu i Degustująca Istota ani razu nie&nbsp;wyszła z&nbsp;Villa Gardena rozczarowana.
 
@@ -143,6 +143,8 @@ Desery... Deser Istota zamówiła raz i&nbsp;była to beza z&nbsp;kremem cytryno
 ale prezentacja taka sobie.
 Naoglądała się ona na Insta cudnych deserów i&nbsp;teraz chciałaby takie cuda dostawać. Sorbety też mają dobre, nie za słodkie :)
 
+### Podsumowanie :
+
 Zdaniem Istoty Villa Gardena to świetna restauracja, która należy do czołówki naszej śląskiej sceny kulinarnej.
  Nie jest tutaj tanio, ale dania bronią się jakością, smakiem i&nbsp;wyglądem.
 Szefowi Kuchni Dominik Duraj należą się&nbsp;gratulacje za&nbsp;takie ciekawe menu i&nbsp;za stabilny wysoki poziom.
@@ -152,16 +154,6 @@ Gratulacje!
 <center><div style="width:30%">
    <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
-
-### Podsumowanie :
-1. Smak potraw: **50/50**
-2. Prezentacja potraw: **25/30**
-3. Atmosfera: **30/30**
-4. Wystrój/czystość: **30/30**
-5. Obsługa: **25/30**
-6. Stosunek jakości do ceny: **45/50**
-7. Podejście do komplikacji żywieniowych: **25/30** - Są dania dla wegetarian,
-dla wegan gorzej. Obsługa natomiast potrafi zmodyfikować dania, tak aby coś zaproponować.
 
 ## Restauracja Villa Gardena otrzymuje punktów: **230/250!!!**
 Link do [Villa Gardena]
