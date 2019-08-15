@@ -33,6 +33,7 @@ Jak ocenia?
 
 Maksymalnie restauracja/bistro/bar może otrzymać 250 pkt.
 
+<a name="baklazan"></a>
 ### Dodatkowo (od niedawna) oceniane są potrawy.
 Danie może dostać od 0 do 5 bakłażanów.
 * 0 bakłażanów - nie jadalne
