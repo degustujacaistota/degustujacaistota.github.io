@@ -48,7 +48,7 @@ Odznaka wesołego bakłażana - najwyższe wyróżnienie. Nadawane, gdy restaura
 Degustującej Istocie. Może być odebrane za złamanie serca.
 
 
-<center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="DegustującaIstota" height="602" width="auto" />
+<center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
 ### Tagi
