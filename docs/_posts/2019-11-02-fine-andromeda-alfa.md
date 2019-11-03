@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Andromeda Alfa - Fine Dining Week -*Kraków*
+title: Andromeda Alfa - Fine Dining Week - *Kraków*
 featured-img: alt_risotto_main
-tags: Polska Restauracja Wesoły_bakłażan Gault_Millau
+tags: Polska Restauracja Wesoły_bakłażan Gault_Millau Fine_dining Fine_dining_week
 restaurant: Andromeda_alfa
 location: Kraków
 points: 230
@@ -29,7 +29,7 @@ Przystawkę podano razem z&nbsp; małymi bułeczkami z&nbsp;masłem.
 Było to piękne i&nbsp;zarazem pyszne danie. Pomidorowy tatar wspaniale łączył się ze&nbsp;słonym kozim serem
 i&nbsp;kremowym awokado.
 _4&nbsp;[bakłażany]._
-<center><div style="width:55%">
+<center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/alf_tatar.jpg" alt="Na złoto czarnym talerzu znajduje
  się pomidorowy tatar na kozim serze. Na warstwie tatara są plastry awokado oraz biały chips z
  kiełkami na samej górze. Obok tatara położona jest pomarańczowa granita"
@@ -40,7 +40,7 @@ height="200px" width="40px" />
 #### *Krem porowo-jabłkowy/boczek/prażona cebula*
 
 Kremowa, gęsta zupa była bardzo aromatyczna i&nbsp;sycąca. _3&nbsp;[bakłażany]._
-<center><div style="width:55%">
+<center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/alf_zupa.jpg" alt="Żółty krem porowo-jabłkowy z
  kawałkami jabłek i przysmażonym boczkiem"
 height="200px" width="40px" />
@@ -51,7 +51,7 @@ height="200px" width="40px" />
 
 Pięknie podane we&nbsp;mgle z&nbsp;ciekłego azotu szafranowe risotto było świetnie przyrządzone.
  Również wołowina i&nbsp;warzywa były doskonałe. _4&nbsp;[bakłażany]._
-<center><div style="width:55%">
+<center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/alf_risotto.jpg" alt="W ciemnym, głębokim talerzu znajduje się mgła a
  przez nią widać kawałki pietruszki i marchewki, oraz zieleninę i kawałek plasterka wołowiny"
 height="200px" width="40px" />
@@ -63,7 +63,7 @@ height="200px" width="40px" />
 Pieczony łosoś na troszkę dla Istoty zbyt miękkim makaronie.
 Sam łosoś i&nbsp;warzywa świetnie przyrządzone.
 _3&nbsp;[bakłażany]._
-<center><div style="width:55%">
+<center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/alfa_losos.jpg" alt="Kawałek łososia na czarnym makaronie,
  otoczonym pomidorowym sosem z białymi kropkami sosu holenderskiego.
   Podane na pomarańczowym talerzu" height="200px" width="40px" />
@@ -73,7 +73,7 @@ _3&nbsp;[bakłażany]._
 #### *Tarta czekoladowa/krem tiramisu/cytryna/owoce*
 
 Tarta czekoladowa z&nbsp;czekoladowym musem i&nbsp;ażurową rurką z&nbsp;kremem. _3&nbsp;[bakłażany]._
-<center><div style="width:55%">
+<center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/alf_deser.jpg" alt="Ażurowa rurka z kremem,
 podana na krążku tarty z musem czekoladowym" height="200px" width="40px" />
 </div></center>
@@ -87,7 +87,7 @@ Isota tam wróci przy najbliższej okazji. Obsługa jest profesjonalna
   Ponieważ Istocie było tam bardzo miło i&nbsp;smacznie przyznaje restauracji Andromeda Alfa
   odznakę Wesołego Bakłażana!
 
-<center><div style="width:30%">
+<center><div style="width:35%">
  <img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana"
  height="100" width="auto" />
 </div></center>
