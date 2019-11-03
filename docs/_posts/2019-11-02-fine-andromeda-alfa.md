@@ -5,7 +5,7 @@ featured-img: alt_risotto_main
 tags: Polska Restauracja Wesoły_bakłażan Gault_Millau
 restaurant: Andromeda_alfa
 location: Kraków
-points: 235
+points: 230
 ---
 
 @fine_dining_week, czyli festiwal sztuki kulinarnej to wydarzenie, które @degustujacaistota bardzo lubi.
@@ -14,7 +14,7 @@ Można&nbsp;wtedy za stosunkowo nieduże pieniądze (129 zł/os) spróbować naj
   produktów czekało na każdego gościa festiwalu w&nbsp;każdej ze znakomitych restauracji.
  Miniony festiwal odbył się na przełomie sierpnia i&nbsp;września, ale dopiero teraz Istota znalazła chwilę,
  żeby spisać swoje wrażenia.
-W&nbsp;sumie Degustujące Istoty zawitały to sześciu restauracji.
+W&nbsp;sumie Degustujące Istoty zawitały do sześciu restauracji.
 
 Na pierwszy ogień pójdzie restauracja w&nbsp;której Istoty były po raz pierwszy, Andromeda Alfa w&nbsp;Krakowie.
 Przywitał&nbsp;tutaj Istoty pięknie zastawiony stół z&nbsp;bukiecikami lawendy i&nbsp;bardzo miła obsługa.
@@ -94,7 +94,7 @@ Isota tam wróci przy najbliższej okazji. Obsługa jest profesjonalna
 
 
 
-## Restauracja Andromeda Alfa otrzymuje punktów: **235/250**
+## Restauracja Andromeda Alfa otrzymuje punktów: **230/250**
 Link do [Andromeda Alfa]
 
 Adres: ul. Gęsia 22a,
