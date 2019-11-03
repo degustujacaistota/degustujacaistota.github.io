@@ -16,7 +16,7 @@ Można&nbsp;wtedy za stosunkowo nieduże pieniądze (129 zł/os) spróbować naj
  żeby spisać swoje wrażenia.
 W&nbsp;sumie Degustujące Istoty zawitały do sześciu restauracji.
 
-Na pierwszy ogień pójdzie restauracja w&nbsp;której Istoty były po raz pierwszy, Andromeda Alfa w&nbsp;Krakowie.
+Na pierwszy ogień pójdzie restauracja w&nbsp;której Istoty były po raz pierwszy, @andromedaalfakrakow.
 Przywitał&nbsp;tutaj Istoty pięknie zastawiony stół z&nbsp;bukiecikami lawendy i&nbsp;bardzo miła obsługa.
 Wystrój nawiązuje do kosmicznej nazwy restauracji. Jest dość oszczędny, nowoczesny i&nbsp;eleganacki.
 Andromeda Alfa posiada jedną czapkę w&nbsp;żółtym przewodniku @gaultmillaupolska. Szefem Kuchni jest tutaj Piotr Tuźnik.
