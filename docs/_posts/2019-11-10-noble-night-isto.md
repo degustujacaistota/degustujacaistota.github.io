@@ -14,7 +14,7 @@ najmłodszego szefa kuchni biorącego udział w&nbsp;konkursie. Istotę bardzo u
 że&nbsp;może tych dań spróbować na dedykowanej temu wydarzeniu kolacji degustacyjnej z&nbsp;udziałem sommalier’a.
 
 Degustująca Istota nie jest fanem win a&nbsp;już szczególnie win podawanych podczas posiłku.
-Dlatego unika kolacji, gdzie paring wina jest obowiązkowy i&nbsp;wliczony w&nbsp;cenę.
+Dlatego unika kolacji, gdzie pairing wina jest obowiązkowy i&nbsp;wliczony w&nbsp;cenę.
  Tutaj jednak postanowiła zrobić wyjątek i&nbsp;już zdradzi, że nie żałuje tej decyzji.
 
 ### Degustacja:
@@ -44,7 +44,7 @@ height="200px" width="40px" />
 To było genialne danie. Gładka grzybowa galaretka skrywała idealnie przyrządzone jajko poche a&nbsp;pod
  nim leżał kawałek jesiotra otoczony pysznym grzybowo-rybnym sosem velouté.
  Kilka owoców nasturcji, które Istota jadła po raz pierwszy, było wyrazistym akcentem dopełniającym danie.
-  Rewelacja. Sposób podania również był piękny. Istota z&nbsp;przyjemnością daje _5&nbsp;[bakłażanów]._ !
+  Rewelacja. Sposób podania również był piękny. Istota z&nbsp;przyjemnością daje _5&nbsp;[bakłażanów]_ !
 <center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/isto_jesiotr.jpg" alt="W ciemnym, głębokim talerzu znajduje się mgła
 a przez nią widać kawałki pietruszki i marchewki, oraz zieleninę i kawałek plasterka wołowiny"
@@ -78,9 +78,9 @@ height="200px" width="40px" />
 #### *Gołąb/jarmuż/gruszka/bratek*
 
 Gołąb podany na 2&nbsp;sposoby z&nbsp;sałatką z&nbsp;gruszki i&nbsp;jarmużu. Wersja w&nbsp;tempurze
-była zdaniem dość dobra, choć mogłaby być bardziej wyrazista.
+była zdaniem Istoty dość dobra, choć mogłaby być bardziej wyrazista.
  Niestety pierś była zbyt krwista i&nbsp;twarda, aby Istota mogła ją zjeść. Sałatka świetna.
-_1&nbsp;[bakłażany]._
+_1&nbsp;[bakłażan]._
 <center><div style="width:50%">
 <img src="{{site.url}}/assets/img/posts/isto_golab.jpg" alt="Kulka w tempurze z mięsem z której wystaje kość. Obok
 pierś gołębia oblana śmietaną i sosem. Obok mięsa położona jest sałatka z drobno pokrojonej gruszki i jarmużu."
@@ -90,8 +90,7 @@ height="200px" width="40px" />
 
 #### *Opera*
 
-Ciasto opera zlodami chlebowymi, podany z&nbsp;migdałami. Bardzo słodkie i&nbsp;skomplikowane danie.
- Wyglądało bardzo ładnie.
+Ciasto opera z&nbsp;lodami chlebowymi, podane z&nbsp;migdałami.
 _2&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/isto_opera.jpg" alt="Ciasto w czekoladowo białe poziome warstwy.
@@ -102,7 +101,7 @@ height="200px" width="40px" />
 
 #### *Pralinki i&nbsp;Pate Choux*
 
-Na zakończenie jeszcze niespodzianka. Pyszny ptyś francuski i&nbsp;pralika z&nbsp;białą czekoladą i&nbsp;…
+Na zakończenie jeszcze niespodzianka. Pyszny ptyś francuski i&nbsp;pralinka z&nbsp;białą czekoladą i&nbsp;…
 Foie Gras. Zaskakujące połączenie, które okazało się bardzo ciekawe.
 _3&nbsp;[bakłażany]._
 <center><div style="width:55%">
@@ -118,8 +117,8 @@ Wieczór był interesujący i&nbsp;dzięki sommalierowi Leszkowi Istota usłysza
  oraz zasmakowała w&nbsp;Tokaju podanym do deseru, choć nie zmieniła zdania, że wino zaburza jej
   delektowanie się potrawami. Osobie, która nie mogła tego wieczoru pić alkoholu zaproponowano bezalkoholowe
   wina, co było bardzo miłe.
-   Kolacja była bardzo udana również, ze względu na doskonałą obsługę w&nbsp;Isto.
-   Dzięki nim jakoś @degustujacaistota przeżyła tą smutną wiadomość, że Szefa Kuchni tego wieczoru nie było w&nbsp;restauracji.
+   Kolacja była udana również, ze względu na doskonałą obsługę w&nbsp;Isto.
+   Dzięki niej jakoś @degustujacaistota przeżyła tą smutną wiadomość, że Szefa Kuchni tego wieczoru nie było w&nbsp;restauracji.
     Za całokształt kolacji z&nbsp;menu degustacyjnym Istota podtrzymuje odznakę Wesołego Bakłażana dla Isto!
 
 <center><div style="width:35%">
@@ -138,6 +137,7 @@ _Obrazek tytułowy: Kaszanka z żołądkami_
 [ISTO]: http://www.isto.com.pl/
 [bakłażany]: /about#baklazan
 [bakłażanów]: /about#baklazan
+[bakłażan]: /about#baklazan
 
 
 
