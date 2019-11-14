@@ -11,7 +11,7 @@ points: 230
 Degustująca Istota bardzo była ciekawa co zaprezentował Szef Kuchni Patryk Dusza z&nbsp;@restauracjaisto
  na gali @winefoodnoblenight. Otrzymał on tam nagrodę specjalną dla
 najmłodszego szefa kuchni biorącego udział w&nbsp;konkursie. Istotę bardzo ucieszył fakt,
-że&nbsp;może tych dań spróbować na dedykowanej temu wydarzeniu kolacji degustacyjnej z&nbsp;udziałem sommalier’a.
+że&nbsp;może tych dań spróbować na dedykowanej temu wydarzeniu kolacji degustacyjnej z&nbsp;udziałem sommelier’a.
 
 Degustująca Istota nie jest fanem win a&nbsp;już szczególnie win podawanych podczas posiłku.
 Dlatego unika kolacji, gdzie pairing wina jest obowiązkowy i&nbsp;wliczony w&nbsp;cenę.
@@ -113,7 +113,7 @@ height="200px" width="40px" />
 
 ### Podsumowanie:
 
-Wieczór był interesujący i&nbsp;dzięki sommalierowi Leszkowi Istota usłyszała sporo ciekawych historii,
+Wieczór był interesujący i&nbsp;dzięki sommelierowi Leszkowi Istota usłyszała sporo ciekawych historii,
  oraz zasmakowała w&nbsp;Tokaju podanym do deseru, choć nie zmieniła zdania, że wino zaburza jej
   delektowanie się potrawami. Osobie, która nie mogła tego wieczoru pić alkoholu zaproponowano bezalkoholowe
   wina, co było bardzo miłe.
