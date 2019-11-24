@@ -2,7 +2,7 @@
 layout: post
 title: Masala House - nie żałują przypraw-*Katowice*
 featured-img: masala_house
-tags: Polska Indyjska Restauracja Śląsk
+tags: Polska Restauracja Śląsk
 restaurant: Masala_house
 location: Katowice
 points: 210
