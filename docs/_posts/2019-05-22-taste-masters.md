@@ -2,7 +2,7 @@
 layout: post
 title: Taste Masters - Smakowanie&nbsp;w&nbsp;Wilanowie
 featured-img: tm_pijana_koza
-tags: Polska Warszawa Restauracja Gault_Millau
+tags: Polska Restauracja Gault_Millau
 restaurant: Villa_intrata
 location: Warszawa
 ---
@@ -130,7 +130,7 @@ Kolejna odsłona łososia MOWI z&nbsp;plastrami czarnej trufli, Salmon tataki. W
 <center><div style="width:55%">
  <img src="{{site.url}}/assets/img/posts/tm_szparagi.jpg" alt="Szparagi z różowym sosem i granolą parmezanową" height="200px" width="40px" />
  <font size="2">
-Doskonałe szparagi z&nbsp;holederskim sosem z&nbsp;hibiskusem i&nbsp;kwiatem czarnego bzu. Posypane granolą parmezanową i&nbsp;podane z&nbsp;salsą
+Doskonałe szparagi z&nbsp;holenderskim sosem z&nbsp;hibiskusem i&nbsp;kwiatem czarnego bzu. Posypane granolą parmezanową i&nbsp;podane z&nbsp;salsą
 szparagową i&nbsp;oliwą z&nbsp;wędzonych warzyw.
    <b>Szef:&nbsp;Paweł&nbsp;Chomentowski,&nbsp;Restauracja:&nbsp;White&nbsp;One.</b>
  </font>
