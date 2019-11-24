@@ -2,7 +2,7 @@
 layout: post
 title: White One - Fine Dining Week -*Warszawa*
 featured-img: wo_main
-tags: Restauracja Wesoły_bakłażan Fine_dining Polska Wine_and_Food_Noble_Night Gault_Millau Menu_degustacyjne Fine_dining_week Wege Wegan
+tags: Restauracja Wesoły_bakłażan Fine_dining Polska Wine_and_Food_Noble_Night Gault_Millau Fine_dining_week Wege Wegan
 restaurant: White_one
 location: Warszawa
 points: 242
@@ -22,7 +22,7 @@ Niestety nie udało jej się na nie jeszcze przyjechać, ale cały czas ma to w&
 
 #### *Hummus*
 
-Amuse-bouche. Hummus z&nbsp;mięta i&nbsp;pietruszką z&nbsp;chipsem z&nbsp;jarmużu. _3&nbsp;[bakłażany]._
+Amuse-bouche. Hummus z&nbsp;miętą i&nbsp;pietruszką z&nbsp;chipsem z&nbsp;jarmużu. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/wo_am_bo.jpg" alt="Głęboka, mała miseczka
 z nałożoną porcją zielonkawego hummusu i wetkniętym chipsem z jarmużu"
@@ -55,7 +55,7 @@ height="200px" width="40px" />
 #### *Skorzonera/pieczony kalafior/trufla/gruszka/pistacje*
 
 Najlepsza skorzonera, jaką Istota jadła. Chrupka i&nbsp;przypieczona.
-Do tego trufla, która podkręcała smak i&nbsp;nie była zdominowana przez inne mocniejsza smaki.
+Do tego trufla, która podkręcała smak i&nbsp;nie była zdominowana przez inne mocniejsze smaki.
 Degustująca Istota kocha trufle i&nbsp;najbardziej nie lubi, gdy są dodawane do produktów,
 które zabijają jej aromat i&nbsp;smak. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
@@ -92,9 +92,10 @@ height="200px" width="40px" />
 Wystrój wnętrza, dodatki, ceramika oraz akcesoria do podawania posiłków były świetnie dopasowane.
 Cała restauracja wydaje się być przemyślana w&nbsp;najdrobniejszych szczegółach. Kuchnia jest otwarta, co
 @degustujacaistota uwielbia, bo ogromnie ją fascynuje to co się tam dzieje. Obsługa była
- bardzo miła i&nbsp;profesjonalna. Istoty zostały też poczęstowane na poczatku pysznym chlebem wypiekanym na miejscu
-  z&nbsp;oliwą. Obsługa zaproponowała też, że może donieść pieczywo, gdy się skończyło, na co Istoty chętnie
-  przystały, bo było świetnie. Zwłaszcza skórka!
+ bardzo miła i&nbsp;profesjonalna. Istoty zostały też poczęstowane
+ na poczatku pysznym chlebem z&nbsp;oliwą, wypiekanym na miejscu. Obsługa zaproponowała też,
+ że może donieść pieczywo, gdy się skończyło, na co Istoty chętnie
+  przystały, bo było naprawdę świetne.
 <center><div style="width:65%">
 <img src="{{site.url}}/assets/img/posts/wo_chleb.jpg" alt="Miska z kromkami ciemnego pieczywa
  i oliwa podana na wyżłobionym kawałku drewna."
@@ -102,7 +103,7 @@ height="200px" width="40px" />
 </div></center>
 <br />
 
-Degustujące Istoty były zachwycone wizytą w @whiteone.restaurant i&nbsp;oczywiście przyznają
+Degustujące Istoty były zachwycone wizytą w White One i&nbsp;oczywiście przyznają
 za to odznakę Wesołego Bakłażana.
 
 <center><div style="width:35%">
