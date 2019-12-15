@@ -9,8 +9,8 @@ points: 235
 ---
 
 Degustująca Istota uwielbia gęsinę i&nbsp;bardzo się ucieszyła, gdy usłyszała,
- że w @umami_restauracja odbędzie się kolacja degustacyjna z&nbsp;tematem przewodnik “Gęsina na stół”.
- Było to tym bardziej kuszące bo zaproszono na to wydarzenia do współpracy króla gęsiny,
+ że w @umami_restauracja odbędzie się kolacja degustacyjna z&nbsp;tematem przewodnim “Gęsina na stół”.
+ Było to tym bardziej kuszące, bo zaproszono na to wydarzenie do współpracy Króla Gęsiny,
  Szefa Kuchni @marcin_plawecki z&nbsp;restauracji @geswdymie.
 Istoty były wcześniej w&nbsp;restauracji @plado_restauracja (siostry Umami) i&nbsp;Umami z&nbsp;okazji wydarzenia
 “Gęsina na Świętego Marcina” i&nbsp;bardzo im&nbsp;wszystkie potrawy smakowały.
@@ -47,7 +47,7 @@ height="200px" width="40px" />
 
 #### *Pasztetówka z&nbsp;gęsi/ślimak szary/czekolada/biszkopt pistacjowy/porto*
 
-Druga przystawka (@mat.bie_chef, @robertbiniasz). Niebanalne i&nbsp;skomplikowane danie.
+Druga przystawka (Mateusz Bieniek, @robertbiniasz). Niebanalne i&nbsp;skomplikowane danie.
 Pasztet był podany w&nbsp;formie pralinki czekoladowej. Chrupka czekolada kryła w&nbsp;sobie miękki
 i&nbsp;delikatny pasztet.
 Krokiet ze&nbsp;ślimakiem w&nbsp;środku i&nbsp;kawiorem ze ślimaka na&nbsp;górze był
@@ -63,7 +63,7 @@ height="200px" width="40px" />
 
 #### *Bulion/grzyby shitake/pieróg z&nbsp;konfitowaną gęsiną/katsuobushi*
 
-Zupa (Marcin Pławecki). Bulion z&nbsp;suszonym tuńczykiem katsuobushi i&nbsp;glonami w&nbsp;stylu orientalnym
+Zupa (Marcin Pławecki). Bulion z&nbsp;suszonym tuńczykiem katsuobushi i&nbsp;glonami w&nbsp;stylu orientalnym,
 w&nbsp;którym zanurzone były pyszne pierożki z&nbsp;mięsem gęsi. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
 <img src="{{site.url}}/assets/img/posts/um_bulion.jpg" alt=" Biały głęboki talerz z bulionem i dwoma pierożkami."
@@ -119,12 +119,12 @@ height="200px" width="40px" />
 
 Kolacja trwała około trzy godziny i&nbsp;kosztowała 180&nbsp;zł/os. Czy to dużo? W&nbsp;mniemaniu Istoty, wcale nie.
  Trochę niestandardowy był fakt, że opłatę pobierano z&nbsp;góry,
-  ale Degustującym Istotom to nie przeszkadza i&nbsp;nie pierwszy raz się z&nbsp;tym spotkali.
+  ale Degustującym Istotom to nie przeszkadza i&nbsp;nie pierwszy raz się z&nbsp;tym spotkały.
   Trzygodzinna kolacja w&nbsp;ciągu roboczego tygodnia nie była też łatwa, ale czego się nie robi dla pysznego jedzenia.
   A było ono doskonałe i&nbsp;bezbłędne, poza drobnymi niedociągnięciami przy układaniu potraw na talerzu,
    co można usprawiedliwić faktem, że&nbsp;dania trzeba było wydać około 40&nbsp;osobom w&nbsp;jednym czasie.
 Pairing wina był opcjonalny, ku radości Istoty. Woda, kawa i&nbsp;herbata były w&nbsp;cenie kolacji, jak również powitalny kieliszek
-grzanego wina,co było bardzo miłe.
+grzanego wina, co było bardzo miłe.
 Jeszcze kilka słów o&nbsp;obsłudze. Uśmiechnięci i&nbsp;zapracowani, ale ogarnęli wszystko świetnie.
 
 Za piękny wieczór z&nbsp;pysznym jedzeniem @degustujacaistota oczywiście wręcza odznakę Wesołego
