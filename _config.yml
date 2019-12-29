@@ -1,36 +1,20 @@
-title: Degustująca Istota # your site title
-author: Danuta Irena Żabińska
-email: degustujaca.istota@gmail.com # email for form submission, you also have to change it in _js/scripts.js
-description: > # this means to ignore newlines until "baseurl:"
-  Testerski blog o restauracjach. Recenzje degustowanych dań. Ranking najlepszych restauracji w Polsce.
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.degustujacaistota.pl/" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: Degustująca-Istota-309847352979817 # replace with your_facebook_username or comment to remove link from footer
-github_username:  DanutaZabinska # replace with your_github_username or comment to remove link from footer
-instagram_username: degustujacaistota # replace with your_instagram_username or comment to remove link from footer
-social:
-  name: Danuta Żabińska
-  links:
-    - https://www.instagram.com/degustujacaistota/
-    - https://www.facebook.com/Degustująca-Istota-309847352979817/
-    - https://www.linkedin.com/in/danuta-żabińska-94a74410b/
-#    - https://plus.google.com/+BenBalter
-    - https://github.com/DanutaZabinska
-#    - https://keybase.io/benbalter
-
-# disqus:
-#  shortname: Danusia # to enable comments replace with your_disqus_shortname
-
-# Build settings
+# SITE CONFIGURATION
 markdown: kramdown
-#markdown: CommonMarkGhPages
-highlighter: rouge # or pygments or null
+highlighter: rouge
+
+baseurl: ""
+permalink: /:title/
+
+service_worker: true
+future: true
+
+compress_html:
+  clippings: all
+
 exclude:
   - README.md
   - node_modules
+  - script
   - package.json
   - package-lock.json
   - Gemfile
@@ -38,16 +22,23 @@ exclude:
   - vendor
   - npm-debug.log
   - gulpfile.js
-  - sleek.png
+  - sleek.jpg
 
-include: ['_pages']
-permalink: /:title/
+# COLLECTIONS
+collections_dir: docs
+collections:
+  categories:
+    output: true
+  tags:
+    output: true
+  points:
+    output: true
+  restaurants:
+    output: true
+  locations:
+    output: true
 
-paginate:         6
-
-compress_html:
-  clippings: all
-
+# PLUGINS
 plugins:
   - jekyll-avatar
   - jekyll-coffeescript
@@ -68,19 +59,88 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
 
+# jekyll-commonmark-ghpages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
+# jekyll-mentions
 jekyll-mentions:
   base_url: https://www.instagram.com
-#  base_url: https://www.facebook.com
 
-collections_dir: docs
-collections:
-  categories:
-    output: true
-  tags:
-    output: true
-  points:
-    output: true
-  restaurants:
-    output: true
-  locations:
-    output: true
+# jekyll-optional-front-matter
+include:
+  - '_pages'
+
+# jekyll-paginate
+paginate:         6
+paginate_path:    '/:num'
+
+# jekyll-remote-theme
+remote_theme: degustujacaistota/degustujacaistota
+
+# jekyll-seo-tag
+title: Degustująca Istota
+tagline: >
+  “Money, pardon the expression, is like manure. It's not worth a thing unless it's spread around, encouraging young things to grow.”
+description: >
+  Tester's blog about restaurants. Reviews of a dishes degustations. Ranking of the best restaurants.
+url: 'https://degustujacaistota.pl/'
+author: Danuta Irena Żabińska
+logo: /assets/img/logo.jpg
+
+social:
+  name: Danuta Żabińska
+  links:
+    - https://www.facebook.com/Degustująca-Istota-309847352979817
+    - https://www.instagram.com/degustujacaistota/
+    - https://twitter.com/degustujaca
+    - https://www.linkedin.com/in/danuta-żabińska-94a74410b
+    - https://github.com/degustujacaistota
+    - https://plus.google.com/+BenBalter
+#    - https://keybase.io/benbalter
+
+# THEME SETTINGS
+email: degustujaca.istota@gmail.com
+hero_img: main.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+img_url: 'https://degustujacaistota.pl/'
+img_baseurl: '/'
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+google_analytics: UA-143053150-1
+
+#disqus:
+#  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+
+# NAVIGATION LINKS
+navigation:
+  - {name: 'O Degustującej Istocie', link: '/about'}
+  - {name: 'Wyszukaj', link: '/search-jekyll-simple'}
+#  - {name: 'Kategorie', link: '/categories'}
+  - {name: 'Tagi', link: '/tags'}
+  - {name: 'Lokalizacje', link: '/locations'}
+  - {name: 'Restauracje', link: '/restaurants'}
+
+# SOCIAL LINKS
+facebook_username: Degustująca-Istota-309847352979817 # replace with your_facebook_username or comment to remove link from footer
+github_username:  DanutaZabinska # replace with your_github_username or comment to remove link from footer
+instagram_username: degustujacaistota # replace with your_instagram_username or comment to remove link from footer
+
+social_links:
+  rss: rss
+  facebook: Degustująca-Istota-309847352979817
+  instagram: degustujacaistota
+  twitter: degustujaca
+  linkedin: danuta-żabińska-94a74410b
+  github:  degustujacaistota
+  # microdotblog: jekyll
+  # dribbble: jekyll
+  # flickr:   jekyll
+  # pinterest: jekyll
+  # youtube: jekyll
+  # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+  # youtube_channel_name: CloudCannon
+  # telegram: jekyll
+  # googleplus: +jekyll
+  # keybase: jekyll
+
