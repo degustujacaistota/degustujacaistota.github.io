@@ -5,7 +5,7 @@ featured-img: amber_room
 tags: Polska Restauracja Gault_Millau Michelin_guide Poland_100_best_restaurants
 restaurant: Amber_room
 location: Warszawa
-ponits: 230
+points: 230
 ---
 
 Warszawska restauracja Amber Room została umieszczona na&nbsp;prestiżowej La Liste 2019,

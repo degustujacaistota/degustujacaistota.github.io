@@ -5,6 +5,7 @@ featured-img: tm_pijana_koza
 tags: Polska Restauracja Gault_Millau
 restaurant: Villa_intrata
 location: Warszawa
+points:
 ---
 Istota nie miała pojęcia jak będzie Taste Masters wyglądać. Wiedziała tylko,
 że będzie mogła spróbować 50 dań w&nbsp;dwa dni, zaserwowanych przez znanych i&nbsp;uznanych szefów kuchni.
