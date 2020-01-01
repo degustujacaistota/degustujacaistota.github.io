@@ -25,6 +25,7 @@ description: Artykuły po kategoriach
               </time>
             </span>
             {{ post.title }}
+            {% if post.points %} ({{ post.points }}) {% endif %}
           </a>
         </li>
         {% endfor %}

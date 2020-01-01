@@ -25,6 +25,7 @@ description: Artykuły po tagach
               </time>
             </span>
             {{ post.title }}
+            {% if post.points %} ({{ post.points }}) {% endif %}
           </a>
         </li>
         {% endfor %}
