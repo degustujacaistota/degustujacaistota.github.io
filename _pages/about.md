@@ -63,7 +63,7 @@ Blog Degustującej Istoty oparty jest na podstawie motywu [Sleek], który używa
 Blog żyje i rozwija się dzięki pomocy niesamowitego programisty, autora bolga [WriteOnly].
 Jak masz ochotę, to możesz napisać mail do [Degustującej Istoty](mailto:{{site.email}}).
 Dla tych, co nie używają klienta poczty: degustujaca.istota@gmail.com.
-Jednak Istota poleca kontaktować się przez jej fanpage na facebooku lub Instagrami- odpisze tak szybko, jak to możliwe.
+Jednak Istota poleca kontaktować się przez jej fanpage na facebooku lub Instagramie - odpisze tak szybko, jak to możliwe.
 
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
