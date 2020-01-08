@@ -77,7 +77,7 @@ paginate:         6
 paginate_path:    '/:num'
 
 # jekyll-remote-theme
-remote_theme: degustujacaistota/degustujacaistota
+remote_theme: degustujacaistota/sleek
 
 # jekyll-seo-tag
 title: Degustująca Istota
