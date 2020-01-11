@@ -151,3 +151,6 @@ social_links:
   # googleplus: +jekyll
   # keybase: jekyll
 
+ui:
+  previous: Poprzedni
+  next: Następny
