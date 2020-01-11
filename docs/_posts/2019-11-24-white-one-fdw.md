@@ -24,7 +24,7 @@ Niestety nie udało jej się na nie jeszcze przyjechać, ale cały czas ma to w&
 
 Amuse-bouche. Hummus z&nbsp;miętą i&nbsp;pietruszką z&nbsp;chipsem z&nbsp;jarmużu. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/wo_am_bo.jpg" alt="Głęboka, mała miseczka
+<img src="{{site.img_url}}/assets/img/posts/wo_am_bo.jpg" alt="Głęboka, mała miseczka
 z nałożoną porcją zielonkawego hummusu i wetkniętym chipsem z jarmużu"
 height="200px" width="40px" />
 </div></center>
@@ -35,7 +35,7 @@ height="200px" width="40px" />
 Przystawka z&nbsp;pomidorów była pyszna. Soczyste pomidory, chrupiące chipsy i&nbsp;świetnie zbalansowany smak.
 _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/wo_tatar.jpg" alt="Porcja posiekanych pomidorów,
+<img src="{{site.img_url}}/assets/img/posts/wo_tatar.jpg" alt="Porcja posiekanych pomidorów,
 polanych oliwą, posypanych kaparami i z zielonkawymi chipsami na górze."
 height="200px" width="40px" />
 </div></center>
@@ -46,7 +46,7 @@ height="200px" width="40px" />
 Genialny, intensywny w&nbsp;smaku barszcz, który idealnie komponował się z&nbsp;ciasteczkami
  i&nbsp;wędzonym jabłkiem. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/wo_barszcz.jpg" alt="Barszcz nalewany przez kelnera do czarnego,
+<img src="{{site.img_url}}/assets/img/posts/wo_barszcz.jpg" alt="Barszcz nalewany przez kelnera do czarnego,
  głębokiego talerza z dwoma ciasteczkami na spodzie."
 height="200px" width="40px" />
 </div></center>
@@ -59,7 +59,7 @@ Do tego trufla, która podkręcała smak i&nbsp;nie była zdominowana przez inne
 Degustująca Istota kocha trufle i&nbsp;najbardziej nie lubi, gdy są dodawane do produktów,
 które zabijają jej aromat i&nbsp;smak. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/wo_scorz.jpg" alt="Dwa przypieczone kawałki skorzonery,
+<img src="{{site.img_url}}/assets/img/posts/wo_scorz.jpg" alt="Dwa przypieczone kawałki skorzonery,
 przypieczony kalafior, plasterki czarnej trufli, pokruszone pistacje i biały sos." height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -70,7 +70,7 @@ Niestety Istota bardzo nie lubi zielonego pieprzu, a&nbsp;było go w&nbsp;tym da
 Kotlet też nie do końca był w&nbsp;jej guście, ale ogólnie w&nbsp;porządku. Brokuł świetnie ugotowany, na chrupko.
 _2&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/wo_kotlet.jpg" alt="Ciemno-brązowy kotlet warzywny posypany
+<img src="{{site.img_url}}/assets/img/posts/wo_kotlet.jpg" alt="Ciemno-brązowy kotlet warzywny posypany
 zielonym pieprzem, obok dwie gałązki dzikiego brokułu i liść nasturcji."
 height="200px" width="40px" />
 </div></center>
@@ -80,7 +80,7 @@ height="200px" width="40px" />
 
 Pyszny deser. Nie za słodki, nie za kwaśny i&nbsp;nie za czekoladowy. Wszystko w&nbsp;równowadze. Super. _4&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.url}}/assets/img/posts/wo_deser.jpg" alt="Talerz z kawałkiem browni,
+<img src="{{site.img_url}}/assets/img/posts/wo_deser.jpg" alt="Talerz z kawałkiem browni,
  porcją czekoladowego musu i porcją różowego sorbetu. Posypany porzeczkami i malinami,
  oraz udekorowany liśćmi buraka."
 height="200px" width="40px" />
@@ -97,7 +97,7 @@ Cała restauracja wydaje się być przemyślana w&nbsp;najdrobniejszych szczegó
  że może donieść pieczywo, gdy się skończyło, na co Istoty chętnie
   przystały, bo było naprawdę świetne.
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/wo_chleb.jpg" alt="Miska z kromkami ciemnego pieczywa
+<img src="{{site.img_url}}/assets/img/posts/wo_chleb.jpg" alt="Miska z kromkami ciemnego pieczywa
  i oliwa podana na wyżłobionym kawałku drewna."
 height="200px" width="40px" />
 </div></center>
@@ -107,7 +107,7 @@ Degustujące Istoty były zachwycone wizytą w White One i&nbsp;oczywiście przy
 za to odznakę Wesołego Bakłażana.
 
 <center><div style="width:35%">
-<img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+<img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Restauracja White One otrzymuje punktów: **242/250**

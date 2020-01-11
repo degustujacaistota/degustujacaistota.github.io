@@ -12,7 +12,7 @@ Istotę znowu skusiło interesujące menu festiwalowe i zawitała do restauracji
  Cegły i kamienie nadają temu miejscu charakteru.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:45%">
-  <img src="{{site.url}}/assets/img/posts/pod_platanami.jpg" alt="Wnętrze restauracji" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/pod_platanami.jpg" alt="Wnętrze restauracji" height="200px" width="40px" />
   <font size="2">
        Wnętrze restauracji Pod Platanami.
   </font>
@@ -23,7 +23,7 @@ Na przystawkę podano doskonałego przegrzebka na puree z zielonego groszku.
 Delikatny i lekko ciepły przegrzebek, świetnie komponował się ze słodkim smakiem groszku.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/przegrzebek.jpg" alt="Przegrzebek" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/przegrzebek.jpg" alt="Przegrzebek" height="200px" width="40px" />
   <font size="2">
        Przegrzebek na puree z zielonego groszku. Pyszny.
   </font>
@@ -38,7 +38,7 @@ Na deser były gruszki w czekoladzie na sosie waniliowym z lodami.
 Ten deser już Istocie nie bardzo smakował, był bardzo słodki i mało oryginalny.
  Ale dla lubiących słodycze może byłby w sam raz.
 <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/gruszki_z_lodami.jpg" alt="Gruszki w czekoladzie" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/gruszki_z_lodami.jpg" alt="Gruszki w czekoladzie" height="200px" width="40px" />
 
   <font size="2">
 Gruszki podane z lodami. Dość tradycyjny deser i bardzo słodki.
@@ -50,7 +50,7 @@ Istotę zaciekawiły pozycje ze stałego menu tej restauracji i postanowiła je 
 Zamówiła przegrzebki na grzance, które okazały się nawet lepsze niż zaserwowano, jako danie festiwalowe.
 Podane w ciekawy sposób, były wspaniałe. Istota chętnie na nie wstąpi ponownie.
  <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/przegrzebki_na_grzance.jpg" alt="Przegrzebki na grzance" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/przegrzebki_na_grzance.jpg" alt="Przegrzebki na grzance" height="200px" width="40px" />
 
   <font size="2">
 Doskonałe przegrzebki podane na grzance czosnkowej z sałatą.
@@ -63,7 +63,7 @@ Oba te dania były dobre, ale już tak bardzo nie zachwyciły. Ciasto w ravioli 
  ale nadzienie już trochę za twarde. Natomiast w krewetkach przeszkadzała rukola,
   która puściła sok przez co sos był zbyt gorzki.
 <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/krewetki_rukola.jpg" alt="Krewetki z rukolą" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/krewetki_rukola.jpg" alt="Krewetki z rukolą" height="200px" width="40px" />
 
   <font size="2">
 Krewetki duszone w białym winie. Podane z chlebem i rukolą.

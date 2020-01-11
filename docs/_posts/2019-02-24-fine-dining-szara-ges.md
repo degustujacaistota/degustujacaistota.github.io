@@ -18,7 +18,7 @@ Amuse-bouche - nie, nie dostała. Czemu? nie wiadomo. Inne stoliki dostały piec
 
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/kozi_ser.jpg" alt="Przystawka-kozi ser" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/kozi_ser.jpg" alt="Przystawka-kozi ser" height="200px" width="40px" />
    <font size="2">
        Kozi ser na przystawkę, podany z&nbsp;musem jabłkowym. Składniki nie tworzyły spójnej całości,
        jakby dwie osobne historie.
@@ -33,7 +33,7 @@ Kolejnej potrawie nie było sensu robić zdjęcia. Był to krem borowikowy podan
 
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/losos_brokul.jpg" alt="Łosoś z dzikim brokułem" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/losos_brokul.jpg" alt="Łosoś z dzikim brokułem" height="200px" width="40px" />
    <font size="2">
 Łosoś z&nbsp;dzikim brokułem i&nbsp;kawiorem. Ładne podanie, sos bardzo dobry tylko kawałek łososia troszkę przepieczony.
  Mógłby być bardziej delikatny.
@@ -47,7 +47,7 @@ Danie głównie (zdjęcie tytułowe) to Bavette z&nbsp;konfiturą z&nbsp;cebuli 
 Sosy bardzo dobre, konfitura z&nbsp;cebuli również smaczna.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/sorbet.jpg" alt="Sorbet" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/sorbet.jpg" alt="Sorbet" height="200px" width="40px" />
 
    <font size="2">
     Na deser sorbet. Deser na Fine Dining Week...

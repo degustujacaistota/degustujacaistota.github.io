@@ -13,7 +13,7 @@ Sezonowe menu okazało się niezwykle interesujące, również dania ze stałej 
 Na początek coś, co Istota uwielbia, czyli czekadełko.
 
 <center><div style="width:35%">
-  <img src="{{site.url}}/assets/img/posts/krem_z_kapusty.jpg" alt="Krem z kiszonej kapusty" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/krem_z_kapusty.jpg" alt="Krem z kiszonej kapusty" height="200px" width="40px" />
   <font size="2">
       Podane w ciepłych czarkach amuse-bouche, w postaci kremu z kiszonej kapusty na wędzonce, rozgrzało serce Istoty. Doskonały pomysł.
   </font>
@@ -24,7 +24,7 @@ W ramach przystawki Istota testowała dwie zupy: bulion z gęsi z kołdunami,
  oraz z dań sezonowych, krem z wędzonego śledzia. Bulion i kołduny, nie dorównały poziomem reszcie dań,
   ale krem ze śledzia był wspaniały. Aromatyczny z chrupiącym amarantusem.
 <center><div style="width:65%">
-  <img src="{{site.url}}/assets/img/posts/krem_ze_sledzia.jpg" alt="zestaw sushi" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/krem_ze_sledzia.jpg" alt="zestaw sushi" height="200px" width="40px" />
 
   <font size="2">
 Krem z wędzonego śledzia bałtyckiego na serwatce z jajecznicą, chrupkiem z amarantusa, marynowaną cebulą i nasturcją (tylko nasturcji brakło ;) ).
@@ -38,7 +38,7 @@ Istota ma ogromnie wygórowane oczekiwanie, jak chodzi o kaczkę, a Umami temu s
  Jest ona wielce ukontentowana z tego powodu.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
-  <img src="{{site.url}}/assets/img/posts/kaczka_umami.jpg" alt="Kaczka stirfry z puree z pasternaka."
+  <img src="{{site.img_url}}/assets/img/posts/kaczka_umami.jpg" alt="Kaczka stirfry z puree z pasternaka."
    height="200px" width="40px" />
   <font size="2">
   Kaczka stirfry z fondem z kaczki i puree z pasternaka. Perfekcyjne.
@@ -51,7 +51,7 @@ Bardzo ciekawe połączenie smaków i struktur. Okrisz był idealnie przygotowan
  a całość dopełniała delikatna pianka z sera emilgrana.
 
 <center><div style="width:65%">
-  <img src="{{site.url}}/assets/img/posts/orkisz.jpg" alt="orkisz z espumą serową i jarmużem" height="200px"
+  <img src="{{site.img_url}}/assets/img/posts/orkisz.jpg" alt="orkisz z espumą serową i jarmużem" height="200px"
    width="40px" />
   <font size="2">
    Kremowy orkisz z pudrem z alg morskich, marynowanymi grzybami, espumą serową i jarmużem.
@@ -69,7 +69,7 @@ Na koniec coś, co skłoniło Istotę, aby ponownie odwiedzić Umami.
 
 Za tak wspaniałe wrażenia i świetne pomysły Degustująca Istota przyznaje order “Wesołego Bakłażana”!
 <center><div style="width:30%">
-   <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Umami otrzymuje punktów: **230/250!**

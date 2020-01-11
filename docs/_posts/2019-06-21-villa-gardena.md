@@ -15,7 +15,7 @@ Trzeba pobrać bilecik przy wjeździe, ale&nbsp;przy wyjściu z&nbsp;restauracji
  co&nbsp;zwalnia gościa z&nbsp;opłaty za&nbsp;wjazd.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:45%">
- <img src="{{site.url}}/assets/img/posts/villa_gardena.jpg" alt="Wnętrze restauracji Villa Gardena"
+ <img src="{{site.img_url}}/assets/img/posts/villa_gardena.jpg" alt="Wnętrze restauracji Villa Gardena"
  height="200px" width="40px" />
  <font size="2">
    Wnętrze restauracji jest eleganckie i&nbsp;spokojne, a&nbsp;z&nbsp;głośników płynie przyjemna muzyka.
@@ -27,7 +27,7 @@ Trzeba pobrać bilecik przy wjeździe, ale&nbsp;przy wyjściu z&nbsp;restauracji
 Po złożeniu zamówienia Istota została uraczona świetnym chlebkiem na zakwasie z&nbsp;masłem i&nbsp;solą.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/chlebek_vgardena.jpg" alt="Kromki chleba z masłem opruszonym solą"
+ <img src="{{site.img_url}}/assets/img/posts/chlebek_vgardena.jpg" alt="Kromki chleba z masłem opruszonym solą"
   height="200px" width="40px" />
  <font size="2">
      Chlebek na zakwasie podany z&nbsp;masłem i&nbsp;solą gruboziarnistą.
@@ -41,7 +41,7 @@ Zacznijmy od przystawek w &nbsp;Villa Gardena. Degustująca Istota z&nbsp;towarz
    a&nbsp;majonez z&nbsp;sepią pięknie je&nbsp;dopełniał,
 jak&nbsp;również lekko przygrillowana dymka i&nbsp;słodziutka pietruszka. Cudo!
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/vgardenaprzegrzebek.jpg" alt="Przegrzebki z ciemnym majonezem,
+ <img src="{{site.img_url}}/assets/img/posts/vgardenaprzegrzebek.jpg" alt="Przegrzebki z ciemnym majonezem,
   korzeniem pietruszki i małą dymką" height="200px" width="40px" />
  <font size="2">
 Przegrzebki w&nbsp;towarzystwie karmelizowanych pietruszek, majonezu z&nbsp;sepią i&nbsp;przygrillowanej cebulki dymki.
@@ -53,7 +53,7 @@ Kolejna przystawka, która zdecydowanie jest warta wspomnienia, to&nbsp;foie gra
 ale dość ciężkie z&nbsp;uwagi na tłustość foie gras. Dlatego dobrze wspomóc się&nbsp;tutejszym chlebkiem
 przy zajadaniu tej&nbsp;przystawki.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/vgardenafoiegras.jpg" alt="Krążek foie gras z plastrami trufli i
+ <img src="{{site.img_url}}/assets/img/posts/vgardenafoiegras.jpg" alt="Krążek foie gras z plastrami trufli i
    sosem wiśniowym" height="200px" width="40px" />
  <font size="2">
 Foie gras na zimno w postaci Pate z&nbsp;płatkami trufli czarnej.
@@ -68,7 +68,7 @@ I&nbsp;jeszcze tylko jedna przystawka, choć tatar i&nbsp;śledzik i&nbsp;pierog
  aż w końcu udało się! Cieplutki, puszysty i&nbsp;nie za&nbsp;słony blin. Towarzyszyła mu pyszna śmietana,
  pstrąg wędzony i&nbsp;czerwony kawior. Klasyczne i&nbsp;piękne danie.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/vgardenablin.jpg" alt="Blin na śmietanie,
+ <img src="{{site.img_url}}/assets/img/posts/vgardenablin.jpg" alt="Blin na śmietanie,
   z kawałkami pstrąga i czerwonym kawiorem" height="200px" width="40px" />
  <font size="2">
 Blin gryczany z&nbsp;kosteczkami pstrąga i&nbsp;z&nbsp;kawiorem.
@@ -80,7 +80,7 @@ Jedno z&nbsp;dań, które zrobiło na Istocie największe wrażenie, to był kre
 polany oliwą truflową. Zupa zachwycała aromatem trufli. Niestety czasem bywa tak,
 że smak trufli jest zabijany zbyt ciężkimi składnikami, ale tutaj się to nie zdarzyło.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/krem_z_trufla.jpg" alt="Krem ziemniaczany  truflą" height="200px"
+ <img src="{{site.img_url}}/assets/img/posts/krem_z_trufla.jpg" alt="Krem ziemniaczany  truflą" height="200px"
   width="40px" />
  <font size="2">
 Genialny krem z&nbsp;ziemniaków z&nbsp;dodatkiem świeżej trufli. Istota ma nadzieję,
@@ -92,7 +92,7 @@ Genialny krem z&nbsp;ziemniaków z&nbsp;dodatkiem świeżej trufli. Istota ma na
 Obecnie jest w&nbsp;menu również bardzo dobra zupa krem z&nbsp;białych szparagów z&nbsp;dodatkiem pędów sosny i&nbsp;żółtka.
 Również pyszna i&nbsp;bardzo interesująca. Ale sam wiesz… Trufle to trufle ;)
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/vgardenaszparagowa.jpg" alt="Krem szparagowy z pędami sosny"
+ <img src="{{site.img_url}}/assets/img/posts/vgardenaszparagowa.jpg" alt="Krem szparagowy z pędami sosny"
  height="200px" width="40px" />
  <font size="2">
 Białe szparagi, pokrojone drobno pędy sosny, orzeszki pinii i&nbsp;żółtko.
@@ -107,7 +107,7 @@ Po pierwsze pierlica z foie gras, po drugie kaczka z kopytkami i&nbsp;po trzecie
 Kolejność nie ma znaczenia, wszystkie były rewelacyjne.
 
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/vgardenaperlica.jpg" alt="Perlica z foie gras na ciepło"
+ <img src="{{site.img_url}}/assets/img/posts/vgardenaperlica.jpg" alt="Perlica z foie gras na ciepło"
   height="200px" width="40px" />
  <font size="2">
 Doskonała perliczka, z perfekcyjnym puree kalafiorowym i&nbsp;foie gras na ciepło.
@@ -117,7 +117,7 @@ Doskonała perliczka, z perfekcyjnym puree kalafiorowym i&nbsp;foie gras na ciep
 <br />&ensp;&ensp;&ensp;
 
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/vgardenages.jpg" alt="Pieczona kaczka z kopytkami i
+ <img src="{{site.img_url}}/assets/img/posts/vgardenages.jpg" alt="Pieczona kaczka z kopytkami i
   przypieczoną kapustą" height="200px" width="40px" />
  <font size="2">
 Pyszna i&nbsp;mięciutka kaczka (a może gęś? Istota już nie pamięta dokładnie,
@@ -129,7 +129,7 @@ Pyszna i&nbsp;mięciutka kaczka (a może gęś? Istota już nie pamięta dokład
 <br />&ensp;&ensp;&ensp;
 
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/vgardenarisotto.jpg" alt="Risotto z truflami" height="200px"
+ <img src="{{site.img_url}}/assets/img/posts/vgardenarisotto.jpg" alt="Risotto z truflami" height="200px"
  width="40px" />
  <font size="2">
 Risotto, trufla i&nbsp;owczy ser, to&nbsp;mistrzowskie połączenie. Bardzo Istocie smakowało to&nbsp;danie,
@@ -152,7 +152,7 @@ Istota ma zamiar tu wracać, być&nbsp;może zakosztować menu degustacyjnego. I
 Gratulacje!
 
 <center><div style="width:30%">
-   <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Restauracja Villa Gardena otrzymuje punktów: **230/250!!!**

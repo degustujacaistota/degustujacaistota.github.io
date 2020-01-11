@@ -48,7 +48,7 @@ Odznaka wesołego bakłażana - najwyższe wyróżnienie. Nadawane ulubionym pot
 w której Degustująca Istota się zakochała.
 
 
-<center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
+<center><div style="width:40%"><img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
 ### Tagi

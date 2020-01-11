@@ -15,7 +15,7 @@ Warszawska restauracja Amber Room została umieszczona na&nbsp;prestiżowej La L
 
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ar_wnetrze.jpg" alt="Wnętrze restauracji Amber Room"
+ <img src="{{site.img_url}}/assets/img/posts/ar_wnetrze.jpg" alt="Wnętrze restauracji Amber Room"
  height="200px" width="40px" />
  <font size="2">
  Wnętrze restauracji jest eleganckie i&nbsp;spokojne. Dominują tu szarości i&nbsp;biel.
@@ -28,7 +28,7 @@ Istota zamówiła dania a la carte i&nbsp;została poczęstowana ciepłymi bułe
   Każda bułeczka była inna kształtem i&nbsp;smakiem.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ar_buleczki.jpg" alt="Małe bułeczki z&nbsp;różnymi ziarnami"
+ <img src="{{site.img_url}}/assets/img/posts/ar_buleczki.jpg" alt="Małe bułeczki z&nbsp;różnymi ziarnami"
  height="200px" width="40px" />
  <font size="2">
      Małe bułeczki obsypane były ziarnami i&nbsp;podane z&nbsp;masłem, również robionym w&nbsp;Amber Room.
@@ -39,7 +39,7 @@ Istota zamówiła dania a la carte i&nbsp;została poczęstowana ciepłymi bułe
 Na przystawkę Istota zamówiła węgorza wędzonego z&nbsp;foie gras. Wszystkie składniki razem ładnie się dopełniały,
  węgorz był wspaniały, ale foie gras było dla Istoty za&nbsp;bardzo alkoholowe.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ar_wegorz.jpg" alt=" Kawałek wędzonego węgorza z foie gras i
+ <img src="{{site.img_url}}/assets/img/posts/ar_wegorz.jpg" alt=" Kawałek wędzonego węgorza z foie gras i
   kuskusem buraczanym" height="200px" width="40px" />
  <font size="2">
 Pięknie podany węgorz z&nbsp;pate z&nbsp;foie gras. Przyozdobiony karmelowym tiulem z&nbsp;wódki pomarańczowej i&nbsp;kuskusem buraczanym.
@@ -50,7 +50,7 @@ Pięknie podany węgorz z&nbsp;pate z&nbsp;foie gras. Przyozdobiony karmelowym t
 Na danie główne Istota towarzysząca Degustującej Istocie zamówiła perliczkę z&nbsp;soczewicą, chorizo,
 faszerowanym Bon Bon i&nbsp;pasternakiem. Danie równie piękne co smaczne. Perliczka i&nbsp;puree były wspaniałe.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ar_perliczka.jpg" alt="Pierś perliczki w kawałkach z kulką owiniętą
+ <img src="{{site.img_url}}/assets/img/posts/ar_perliczka.jpg" alt="Pierś perliczki w kawałkach z kulką owiniętą
   włoską kapustą " height="200px" width="40px" />
  <font size="2">
 Pierś z perliczki na czarnej soczewicy z&nbsp;puree. Pyszne danie.
@@ -61,7 +61,7 @@ Pierś z perliczki na czarnej soczewicy z&nbsp;puree. Pyszne danie.
 Degustująca Istota na danie główne wybrała kaczkę. Był to niesamowicie delikatny filet z &nbsp;piersi kaczki.
  Doskonale przyrządzony i&nbsp;zaserwowany z&nbsp;pak choi, batatem i&nbsp;młodą marchewką.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ar_kaczaka.jpg" alt="Dwa kawałki filetu z&nbsp;kaczki z&nbsp;kropkami sosu i&nbsp;warzywami" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/ar_kaczaka.jpg" alt="Dwa kawałki filetu z&nbsp;kaczki z&nbsp;kropkami sosu i&nbsp;warzywami" height="200px" width="40px" />
  <font size="2">
 Nie dość, że&nbsp;sama kaczka była świetna, to jeszcze sos i&nbsp;dodatki były równie pyszne. Mistrzowskie danie.
  Chętni Istota przyszła by na nią ponownie, ale niestety nie ma już jej w&nbsp;karcie.
@@ -74,7 +74,7 @@ Za namową sympatycznej Pani, która obsługiwała Istoty,
  ale Istota po kilku kęsach dała za wygraną, bo było go dość dużo. Dla równowagi druga
 Degustująca Istota nie miała z&nbsp;tym najmniejszych problemów i&nbsp;była tym deserem zachwycona.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ar_suflet.jpg" alt="Czekoladowy suflet podany z lodami"
+ <img src="{{site.img_url}}/assets/img/posts/ar_suflet.jpg" alt="Czekoladowy suflet podany z lodami"
  height="200px" width="40px" />
  <font size="2">
 Gorący suflet czekoladowy w&nbsp;towarzystwie lodów z&nbsp;marakuji.
@@ -84,7 +84,7 @@ Gorący suflet czekoladowy w&nbsp;towarzystwie lodów z&nbsp;marakuji.
 
 Na sam koniec Degustujące Istoty zostały poczęstowane pralinkami robionymi w&nbsp;restauracji Amber Room.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ar_pralinki.jpg" alt="Cztery różne pralinki na talerzyku"
+ <img src="{{site.img_url}}/assets/img/posts/ar_pralinki.jpg" alt="Cztery różne pralinki na talerzyku"
   height="200px" width="40px" />
  <font size="2">
 Pralinki, jako poczęstunek na koniec obiadu.

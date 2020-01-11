@@ -20,7 +20,7 @@ Kelner podając potrawy miał założony noktowizor, który dawał pewną iloś�
  dzięki czemu łatwo można go było zlokalizować.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/tatar_losos.jpg" alt="Tatar z łososia" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/tatar_losos.jpg" alt="Tatar z łososia" height="200px" width="40px" />
    <font size="2">
        Na przystawkę podany był Tatar z&nbsp;łososia z&nbsp;pesto i&nbsp;grzanką.
    </font>
@@ -32,7 +32,7 @@ Przy każdej potrawie moderator oraz kelner dopytywali się osób na sali co uwa
   i&nbsp;ogólnie trafianiu w&nbsp;talerz. Początki były więc trudne.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/ser_z_zurawina.jpg" alt="Ser panierowany z żurawiną" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/ser_z_zurawina.jpg" alt="Ser panierowany z żurawiną" height="200px" width="40px" />
    <font size="2">
 Na zdjęciu danie, które dostali pozostali goście, czyli Ser w panierce.
  Degustująca Istota z&nbsp;uwagi na alergie otrzymała ozorek, również w&nbsp;chrupkiej panierce z&nbsp;żurawiną.
@@ -57,7 +57,7 @@ Następnie zaserwowano intermezzo. Jako przerywnik pomiędzy ciężkimi mięsnym
 
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
-   <img src="{{site.url}}/assets/img/posts/dorsz_z_boczkiem.jpg" alt="Sorbet" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/dorsz_z_boczkiem.jpg" alt="Sorbet" height="200px" width="40px" />
    <font size="2">
     Dorsz w&nbsp;boczku podany na risotto z&nbsp;buraków z&nbsp;jarmużowymi chipsami.
 Doskonałe danie. Istota była przekonana, że je łososia z&nbsp;przypieczoną skórką.

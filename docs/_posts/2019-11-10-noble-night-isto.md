@@ -23,7 +23,7 @@ Dlatego unika kolacji, gdzie pairing wina jest obowiązkowy i&nbsp;wliczony w&nb
 
 Tradycyjny już Amuse-bouche w&nbsp;Isto i&nbsp;tradycyjnie pyszny. _4&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.url}}/assets/img/posts/isto_chlodnik.jpg" alt="Chłodnik podany w kieliszku. Na którym położony
+<img src="{{site.img_url}}/assets/img/posts/isto_chlodnik.jpg" alt="Chłodnik podany w kieliszku. Na którym położony
 jest czarny chips z białym kremem z koziego sera, ozdobiony bordowym płatkiem kwiatu"
 height="200px" width="40px" />
 </div></center>
@@ -33,7 +33,7 @@ height="200px" width="40px" />
 
 Przystawka w&nbsp;postaci Carpaccio wołowego z&nbsp;pianą z&nbsp;kiszonych ogórków. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/isto_carpaccio.jpg" alt="Jasna piana przykrywa plastry wołowiny i
+<img src="{{site.img_url}}/assets/img/posts/isto_carpaccio.jpg" alt="Jasna piana przykrywa plastry wołowiny i
 czerwoną kapustę doprawioną musztardą"
 height="200px" width="40px" />
 </div></center>
@@ -46,7 +46,7 @@ To było genialne danie. Gładka grzybowa galaretka skrywała idealnie przyrząd
  Kilka owoców nasturcji, które Istota jadła po raz pierwszy, było wyrazistym akcentem dopełniającym danie.
   Rewelacja. Sposób podania również był piękny. Istota z&nbsp;przyjemnością daje _5&nbsp;[bakłażanów]_ !
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/isto_jesiotr.jpg" alt="W ciemnym, głębokim talerzu znajduje się mgła
+<img src="{{site.img_url}}/assets/img/posts/isto_jesiotr.jpg" alt="W ciemnym, głębokim talerzu znajduje się mgła
 a przez nią widać kawałki pietruszki i marchewki, oraz zieleninę i kawałek plasterka wołowiny"
 height="200px" width="40px" />
 </div></center>
@@ -58,7 +58,7 @@ Chrupiąca kaszanka z&nbsp;delikatnymi kaczymi żołądkami. Do tego ketchup z&n
 Przepiękne dania, świetnie skomponowane. To danie było serwowane również na minionym @restaurant_week_polska.
 _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/isto_kaszanka.jpg" alt="Opanierowany krążek kaszanki, na nim
+<img src="{{site.img_url}}/assets/img/posts/isto_kaszanka.jpg" alt="Opanierowany krążek kaszanki, na nim
 dwa kawałki żołądków. A obok czerwone i pomarańczowe kółka sosów. Udekorowane gałązką groszku
 cukrowego i płatkami kwiatów" height="200px" width="40px" />
 </div></center>
@@ -69,7 +69,7 @@ cukrowego i płatkami kwiatów" height="200px" width="40px" />
 Orzeźwiające Intermezzo o&nbsp;zaskakującym smaku.
 _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/isto_intermezzo.jpg" alt="Wydrążona, biała kula lodowa wypełniona zieloną
+<img src="{{site.img_url}}/assets/img/posts/isto_intermezzo.jpg" alt="Wydrążona, biała kula lodowa wypełniona zieloną
 granitą, podana na kostkach lodu"
 height="200px" width="40px" />
 </div></center>
@@ -82,7 +82,7 @@ była zdaniem Istoty dość dobra, choć mogłaby być bardziej wyrazista.
  Niestety pierś była zbyt krwista i&nbsp;twarda, aby Istota mogła ją zjeść. Sałatka świetna.
 _1&nbsp;[bakłażan]._
 <center><div style="width:50%">
-<img src="{{site.url}}/assets/img/posts/isto_golab.jpg" alt="Kulka w tempurze z mięsem z której wystaje kość. Obok
+<img src="{{site.img_url}}/assets/img/posts/isto_golab.jpg" alt="Kulka w tempurze z mięsem z której wystaje kość. Obok
 pierś gołębia oblana śmietaną i sosem. Obok mięsa położona jest sałatka z drobno pokrojonej gruszki i jarmużu."
 height="200px" width="40px" />
 </div></center>
@@ -93,7 +93,7 @@ height="200px" width="40px" />
 Ciasto opera z&nbsp;lodami chlebowymi, podane z&nbsp;migdałami.
 _2&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/isto_opera.jpg" alt="Ciasto w czekoladowo białe poziome warstwy.
+<img src="{{site.img_url}}/assets/img/posts/isto_opera.jpg" alt="Ciasto w czekoladowo białe poziome warstwy.
 Obok beżowe lody na zmielonych migdałach"
 height="200px" width="40px" />
 </div></center>
@@ -105,7 +105,7 @@ Na zakończenie jeszcze niespodzianka. Pyszny ptyś francuski i&nbsp;pralinka z&
 Foie Gras. Zaskakujące połączenie, które okazało się bardzo ciekawe.
 _3&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/isto_pralinki.jpg" alt="W płaskiej, drewnianej skrzynce wysypanej
+<img src="{{site.img_url}}/assets/img/posts/isto_pralinki.jpg" alt="W płaskiej, drewnianej skrzynce wysypanej
 ziarnami leżą 2 pralinki posypane kakaem i 2 ptysie przekrojone w połowie i wypełnione jasnym kremem."
 height="200px" width="40px" />
 </div></center>
@@ -122,7 +122,7 @@ Wieczór był interesujący i&nbsp;dzięki sommelierowi Leszkowi Istota usłysza
     Za całokształt kolacji z&nbsp;menu degustacyjnym Istota podtrzymuje odznakę Wesołego Bakłażana dla Isto!
 
 <center><div style="width:35%">
- <img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+ <img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 

@@ -19,7 +19,7 @@ Signature jest podzielona na kilka sal oraz patio. To, co wyróżnia Signature t
 
 Amuse-bouche. Rozpływający się w ustach plaster jagnięciny sous vide. _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/sig_lamb.jpg" alt="Małe bułeczki z&nbsp;różnymi ziarnami"
+ <img src="{{site.img_url}}/assets/img/posts/sig_lamb.jpg" alt="Małe bułeczki z&nbsp;różnymi ziarnami"
  height="200px" width="40px" />
 </div></center>
 <br />
@@ -29,7 +29,7 @@ Amuse-bouche. Rozpływający się w ustach plaster jagnięciny sous vide. _4&nbs
 Przystawka na ciepło. Przysmażone, idealnie gładkie foie gras. Mak drobno zmielony doskonale się komponował
 z wątróbką. _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/sig_foie_gras.jpg" alt="Małe bułeczki z&nbsp;różnymi ziarnami"
+ <img src="{{site.img_url}}/assets/img/posts/sig_foie_gras.jpg" alt="Małe bułeczki z&nbsp;różnymi ziarnami"
  height="200px" width="40px" />
 </div></center>
 <br />
@@ -38,7 +38,7 @@ z wątróbką. _4&nbsp;[bakłażany]._
 
 Zupa. Wywar intensywnie grzybowy. _3&nbsp;[bakłażany]._
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/sig_wywar.jpg" alt="Wywar grzybowy" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/sig_wywar.jpg" alt="Wywar grzybowy" height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
@@ -47,7 +47,7 @@ Zupa. Wywar intensywnie grzybowy. _3&nbsp;[bakłażany]._
 Danie główne. Sygnowane przez Borysa Szyca. Aksamitny sos maślany i trufle to coś co Istota uwielbia. Pomidorki nie koniecznie, ale
 bardzo nie przeszkadzały. Mogłoby być więcej trufli, bo trufli nigdy za wiele. _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/sig_makaron.jpg" alt="Makaron z płatkami trufli i pokrojonymi pomidorkami"
+ <img src="{{site.img_url}}/assets/img/posts/sig_makaron.jpg" alt="Makaron z płatkami trufli i pokrojonymi pomidorkami"
   height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -57,7 +57,7 @@ bardzo nie przeszkadzały. Mogłoby być więcej trufli, bo trufli nigdy za wiel
 Danie główne.Sygnowane przez Anitę Lipnicką i Marka Gray'a. Delikatna ośmiornica, doskonale doprawiona i idealnie miękka. Całość dodatków dobrze dobrana.
 Chimichurri również bardzo dobre. _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/sig_osmiornica.jpg" alt="Macki ośmiornicy z rożkiem zielonym"
+ <img src="{{site.img_url}}/assets/img/posts/sig_osmiornica.jpg" alt="Macki ośmiornicy z rożkiem zielonym"
  height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -66,7 +66,7 @@ Chimichurri również bardzo dobre. _4&nbsp;[bakłażany]._
 
 Deser. Tarta została nagrodzona pierwszym miejscem na @winefoodnoblenight. _4&nbsp;[bakłażany]._
 <center><div style="width:45%">
- <img src="{{site.url}}/assets/img/posts/sig_tarta.jpg" alt="Tarta pralinkowa z lodami"
+ <img src="{{site.img_url}}/assets/img/posts/sig_tarta.jpg" alt="Tarta pralinkowa z lodami"
  height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;&ensp;
@@ -74,7 +74,7 @@ Deser. Tarta została nagrodzona pierwszym miejscem na @winefoodnoblenight. _4&n
 ### Podsumowanie:
 
 <center><div style="width:30%">
-   <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 Istota jest zauroczona Signature i przyznaje tej restauracji Odznakę Wesołego Bakłażana. Obsługa jest miła i profesjonalna. Dania są bardzo smaczne i nie przekombinowane.

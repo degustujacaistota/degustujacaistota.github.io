@@ -14,7 +14,7 @@ Pierwsze danie było genialne. Krem z topinamburu i pomarańczy z dodatkiem chru
  Pięknie podane i bardzo dobre w smaku.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/krem_topinambur.jpg" alt="Krem z topinamburu" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/krem_topinambur.jpg" alt="Krem z topinamburu" height="200px" width="40px" />
   <font size="2">
       Krem z topinamburu w trakcie nalewania. Piękne, czarne talerze wykonane specjalnie dla Momo, robią wrażenie.
   </font>
@@ -26,7 +26,7 @@ Kolejne danie wyglądało również pięknie, ale niestety nie było tak pyszne 
  Chrupiąca czarna fasola, to też ciekawy dodatek. Ogólnie danie bardzo dobre, tylko mogłoby być bardziej wyraziste.
 
 <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/buraki.jpg" alt="Buraki z marchewką" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/buraki.jpg" alt="Buraki z marchewką" height="200px" width="40px" />
 
   <font size="2">
 Buraki z marchewką i puree z czosnku w tempurze. Puree było genialne. Degustująca Istota nie ma pojęcia,
@@ -41,7 +41,7 @@ Deser Istotę oraz jej towarzyszy wprowadził w burzę wielu różnych odczuć. 
   Elementy bardzo oryginalne i na pewno wymagające wiele pracy. Istocie to dziwo smakowało,
   choć może nie było najlepszym deserem, jaki Istota testowała na festiwalu.
  <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/momo_pudding.jpg" alt="Pudding z kawałkami czekolady"
+  <img src="{{site.img_url}}/assets/img/posts/momo_pudding.jpg" alt="Pudding z kawałkami czekolady"
    height="200px" width="40px" />
 
   <font size="2">

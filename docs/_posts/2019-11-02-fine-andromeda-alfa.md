@@ -30,7 +30,7 @@ Było to piękne i&nbsp;zarazem pyszne danie. Pomidorowy tatar wspaniale łączy
 i&nbsp;kremowym awokado.
 _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/alf_tatar.jpg" alt="Na złoto czarnym talerzu znajduje
+<img src="{{site.img_url}}/assets/img/posts/alf_tatar.jpg" alt="Na złoto czarnym talerzu znajduje
  się pomidorowy tatar na kozim serze. Na warstwie tatara są plastry awokado oraz biały chips z
  kiełkami na samej górze. Obok tatara położona jest pomarańczowa granita"
 height="200px" width="40px" />
@@ -41,7 +41,7 @@ height="200px" width="40px" />
 
 Kremowa, gęsta zupa była bardzo aromatyczna i&nbsp;sycąca. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/alf_zupa.jpg" alt="Żółty krem porowo-jabłkowy z
+<img src="{{site.img_url}}/assets/img/posts/alf_zupa.jpg" alt="Żółty krem porowo-jabłkowy z
  kawałkami jabłek i przysmażonym boczkiem"
 height="200px" width="40px" />
 </div></center>
@@ -52,7 +52,7 @@ height="200px" width="40px" />
 Pięknie podane we&nbsp;mgle z&nbsp;ciekłego azotu szafranowe risotto było świetnie przyrządzone.
  Również wołowina i&nbsp;warzywa były doskonałe. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/alf_risotto.jpg" alt="W ciemnym, głębokim talerzu znajduje się mgła a
+<img src="{{site.img_url}}/assets/img/posts/alf_risotto.jpg" alt="W ciemnym, głębokim talerzu znajduje się mgła a
  przez nią widać kawałki pietruszki i marchewki, oraz zieleninę i kawałek plasterka wołowiny"
 height="200px" width="40px" />
 </div></center>
@@ -64,7 +64,7 @@ Pieczony łosoś na troszkę dla Istoty zbyt miękkim makaronie.
 Sam łosoś i&nbsp;warzywa świetnie przyrządzone.
 _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/alfa_losos.jpg" alt="Kawałek łososia na czarnym makaronie,
+<img src="{{site.img_url}}/assets/img/posts/alfa_losos.jpg" alt="Kawałek łososia na czarnym makaronie,
  otoczonym pomidorowym sosem z białymi kropkami sosu holenderskiego.
   Podane na pomarańczowym talerzu" height="200px" width="40px" />
 </div></center>
@@ -74,7 +74,7 @@ _3&nbsp;[bakłażany]._
 
 Tarta czekoladowa z&nbsp;czekoladowym musem i&nbsp;ażurową rurką z&nbsp;kremem. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/alf_deser.jpg" alt="Ażurowa rurka z kremem,
+<img src="{{site.img_url}}/assets/img/posts/alf_deser.jpg" alt="Ażurowa rurka z kremem,
 podana na krążku tarty z musem czekoladowym" height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -88,7 +88,7 @@ Isota tam wróci przy najbliższej okazji. Obsługa jest profesjonalna
   odznakę Wesołego Bakłażana!
 
 <center><div style="width:35%">
- <img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana"
+ <img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana"
  height="100" width="auto" />
 </div></center>
 

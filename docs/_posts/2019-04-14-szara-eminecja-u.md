@@ -17,7 +17,7 @@ Istota zaczęła od Carpaccio z buraka z hummusem pistacjowym.
   W smaku słodkawo ostre, bo słodycz buraka i hummusu przełamywała czerwona jalapeno oraz musztardowa beza.
 
 <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/carpaccio_burak.jpg" alt="Carpaccio z buraka" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/carpaccio_burak.jpg" alt="Carpaccio z buraka" height="200px" width="40px" />
   <font size="2">
       Doskonała przystawka. Carpaccio z buraka z bezą musztardową, polane oliwą sezamową i podkręcone jalapeno. Cudo!
   </font>
@@ -30,7 +30,7 @@ Gołąbki z kasztanami i kaszą gryczaną były następnym daniem.
  ale kasztany trudno było wyczuć. Chrust był smaczny i świetnie chrupał, ale jako dodatek do obiadu sprawiał wiele
   trudności. Był twardy i barwił wszystko czego dotknął na pomarańczowo. Lepiej by się sprawdził, jako przegryzka.
 <center><div style="width:45%">
-  <img src="{{site.url}}/assets/img/posts/galabki_szara_em.jpg" alt="Gołąbki z kasztanami" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/galabki_szara_em.jpg" alt="Gołąbki z kasztanami" height="200px" width="40px" />
 
   <font size="2">
 Gołąbki z kasztanami i kaszą gryczaną. Podane z chrustem z makaronu ryżowego. Polane salsą concasse i oliwą bazyliową.
@@ -42,7 +42,7 @@ koło której umieszczone zostały kuleczki jagodowe (jagodowy kawior). Kuleczki
  Esencja jagodowa, która świetnie pasowała do gruszki i parfait. Cały deser był bardzo dobrze skomponowany i pyszny.
 
  <center><div style="width:55%">
-  <img src="{{site.url}}/assets/img/posts/gruszka_w_winie.jpg" alt="Gruszki z parfait cynamonowym" height="200px" width="40px" />
+  <img src="{{site.img_url}}/assets/img/posts/gruszka_w_winie.jpg" alt="Gruszki z parfait cynamonowym" height="200px" width="40px" />
 
   <font size="2">
 Gruszka duszona w winie. Podana z parfait cynamonowym i kawiorem jagodowym.

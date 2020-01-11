@@ -26,7 +26,7 @@ Do tego świetny majonez z&nbsp;ziołami i&nbsp;piklami. Pieczywo również był
 Po posmarowaniu go masłem truflowym nabierało cudownego smaku i&nbsp;aromatu. Degustująca Istota jadła inną wersję tej
 kaszanki w&nbsp;Plado, ale ta wersja o&nbsp;wiele bardziej smakowała. _4&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.url}}/assets/img/posts/um_starter_kasz.jpg" alt="Kulka opanierowanej
+<img src="{{site.img_url}}/assets/img/posts/um_starter_kasz.jpg" alt="Kulka opanierowanej
 kaszanki na sosie majonezowym, podana a płaskim dużym talerzu z czerwonymi zdobieniami.
 W tle misa z kromkami chleba i miseczką z masłem z kawałkami trufli czarnej."
 height="200px" width="40px" />
@@ -39,7 +39,7 @@ Pierwsza przystawka (Marcin Pławecki). Prosta i&nbsp;genialna. Istota nie przep
 ale tutaj było to piękne, uzupełniające się połączenie. Carpaccio miało smak dymu, naprawdę miało się wrażenie,
 że&nbsp;je&nbsp;się dym. Rozpływało się w&nbsp;ustach, a&nbsp;plasterki trufli lekko chrupały. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/um_carpaccio.jpg" alt="Płasko położone plasterki gęsiny z plasterkami
+<img src="{{site.img_url}}/assets/img/posts/um_carpaccio.jpg" alt="Płasko położone plasterki gęsiny z plasterkami
 czarnej trufli na płaskim białym talerzu. Całość polana oliwą."
 height="200px" width="40px" />
 </div></center>
@@ -54,7 +54,7 @@ Krokiet ze&nbsp;ślimakiem w&nbsp;środku i&nbsp;kawiorem ze ślimaka na&nbsp;g�
 również bardzo ciekawy i&nbsp;smaczny.
 Całość podkręcała intensywna redukcja z&nbsp;wina porto i&nbsp;słodki biszkopt. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/um_pasztetowa.jpg" alt="Ciemny błyszczący talerz z kawałkiem pasztetowej,
+<img src="{{site.img_url}}/assets/img/posts/um_pasztetowa.jpg" alt="Ciemny błyszczący talerz z kawałkiem pasztetowej,
 jako czekoladowa pralinka, strzępkami zielonego, puszystego biszkoptu oraz mini krokiecikiem z białym kawiorem u góry.
  Na środku ciemno czerwony sos."
 height="200px" width="40px" />
@@ -66,7 +66,7 @@ height="200px" width="40px" />
 Zupa (Marcin Pławecki). Bulion z&nbsp;suszonym tuńczykiem katsuobushi i&nbsp;glonami w&nbsp;stylu orientalnym,
 w&nbsp;którym zanurzone były pyszne pierożki z&nbsp;mięsem gęsi. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.url}}/assets/img/posts/um_bulion.jpg" alt=" Biały głęboki talerz z bulionem i dwoma pierożkami."
+<img src="{{site.img_url}}/assets/img/posts/um_bulion.jpg" alt=" Biały głęboki talerz z bulionem i dwoma pierożkami."
 height="200px" width="40px" />
 </div></center>
 <br />
@@ -77,7 +77,7 @@ Pierwsze danie główne (Marcin Pławecki). Rewelacyjnie przyrządzone gęsie ż
  Puree z&nbsp;pasternaku również świetne, jak i&nbsp;pistacjowe pesto oraz dwa kontrastowe elementy,
  sól gruboziarnista i&nbsp;słonecznik. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/um_zoladki.jpg" alt="Na stole są trzy płaskie,
+<img src="{{site.img_url}}/assets/img/posts/um_zoladki.jpg" alt="Na stole są trzy płaskie,
  białe talerze z plastrami żołądków na beżowym puree z pasternaku. Obok puree, są rozlane porcje pesto a
  obok plastrów mięsa znajduje się kopczyk słonecznika  " height="200px" width="40px" />
 </div></center>
@@ -89,7 +89,7 @@ Drugie danie główne (Mateusz Bieniek, Robert Biniasz). Pierś gęsi marynowana
 trzymana w&nbsp;chłodni ponad 40 godzin.
 _2&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/um_golobek.jpg" alt="Kawałek mięsa posypany jasnymi okruchami,
+<img src="{{site.img_url}}/assets/img/posts/um_golobek.jpg" alt="Kawałek mięsa posypany jasnymi okruchami,
  położony na czerwonym talerzu. Obok mięsa listek kapusty złożony na pół."
 height="200px" width="40px" />
 </div></center>
@@ -99,7 +99,7 @@ height="200px" width="40px" />
 
 Deser (Mateusz Bieniek, Robert Biniasz). Ładnie prezentujący się deser, nie za słodki i&nbsp;smaczny. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/um_paczek.jpg" alt="Stół z płaskimi,
+<img src="{{site.img_url}}/assets/img/posts/um_paczek.jpg" alt="Stół z płaskimi,
 dużymi talerzami ze złoconym brzegiem na których podane są pączki z różowym lukrem, białym pudrem i popcornem."
 height="200px" width="40px" />
 </div></center>
@@ -109,7 +109,7 @@ height="200px" width="40px" />
 
 Miłe zakończenie wieczoru. Kuleczki chłodnej białej czekolady z&nbsp;wnętrzem z&nbsp;rokitnika. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.url}}/assets/img/posts/um_pralinki.jpg" alt="Mały, czarny i błyszczący talerzyk z białymi kulkami."
+<img src="{{site.img_url}}/assets/img/posts/um_pralinki.jpg" alt="Mały, czarny i błyszczący talerzyk z białymi kulkami."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -130,7 +130,7 @@ Jeszcze kilka słów o&nbsp;obsłudze. Uśmiechnięci i&nbsp;zapracowani, ale og
 Za piękny wieczór z&nbsp;pysznym jedzeniem @degustujacaistota oczywiście wręcza odznakę Wesołego
 Bakłażana wszystkim trzem restauracjom.
 <center><div style="width:35%">
-<img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+<img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 

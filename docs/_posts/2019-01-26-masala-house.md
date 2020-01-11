@@ -15,7 +15,7 @@ Jednak większość tego, co postanowiła tam spróbować było bardzo dobre, a&
 Choć trzeba przyznać, że sporo dań smakuje tak samo. Zalane jest tym samy sosem,
  a&nbsp;jedynie składnik główny się zmienia.
 
-<center><div style="width:50%"> <img src="{{site.url}}/assets/img/posts/cebulowe.jpg" alt="cebulowe placuszki" height="100px" width="40px" />
+<center><div style="width:50%"> <img src="{{site.img_url}}/assets/img/posts/cebulowe.jpg" alt="cebulowe placuszki" height="100px" width="40px" />
     <font size="2">Te cebulowe placuszki “Złociste cebulki”, to już nałóg Degustującej Istoty. Zamawia je zawsze, kiedy tam wstępuje i&nbsp;bardzo poleca. </font></div></center>
 <br />&ensp;&ensp;&ensp;&ensp;
 
@@ -26,7 +26,7 @@ Degustująca Istota miała okazję spróbować Okry, która była bardzo dobra i
  który był miękki i&nbsp;dobry, ale o&nbsp;dziwo było go dość mało.
 Można by zmienić nazwę tego dania na ziemniaki z&nbsp;bakłażanem.
 
-<center><div style="width:60%"> <img src="{{site.url}}/assets/img/posts/pikantne_ziemniaczki.jpg" alt="Pikantne ziemniaczki" height="100px" width="40px" />
+<center><div style="width:60%"> <img src="{{site.img_url}}/assets/img/posts/pikantne_ziemniaczki.jpg" alt="Pikantne ziemniaczki" height="100px" width="40px" />
     <font size="2"> Degustująca Istota uwielbia te ziemniaczki na ostro. To proste danie, ale jest świetne i&nbsp;ostre. A&nbsp;trzeba przyznać, że Istota kocha ostre… oj bardzo kocha.
         Osobom ze słabą odpornością na pikantne potrawy, odradza. Zresztą w&nbsp;menu są oznaczenia poziomów ostrości, więc bez obaw.
     </font></div></center>

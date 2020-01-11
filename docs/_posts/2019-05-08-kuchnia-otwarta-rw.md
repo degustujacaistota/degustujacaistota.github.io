@@ -15,7 +15,7 @@ Powitanie było bardzo miłe. Obsługa starała się, aby gość czuł się zaop
 Na początek Degustujące Istoty dostały chlebek z masłem, aby umilić im czekanie na potrawy.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
- <img src="{{site.url}}/assets/img/posts/kuchnia_otwarta.jpg" alt="Kromki chleba, jako czekadełko" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/kuchnia_otwarta.jpg" alt="Kromki chleba, jako czekadełko" height="200px" width="40px" />
  <font size="2">
     Amuse-bouche w postaci kromek chleba z masłem.
  </font>
@@ -29,7 +29,7 @@ go było znacznie mniej spektakularne, niż wersji mięsnej. Na szczęście jedn
 Istoty wegetariańskie uraczone zostały, burakami Hrabiego Tyszkiewicza. Były one całkiem smaczne.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/buraczki_ko.jpg" alt="Buraki z sosem chrzanowym" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/buraczki_ko.jpg" alt="Buraki z sosem chrzanowym" height="200px" width="40px" />
  <font size="2">
      Buraki z sosem chrzanowym i koperkiem jako przystawka.
  </font>
@@ -39,7 +39,7 @@ Istoty wegetariańskie uraczone zostały, burakami Hrabiego Tyszkiewicza. Były 
 Kolejnym daniem były całkiem dobre gołąbki z&nbsp;kaszą i&nbsp;grzybami w&nbsp;sosie śmietanowo grzybowym.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/golabki_ko.jpg" alt="Gołąbki z kaszą gryczaną i grzybami" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/golabki_ko.jpg" alt="Gołąbki z kaszą gryczaną i grzybami" height="200px" width="40px" />
  <font size="2">
      Gołąbki z kaszą gryczaną i grzybami.
  </font>
@@ -48,7 +48,7 @@ Kolejnym daniem były całkiem dobre gołąbki z&nbsp;kaszą i&nbsp;grzybami w&n
 
 Jako deser podano sorbet jabłkowy z cydrem i&nbsp;bezą. Również smaczny, prosty deser.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/sorbet_ko.jpg" alt="Sorbet jabłkowy w pucharku z bezą" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/sorbet_ko.jpg" alt="Sorbet jabłkowy w pucharku z bezą" height="200px" width="40px" />
 
  <font size="2">
 Sorbet z cydrem, bezą i dodatkiem mięty.

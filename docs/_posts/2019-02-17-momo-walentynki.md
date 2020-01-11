@@ -21,7 +21,7 @@ Degustacja rozpoczęła się od Hummusu z&nbsp;awokado i&nbsp;chili (na zdjęciu
  kremowy i&nbsp;lekko pikantny. Podany w bardzo ładny sposób na delikatnej grzance.
 
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/krem_z_batatow.jpg" alt="Krem z batatów" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/krem_z_batatow.jpg" alt="Krem z batatów" height="200px" width="40px" />
    <font size="2">
        Krem z&nbsp;batatów z&nbsp;pomarańczą i&nbsp;imbirem, podany z&nbsp;chipsem z&nbsp;batata, był klasyczą propozycją, ale bardzo dobrą.
        Doskonale doprawiony, gęsty i&nbsp;aromatyczny.
@@ -33,7 +33,7 @@ Momo Istota zna na tyle, by wiedzieć, że nie idą na łatwiznę i&nbsp;podchod
 Walentynkowe danie główne było tego świetnym przykładem.
  <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/salsefia.jpg" alt="Salsefia z gąszczem z topinamburu" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/salsefia.jpg" alt="Salsefia z gąszczem z topinamburu" height="200px" width="40px" />
    <font size="2">
        Pyszne danie główne, salsefia (Kozibród porolistny) podana z&nbsp;tzw.&nbsp;gąszczem (gęstym sosem) z&nbsp;topinamburu
         z&nbsp;kawą, grillowaną cykorią w&nbsp;tempurze, grillowanym boczniakiem oraz jabłkiem w&nbsp;cydrze. Perfekcyjnie skomponowane i&nbsp;wykonane.
@@ -47,7 +47,7 @@ Warzywna uczta to dokładnie to, czego Istota oczekiwała po Momo i&nbsp;się ni
  zwłaszcza, że cena za parę to jedynie 150 zł za 4 dania łącznie z&nbsp;powitalnym kieliszkiem prossecco.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-   <img src="{{site.url}}/assets/img/posts/ptasie_mleczko.jpg" alt="Ptasie mleczko z marakują" height="200px" width="40px" />
+   <img src="{{site.img_url}}/assets/img/posts/ptasie_mleczko.jpg" alt="Ptasie mleczko z marakują" height="200px" width="40px" />
    <font size="2">
      Na deser ptasie mleczko z&nbsp;mleka kokosowego z&nbsp;marakują. Degustująca Istota nie przepada za deserami,
      bo zwykle są przesłodzone, ale ten... Ten był idealny. Słodko-kwaśny z&nbsp;dodatkiem owoców i&nbsp;sosem truskawkowym. Super!
@@ -60,7 +60,7 @@ Restauracja Momo skradła serce Degustującej Istoty nie tylko Wege Walentynkami
 gdzie Momo prezentowało doskonały poziom. Tylko raz, można powiedzieć, że zaliczyli wpadkę,
  podając na Restaurant Week niedoprawiony tatar z&nbsp;bakłażana i&nbsp;twarde bliny, ale poza tym incydentem dania były tam idealne.
 <center><div style="width:30%">
-   <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ### Podsumowanie :

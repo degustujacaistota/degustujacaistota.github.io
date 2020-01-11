@@ -19,7 +19,7 @@ Festiwalową ucztę rozpoczęła przystawka z&nbsp;łososia. Było to carpaccio 
 i&nbsp;posypką z pumpernikla. Charakteru nadawał sos musztardowy. Całkiem dobra przystawka.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:45%">
- <img src="{{site.url}}/assets/img/posts/salmon_vienna.jpg" alt="Talerz z carpaccio z łososiem i widok na restauracje" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/salmon_vienna.jpg" alt="Talerz z carpaccio z łososiem i widok na restauracje" height="200px" width="40px" />
  <font size="2">
     Carpaccio z łososia z kompresowanym ogórkiem.
  </font>
@@ -32,7 +32,7 @@ choć ciasto było nieco za miękkie jak na upodobania Istoty. Ravioli te weszł
  Dlatego należy uprzejmie donieść, że tym razem były one al&nbsp;dente :D
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/ravioli_vienna.jpg" alt="Trzy czarne ravioli z płatkami parmezanu i polane oliwą" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/ravioli_vienna.jpg" alt="Trzy czarne ravioli z płatkami parmezanu i polane oliwą" height="200px" width="40px" />
  <font size="2">
      Czarne ravioli z czosnkiem niedźwiedzim i serem.
  </font>
@@ -52,7 +52,7 @@ cottą i&nbsp;sorbetem.
 Istota spróbowała też ostatnio deseru z dań austriackich. Był to omlet cesarski z&nbsp;karmelizowanymi śliwkami.
 Super! Duża porcja, ale także bardzo ciekawa propozycja z&nbsp;którą Istota się nigdy wcześniej nie spotkała.
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/omlet_cesarski.jpg" alt="Pokrojony omlet, położony na karmelizowanych śliwkach i posypany cukrem pudrem" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/omlet_cesarski.jpg" alt="Pokrojony omlet, położony na karmelizowanych śliwkach i posypany cukrem pudrem" height="200px" width="40px" />
 
  <font size="2">
 Omlet cesarski z karmelizowanymi śliwkami - kuchnia austriacka
@@ -63,7 +63,7 @@ Omlet cesarski z karmelizowanymi śliwkami - kuchnia austriacka
 Istota śmiało polecić może też tagliatelle Szefa kuchni, bulion drobiowo-wołowy z&nbsp;naleśnikiem z&nbsp;kuchni
 austriackiej oraz żurek. Czyli w sumie wszystko, co do tej pory spróbowała. Ale najbardziej kluskę :D
 <center><div style="width:55%">
- <img src="{{site.url}}/assets/img/posts/tagliatelle_vienna.jpg" alt="Tagliatelle z krewetkami i pomidorkami" height="200px" width="40px" />
+ <img src="{{site.img_url}}/assets/img/posts/tagliatelle_vienna.jpg" alt="Tagliatelle z krewetkami i pomidorkami" height="200px" width="40px" />
  <font size="2">
 Tagliatelle z krewetkami i pomidorkami z dużą ilością sera.
  </font>
@@ -75,7 +75,7 @@ Dużym plusem restauracji Villa Vienna jest duży parking, bo w&nbsp;tej okolicy
 Obsługa bardzo miła i&nbsp;profesjonalna.
 Za całość tych wszystkich pysznych dań Villa Vienna otrzymuje Odznakę Wesołego Bakłażana! Istota Gratuluje :D
 <center><div style="width:30%">
-   <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Villa Vienna otrzymuje punktów: **230/250!!!**

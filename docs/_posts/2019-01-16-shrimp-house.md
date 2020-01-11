@@ -14,7 +14,7 @@ Dla pożeraczy krewetek, którą stety, niestety (niestety dla odkładających s
 Krewetki w każdym daniu, w&nbsp;różnych formach: gotowane, smażone i&nbsp;w&nbsp;tempurze.
  Krewetkowe niebo. Pewnie biedne krewetki mają o tym nieco inne zdanie.
 
-<center><div style="width:55%"> <img src="{{site.url}}/assets/img/posts/tempura.jpg" alt="Krewetki w tempurze" height="100px" width="40px" />
+<center><div style="width:55%"> <img src="{{site.img_url}}/assets/img/posts/tempura.jpg" alt="Krewetki w tempurze" height="100px" width="40px" />
     <font size="2">Krewetki w tempurze. Degustująca Istota zamawia je przy każdej wizycie.
      Są świetne. Chrupiące na zewnątrz i&nbsp;delikatne, słodkawe w środku.
      Podawane z&nbsp;frytkami lub bagietką, sosami i&nbsp;sałatką (ale nie była ona zbyt dobra).
@@ -31,7 +31,7 @@ Curry Shrimp, to dla Degustującej Istoty najlepsze danie w Shrimp House,
  łączy w sobie pożywne bataty, ananasa i&nbsp;mleko kokosowe. Podawany ze świeżą kolendrą,
   tworzy harmonijne połączenie, które zajada ona z&nbsp;uczuciem błogości na twarzy.
 
-<center><div style="width:65%"> <img src="{{site.url}}/assets/img/posts/Fajitas.jpg" alt="Krewetkowe Fajits" height="100px" width="40px" />
+<center><div style="width:65%"> <img src="{{site.img_url}}/assets/img/posts/Fajitas.jpg" alt="Krewetkowe Fajits" height="100px" width="40px" />
     <font size="2">Fajitas Degustująca Istota drugi raz nie zamówi.
         Kiełbasa chorizo i&nbsp;krewetki jakoś dla niej nie idą w&nbsp;parze, a&nbsp;wciśnięcie tak mokrego
          farszu do podanych placków, to ogromny wyczyn.

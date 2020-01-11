@@ -22,7 +22,7 @@ Degustująca Istota ponownie odwiedziła @restauracjaisto,
 Amuse-bouche. Orzeźwiający chłodnik podany w&nbsp;probówce&nbsp;i na przegryzienie chips z&nbsp;kozim serem.
  _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_chlodnik.jpg" alt="Chłodnik w probówce i czarny chips z nałożonym na niego
+<img src="{{site.img_url}}/assets/img/posts/i_chlodnik.jpg" alt="Chłodnik w probówce i czarny chips z nałożonym na niego
 kremowym serem kozim"
 height="200px" width="40px" />
 </div></center>
@@ -33,7 +33,7 @@ height="200px" width="40px" />
 Niepokój płynący z&nbsp;konieczności zjedzenia surowego mięsa zniknął wraz z&nbsp;pierwszym kęsem tatara.
 Istota nie ma porównania z&nbsp;innymi tatarami, ale ten był wyśmianity. _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_tatar.jpg" alt="Tatar posypany pokruszonymi pistacjami, z surowym żółtkiem
+<img src="{{site.img_url}}/assets/img/posts/i_tatar.jpg" alt="Tatar posypany pokruszonymi pistacjami, z surowym żółtkiem
 na górze i świeżymi ziołami"
 height="200px" width="40px" />
 </div></center>
@@ -43,7 +43,7 @@ height="200px" width="40px" />
 
 Ciepłe, przypieczone foie gras z&nbsp;pianką z&nbsp;mleka. Rozpływające się w&nbsp;ustach. _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_foie_gras.jpg" alt="Smażone foie gras przykryte pianką z mleka"
+<img src="{{site.img_url}}/assets/img/posts/i_foie_gras.jpg" alt="Smażone foie gras przykryte pianką z mleka"
 height="200px" width="40px" />
 </div></center>
 <br />
@@ -54,7 +54,7 @@ height="200px" width="40px" />
 Położone na maślanym sosie beurre blanc z&nbsp;kiszoną nutą. Posypane skurszoną w&nbsp;ciekłym azocie espumą.
 _3&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_slimaki.jpg" alt="Ślimaki w sosie z pokryszoną, zieloną espumą" height="200px" width="40px" />
+<img src="{{site.img_url}}/assets/img/posts/i_slimaki.jpg" alt="Ślimaki w sosie z pokryszoną, zieloną espumą" height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
@@ -62,7 +62,7 @@ _3&nbsp;[bakłażany]._
 
 Miękki i&nbsp;soczysty jesiotr na doskonale przyrządzonym al&nbsp;dente linguini._3&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_jesiotr2.jpg" alt="Zwinięte w rulon lingiune z kawałkiem jesiotra u góry,
+<img src="{{site.img_url}}/assets/img/posts/i_jesiotr2.jpg" alt="Zwinięte w rulon lingiune z kawałkiem jesiotra u góry,
 kótrego zdobi biały kawior ze ślimaka"
  height="200px" width="40px" />
 </div></center>
@@ -74,7 +74,7 @@ Mangalica była dobra, miękka i&nbsp;obtoczona w&nbsp;ziołach,
 ale na Istotach największe wrażenie zrobiło gratin z&nbsp;ziemniaków i&nbsp;pyszna młoda kapusta w&nbsp;sosie koperkowo
  czosnkowym. _4&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_mangalica.jpg" alt="Gratin przykryte kawałkiem kapusty, kulka śmietany i
+<img src="{{site.img_url}}/assets/img/posts/i_mangalica.jpg" alt="Gratin przykryte kawałkiem kapusty, kulka śmietany i
 różowy wałeczek mangalicy obtoczony w ciemno zielonych przyprawach"
 height="200px" width="40px" />
 </div></center>
@@ -84,7 +84,7 @@ height="200px" width="40px" />
 
 Intermezzo. Świeże, nie za słodkie z&nbsp;chrupiącą posypką.  _3&nbsp;[bakłażany]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_lody_marchewkowe.jpg" alt="Lody marchewkowe na czarnych okruszkach"
+<img src="{{site.img_url}}/assets/img/posts/i_lody_marchewkowe.jpg" alt="Lody marchewkowe na czarnych okruszkach"
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -96,7 +96,7 @@ Wyjęty z&nbsp;wielkiego słoja w&nbsp;którym został uwędzony dymem jałowcow
 Idealnie chrupki. Był jeszcze gołąb przyrządzony na 2 sposoby: stir fry i&nbsp;sous vide oraz puree,
 ale szparag przyćmił wszystko i&nbsp;to się Istocie ogromnie podobało. _5&nbsp;[bakłażanów]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_szparag.jpg" alt="Udko i filet z gołębia na puree. Do tego zielony szparag"
+<img src="{{site.img_url}}/assets/img/posts/i_szparag.jpg" alt="Udko i filet z gołębia na puree. Do tego zielony szparag"
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;&ensp;
@@ -106,7 +106,7 @@ height="200px" width="40px" />
 Deser. Tatar rabarbarowy był piękny i&nbsp;pyszny. Dla Istoty był to deser idealny. Zarówno słodki
 (choć nie za bardzo), jak i&nbsp;kwaśny. _5&nbsp;[bakłażanów]._
 <center><div style="width:55%">
-<img src="{{site.url}}/assets/img/posts/i_rabarbar.jpg" alt="Tatar rabarbarowy, na nim niby żółtko z zabaglione.
+<img src="{{site.img_url}}/assets/img/posts/i_rabarbar.jpg" alt="Tatar rabarbarowy, na nim niby żółtko z zabaglione.
 Obok na brązowej kruszonce z ciastek białe lody z płatkami białego kwiatu"
 height="200px" width="40px" />
 </div></center>
@@ -122,7 +122,7 @@ Obsługa jest tam profesjonalna i&nbsp;miła. Naprawdę chce się wracać, co Is
 Naturalnie Odznaka Wesołego Bakłażana dla Isto pozostaje!
 
 <center><div style="width:30%">
-  <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+  <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 

@@ -13,7 +13,7 @@ Isto dzięki świetnej kolacji na najwyższym poziomie utrzymuje odznakę Wesoł
 
 
 <center><div style="width:30%">
-    <img src="{{site.url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+    <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 Całość wydarzenia rozpoczął już tradycyjnie chleb, a&nbsp;właściwie 3&nbsp;rodzaje chleba,
@@ -23,7 +23,7 @@ piękny Graham wypiekany z&nbsp;dodatkiem palonego
 pora.
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:55%">
-    <img src="{{site.url}}/assets/img/posts/kuleczki_serowe.jpg" alt="Kuleczki serowe w panierce" height="200px" width="40px" />
+    <img src="{{site.img_url}}/assets/img/posts/kuleczki_serowe.jpg" alt="Kuleczki serowe w panierce" height="200px" width="40px" />
     <font size="2">
         Jako Amuse-bouche (czekadełko) podano świetne, rozpływające się w&nbsp;ustach kuleczki serowe w&nbsp;panierce. Była to mieszanka serów
         owczych o&nbsp;intensywnym wędzonym smaku, obtoczona w bułce tartej również ze wspomnianego wyżej pieczywa.
@@ -36,7 +36,7 @@ Następne danie było także bardzo serowe. Istota rozsmakowywała się w&nbsp;d
 
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
-    <img src="{{site.url}}/assets/img/posts/risotto_buraczane.jpg" alt="Risotto buraczane" height="200px" width="40px" />
+    <img src="{{site.img_url}}/assets/img/posts/risotto_buraczane.jpg" alt="Risotto buraczane" height="200px" width="40px" />
     <font size="2">
         A&nbsp;oto kryształki sera koziego zrobione przy użyciu ciekłego azotu. Cudownie chłodne i&nbsp;słone, doskonale komponowały się z&nbsp;buraczanym smakiem risotta.
          Całość podkręcał chrupiący, przypieczony topinambur. Dodatkowo otaczała risotto oliwa lubczykowa,
@@ -53,7 +53,7 @@ Również, to samo spotkało deser. Na plus Istota powie, że podano inne dania,
 
 <br />&ensp;&ensp;&ensp;
 <center><div style="width:65%">
-    <img src="{{site.url}}/assets/img/posts/golabek.jpg" alt="Gołąbek" height="200px" width="40px" />
+    <img src="{{site.img_url}}/assets/img/posts/golabek.jpg" alt="Gołąbek" height="200px" width="40px" />
     <font size="2">
         Daniem głównym był gołąbek z&nbsp;włoskiej kapusty z&nbsp;kaszą jęczmienną. Podany z&nbsp;cudowną
         przypieczoną kapustą kiszoną.
