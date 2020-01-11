@@ -60,7 +60,7 @@ przewodnikach.
 Zdjęcie na stronie głównej Degustująca Istota zrobiła w restauracji Umami w Pyskowicach.
 Logo Degustującej Istoty wykonała @dranka.
 Blog Degustującej Istoty oparty jest na podstawie motywu [Sleek], który używa statycznego generatora stron [Jekyll].
-Blog żyje i rozwija się dzięki pomocy niesamowitego programisty, autora bolga [WriteOnly].
+Blog żyje i rozwija się dzięki pomocy niesamowitego programisty, autora bloga [WriteOnly].
 Jak masz ochotę, to możesz napisać mail do [Degustującej Istoty](mailto:{{site.email}}).
 Dla tych, co nie używają klienta poczty: degustujaca.istota@gmail.com.
 Jednak Istota poleca kontaktować się przez jej fanpage na facebooku lub Instagramie - odpisze tak szybko, jak to możliwe.
