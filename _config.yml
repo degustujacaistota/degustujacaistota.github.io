@@ -89,8 +89,9 @@ remote_theme: degustujacaistota/sleek
 title: Degustująca Istota
 tagline: >
   “Money, pardon the expression, is like manure. It's not worth a thing unless it's spread around, encouraging young things to grow.”
+  - "Hello, Dolly!"
 description: >
-  Tester's blog about restaurants. Reviews of a dishes degustations. Ranking of the best restaurants.
+  Testerski blog o restauracjach. Recenzje degustowanych dań. Ranking najlepszych restauracji w Polsce.
 url: 'https://www.degustujacaistota.pl/'
 author: Danuta Irena Żabińska
 logo: /assets/img/logo.jpg
