@@ -127,6 +127,8 @@ navigation:
   - {name: 'Tagi', link: '/tags'}
   - {name: 'Lokalizacje', link: '/locations'}
   - {name: 'Restauracje', link: '/restaurants'}
+  - {name: 'Ranking', link: '/ranking' }
+  - {name: 'EN', link: '/en' }
 
 # SOCIAL LINKS
 facebook_username: Degustująca-Istota-309847352979817 # replace with your_facebook_username or comment to remove link from footer
@@ -154,3 +156,9 @@ social_links:
 ui:
   previous: Poprzedni
   next: Następny
+  categories: Kategorie
+  tags: Tagi
+  location: Miejscowość
+  locations: Miejscowości
+  restaurant: Restauracja
+  restaurants: Restauracje
