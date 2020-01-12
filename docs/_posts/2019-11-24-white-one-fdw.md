@@ -107,7 +107,7 @@ Degustujące Istoty były zachwycone wizytą w White One i&nbsp;oczywiście przy
 za to odznakę Wesołego Bakłażana.
 
 <center><div style="width:35%">
-<img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+<img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Restauracja White One otrzymuje punktów: **242/250**

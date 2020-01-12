@@ -130,7 +130,7 @@ Jeszcze kilka słów o&nbsp;obsłudze. Uśmiechnięci i&nbsp;zapracowani, ale og
 Za piękny wieczór z&nbsp;pysznym jedzeniem @degustujacaistota oczywiście wręcza odznakę Wesołego
 Bakłażana wszystkim trzem restauracjom.
 <center><div style="width:35%">
-<img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+<img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 

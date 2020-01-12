@@ -122,7 +122,7 @@ Wieczór był interesujący i&nbsp;dzięki sommelierowi Leszkowi Istota usłysza
     Za całokształt kolacji z&nbsp;menu degustacyjnym Istota podtrzymuje odznakę Wesołego Bakłażana dla Isto!
 
 <center><div style="width:35%">
- <img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+ <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 

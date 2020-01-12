@@ -88,7 +88,7 @@ Isota tam wróci przy najbliższej okazji. Obsługa jest profesjonalna
   odznakę Wesołego Bakłażana!
 
 <center><div style="width:35%">
- <img src="{{site.img_url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana"
+ <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana"
  height="100" width="auto" />
 </div></center>
 
