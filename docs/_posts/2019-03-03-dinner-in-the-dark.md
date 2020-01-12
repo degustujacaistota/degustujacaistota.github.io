@@ -2,9 +2,9 @@
 layout: post
 title: Kolacja w ciemności - *Radzionków*
 featured-img: poliki_app
-tags: Polska Śląsk Restauracja Kolacja_w_ciemności Gault_Millau
+tags: Restauracja Kolacja_w_ciemności Gault_Millau
 restaurant: Appassionata
-location: Radzionków
+location: Radzionków Śląsk Polska
 points: 225
 ---
 Kolacja w ciemności w&nbsp;której wzięła udział Degustująca Istota została zorganizowana przez

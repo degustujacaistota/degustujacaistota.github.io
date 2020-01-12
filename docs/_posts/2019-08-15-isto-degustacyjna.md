@@ -2,9 +2,9 @@
 layout: post
 title: ISTO i kolacja degustacyjna - *Katowice*
 featured-img: i_jesiotr
-tags: Polska Restauracja Wine_and_Food_Noble_Night Wesoły_bakłażan
+tags: Restauracja Wine_and_Food_Noble_Night Wesoły_bakłażan
 restaurant: Isto
-location: Katowice
+location: Katowice Polska
 points: 240
 ---
 Degustująca Istota ponownie odwiedziła @restauracjaisto,

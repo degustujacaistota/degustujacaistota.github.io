@@ -2,9 +2,9 @@
 layout: post
 title: Villa Vienna - Restaurant Week i nie tylko - *Bytom*
 featured-img: rolada_w_klusce
-tags: Polska Śląsk Restauracja Restaurant_week Wesoły_bakłażan
+tags: Restauracja Restaurant_week Wesoły_bakłażan
 restaurant: Villa_vienna
-location: Bytom
+location: Bytom Śląsk Polska
 points: 230
 ---
 Villa Vienna to niezwykła restauracja. Istota miała przyjemność ją odwiedzić zarówno z&nbsp;okazji Restaurant Week,

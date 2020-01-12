@@ -2,9 +2,9 @@
 layout: post
 title: Pod platanami- Restaurant Week i nie tylko -*Zbrosławice*
 featured-img: czarne_tagliatelle
-tags: Polska Śląsk Restauracja Restaurant_week Gault_Millau
+tags: Restauracja Restaurant_week Gault_Millau
 restaurant: Pod_platanami
-location: Zbrosławice
+location: Zbrosławice Śląsk Polska
 points: 195
 ---
 Istotę znowu skusiło interesujące menu festiwalowe i zawitała do restauracji Pod Platanami w Zbrosławicach

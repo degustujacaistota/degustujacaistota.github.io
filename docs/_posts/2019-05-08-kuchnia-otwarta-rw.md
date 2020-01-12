@@ -2,9 +2,9 @@
 layout: post
 title: Kuchnia Otwarta - *Katowice*
 featured-img: golabki_ko
-tags: Polska Śląsk Restauracja Restaurant_week
+tags: Restauracja Restaurant_week
 restaurant: Kuchnia_otwarta
-location: Katowice
+location: Katowice Śląsk Polska
 points: 215
 ---
 Kontynuując przygodę na Restaurant Week, Istotę zainteresowała Kuchnia Otwarta.

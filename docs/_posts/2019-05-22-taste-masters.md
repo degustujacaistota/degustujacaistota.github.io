@@ -2,9 +2,9 @@
 layout: post
 title: Taste Masters - Smakowanie&nbsp;w&nbsp;Wilanowie
 featured-img: tm_pijana_koza
-tags: Polska Restauracja Gault_Millau
+tags: Restauracja Gault_Millau
 restaurant: Villa_intrata
-location: Warszawa
+location: Warszawa Polska
 points:
 ---
 Istota nie miała pojęcia jak będzie Taste Masters wyglądać. Wiedziała tylko,

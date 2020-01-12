@@ -2,9 +2,9 @@
 layout: post
 title: Fine Dining w Szara Gęś - *Kraków*
 featured-img: fine_szara_ges
-tags: Polska Fine_dining Fine_dining_week Restauracja Gault_Millau Wine_and_Food_Noble_Night
+tags: Fine_dining Fine_dining_week Restauracja Gault_Millau Wine_and_Food_Noble_Night
 restaurant: Szara_gęś
-location: Kraków
+location: Kraków Polska
 points: 100
 ---
 To prawda, że Degustująca Istota została rozpieszczona przez doskonałe restauracje w&nbsp;których bywa i&nbsp;kiedy

@@ -2,9 +2,9 @@
 layout: post
 title: Andromeda Alfa - Fine Dining Week - *Kraków*
 featured-img: alt_risotto_main
-tags: Polska Restauracja Wesoły_bakłażan Gault_Millau Fine_dining Fine_dining_week
+tags: Restauracja Wesoły_bakłażan Gault_Millau Fine_dining Fine_dining_week
 restaurant: Andromeda_alfa
-location: Kraków
+location: Kraków Polska
 points: 230
 ---
 

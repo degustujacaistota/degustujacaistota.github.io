@@ -2,9 +2,9 @@
 layout: post
 title: White One - Fine Dining Week -*Warszawa*
 featured-img: wo_main
-tags: Restauracja Wesoły_bakłażan Fine_dining Polska Wine_and_Food_Noble_Night Gault_Millau Fine_dining_week Wege Wegan
+tags: Restauracja Wesoły_bakłażan Fine_dining Wine_and_Food_Noble_Night Gault_Millau Fine_dining_week Wege Wegan
 restaurant: White_one
-location: Warszawa
+location: Warszawa Polska
 points: 242
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: Momo- Restaurant Week -*Gliwice*
 featured-img: deser_momo
-tags: Polska Śląsk Restauracja Restaurant_week
+tags: Restauracja Restaurant_week
 restaurant: Momo
-location: Gliwice
+location: Gliwice Śląsk Polska
 points: 235
 ---
 Momo Istota odwiedziła wiele razy i teraz też chętnie tam wstąpiła z okazji Restaurant Week.

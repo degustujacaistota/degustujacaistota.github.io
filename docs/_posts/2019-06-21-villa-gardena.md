@@ -2,9 +2,9 @@
 layout: post
 title: Villa Gardena - Urzekająca - *Katowice*
 featured-img: vgardenapoliki
-tags: Polska Restauracja Gault_Millau Wesoły_bakłażan Poland_100_best_restaurants
+tags: Restauracja Gault_Millau Wesoły_bakłażan Poland_100_best_restaurants
 restaurant: Villa_gardena
-location: Katowice
+location: Katowice Śląsk Polska
 points: 230
 ---
 Villa Gardena jest ostatnio często odwiedzana przez Istotę. Stało&nbsp;się&nbsp;tak,

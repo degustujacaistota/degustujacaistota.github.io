@@ -2,9 +2,9 @@
 layout: post
 title: Masala House - nie żałują przypraw-*Katowice*
 featured-img: masala_house
-tags: Polska Restauracja Śląsk
+tags: Restauracja 
 restaurant: Masala_house
-location: Katowice
+location: Katowice Śląsk Polska
 points: 210
 ---
 Masala House Degustująca Istota odwiedza często i&nbsp;jeszcze nigdy się nie rozczarowała.

@@ -2,9 +2,9 @@
 layout: post
 title: Fine Dining w ISTO - *Katowice*
 featured-img: Fine_isto
-tags: Polska Fine_dining Fine_dining_week Restauracja Wesoły_bakłażan Śląsk
+tags: Fine_dining Fine_dining_week Restauracja Wesoły_bakłażan 
 restaurant: Isto
-location: Katowice
+location: Katowice Śląsk Polska
 points: 235
 ---
 Kolejny raz Degustująca Istota zawitała do Isto. Tym razem z&nbsp;okazji trwającego Festiwalu Sztuki Kulinarnej, Fine Dining Week.
