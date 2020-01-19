@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White One - Fine Dining Week -*Warszawa*
+title: White One - Fine Dining Week
 featured-img: wo_main
 tags: Restauracja Wesoły_bakłażan Fine_dining Wine_and_Food_Noble_Night Gault_Millau Fine_dining_week Wege Wegan
 restaurant: White_one

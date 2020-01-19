@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Signature - *Warszawa*
+title: Signature
 featured-img: signature
 tags: Restauracja Gault_Millau Michelin_guide Wine_and_Food_Noble_Night Wesoły_bakłażan
 restaurant: Signature

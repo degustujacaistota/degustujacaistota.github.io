@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amber Room - Elegancja - *Warszawa*
+title: Amber Room - Elegancja
 featured-img: amber_room
 tags: Restauracja Gault_Millau Michelin_guide Poland_100_best_restaurants
 restaurant: Amber_room

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walentynkowe Momo - *Gliwice*
+title: Walentynkowe Momo
 featured-img: momo
 tags: Walentynki Wesoły_bakłażan
 restaurant: Momo

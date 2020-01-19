@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kolacja w ciemności - *Radzionków*
+title: Kolacja w ciemności
 featured-img: poliki_app
 tags: Restauracja Kolacja_w_ciemności Gault_Millau
 restaurant: Appassionata

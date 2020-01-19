@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Umami - Gęsina na stół! -*Pyskowice*
+title: Umami - Gęsina na stół!
 featured-img: um_main_ges
 tags: Restauracja Wesoły_bakłażan Fine_dining Menu_degustacyjne Wine_and_Food_Noble_Night Gault_Millau
 restaurant: Umami

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Villa Vienna - Restaurant Week i nie tylko - *Bytom*
+title: Villa Vienna - Restaurant Week i nie tylko
 featured-img: rolada_w_klusce
 tags: Restauracja Restaurant_week Wesoły_bakłażan
 restaurant: Villa_vienna

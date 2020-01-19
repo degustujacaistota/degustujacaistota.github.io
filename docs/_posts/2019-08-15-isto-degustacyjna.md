@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ISTO i kolacja degustacyjna - *Katowice*
+title: ISTO i kolacja degustacyjna
 featured-img: i_jesiotr
 tags: Restauracja Wine_and_Food_Noble_Night Wesoły_bakłażan
 restaurant: Isto

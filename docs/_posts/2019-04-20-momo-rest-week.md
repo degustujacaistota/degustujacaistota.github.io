@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Momo- Restaurant Week -*Gliwice*
+title: Momo- Restaurant Week
 featured-img: deser_momo
 tags: Restauracja Restaurant_week
 restaurant: Momo

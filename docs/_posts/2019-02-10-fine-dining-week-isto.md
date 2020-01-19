@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fine Dining w ISTO - *Katowice*
+title: Fine Dining w ISTO
 featured-img: Fine_isto
 tags: Fine_dining Fine_dining_week Restauracja Wesoły_bakłażan 
 restaurant: Isto

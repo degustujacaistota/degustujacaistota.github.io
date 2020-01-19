@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Umami i chrobotkowy deser -*Pyskowice*
+title: Umami i chrobotkowy deser
 featured-img: chrobotek
 tags: Restauracja Gault_Millau Poland_100_best_restaurants
 restaurant: Umami

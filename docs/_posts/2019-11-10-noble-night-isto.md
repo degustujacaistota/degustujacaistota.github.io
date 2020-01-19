@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isto - Wine & Food Noble Night -*Katowice*
+title: Isto - Wine & Food Noble Night
 featured-img: isto_main
 tags: Restauracja Wesoły_bakłażan Wine_and_Food_Noble_Night Fine_dining Poland_100_best_restaurants Menu_degustacyjne
 restaurant: Isto

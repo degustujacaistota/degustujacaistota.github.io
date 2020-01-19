@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Szara Eminencja(Ursynów)- Restaurant Week -*Warszawa*
+title: Szara Eminencja(Ursynów)- Restaurant Week
 featured-img: golabek_szara_em
 tags: Restauracja Restaurant_week Gault_Millau
 restaurant: Szara_eminencja_Ursynów

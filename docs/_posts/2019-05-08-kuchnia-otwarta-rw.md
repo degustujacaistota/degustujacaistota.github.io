@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuchnia Otwarta - *Katowice*
+title: Kuchnia Otwarta
 featured-img: golabki_ko
 tags: Restauracja Restaurant_week
 restaurant: Kuchnia_otwarta

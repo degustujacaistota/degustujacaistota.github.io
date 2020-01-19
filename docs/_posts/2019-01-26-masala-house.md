@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Masala House - nie żałują przypraw-*Katowice*
+title: Masala House - nie żałują przypraw
 featured-img: masala_house
 tags: Restauracja 
 restaurant: Masala_house
