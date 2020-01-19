@@ -113,6 +113,9 @@ hero_img: main.jpg # Main background image: use the path from /assets/img/ => Th
 img_url: 'https://www.degustujacaistota.pl/img'
 img_baseurl: '/'
 
+locale: pl-PL
+lang: pl-PL
+
 google_tag_manager: UA-143053150-1
 google_analytics: UA-143053150-1
 
