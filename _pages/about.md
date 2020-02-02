@@ -2,6 +2,7 @@
 layout: page
 title: O Degustującej Istocie
 permalink: /about/
+translated: true
 ---
 Degusutjąca Istota chodzi sobie razem z innymi Degustującymi Istotami po restauracjach.
 Jada w nich, zdjęcia robi a potem opisuje, co degustowała. Stara się oceną nikogo nie krzywdzić.
