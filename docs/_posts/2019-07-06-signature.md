@@ -2,7 +2,7 @@
 layout: post
 title: Signature
 featured-img: signature
-tags: Restauracja Gault_Millau Michelin_guide Wine_and_Food_Noble_Night Wesoły_bakłażan
+tags: Restauracja Gault_Millau Michelin_guide Wine_and_Food_Noble_Night Wesoły_bakłażan Michelin_plate
 restaurant: Signature
 location: Warszawa Polska
 points: 240
