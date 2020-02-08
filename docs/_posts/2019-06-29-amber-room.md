@@ -2,7 +2,7 @@
 layout: post
 title: Amber Room - Elegancja
 featured-img: amber_room
-tags: Restauracja Gault_Millau Michelin_guide Poland_100_best_restaurants
+tags: Restauracja Gault_Millau Michelin_guide Poland_100_best_restaurants Michelin_plate
 restaurant: Amber_room
 location: Warszawa Polska
 points: 230
