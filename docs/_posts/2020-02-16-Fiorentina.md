@@ -112,7 +112,7 @@ height="200px" width="40px" />
 
 To, co zasługuje na wyróżnienie w&nbsp;zaserwowanych potrawach to dbałość o&nbsp;szczegóły.
  Pięknie zaprojektowane i&nbsp;dopracowane w&nbsp;każdym calu dania były ciekawe i&nbsp;piękne. 
- Foie gras było zdecydowanie jedno z&nbsp;lepszych, które jedliśmy,a&nbsp;jedliśmy ich całkiem dużo. 
+ Foie gras było zdecydowanie jedno z&nbsp;lepszych, które jedliśmy, a&nbsp;jedliśmy ich całkiem dużo. 
  Deser również dał nam dużo radości i&nbsp;zadowolenia. 
  Jedynym minusem w&nbsp;tym wieczorze była obsługa. Panie były uprzejme, 
  ale bardzo zaganiane, przez co podawanie dań i&nbsp;opowiadanie o&nbsp;nich odbywało się w&nbsp;pośpiechu 
