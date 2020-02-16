@@ -10,9 +10,9 @@ translated: true
 ---
 
 Skuszona pięknie brzmiącym menu Walentynkowym Degustująca Istota ze swoją Walentynką wybrała się do
- restauracji Fiorentina w Krakowie.
+ restauracji @fiorentina_krakow.
 Szefem Kuchni restauracji Fiorentina Dom Polski jest Robert Koczwara.
- Restauracja jest rekomendowana przez żółty przewodnik Gault&Millau, w&nbsp;którym otrzymała dwie czapki.
+ Restauracja jest rekomendowana przez żółty przewodnik @gaultmillaupolska, w&nbsp;którym otrzymała dwie czapki.
 
 Wystrój restauracji jest stylowy i&nbsp;romantyczny. Idealny na świętowanie Walentynek. 
 <center><div style="width:65%">
@@ -110,18 +110,18 @@ height="200px" width="40px" />
 
 ### Podsumowanie:
 
-To co się rzuca w zaserwowanych nam potrawach to dbałość o&nbsp;szczegóły.
- Pięknie zaprojektowane i&nbsp;dopracowane w każdym calu dania były ciekawe i&nbsp;piękne. 
- Foie gras było zdecydowanie jedno z lepszych, które jedliśmy,a&nbsp;jedliśmy ich całkiem dużo. 
+To, co zasługuje na wyróżnienie w&nbsp;zaserwowanych potrawach to dbałość o&nbsp;szczegóły.
+ Pięknie zaprojektowane i&nbsp;dopracowane w&nbsp;każdym calu dania były ciekawe i&nbsp;piękne. 
+ Foie gras było zdecydowanie jedno z&nbsp;lepszych, które jedliśmy,a&nbsp;jedliśmy ich całkiem dużo. 
  Deser również dał nam dużo radości i&nbsp;zadowolenia. 
- Jedynym minusem w tym wieczorze była obsługa. Panie były uprzejme, 
- ale bardzo zaganiane, przez co podawanie dań i&nbsp;opowiadanie o&nbsp;nich odbywało się w pośpiechu 
+ Jedynym minusem w&nbsp;tym wieczorze była obsługa. Panie były uprzejme, 
+ ale bardzo zaganiane, przez co podawanie dań i&nbsp;opowiadanie o&nbsp;nich odbywało się w&nbsp;pośpiechu 
  i&nbsp;trudno było to dosłyszeć. Natomiast do Pani zajmującej się salą nie mamy żadnych zastrzeżeń. Gdy wspomnieliśmy, 
- że stolik nam zaproponowany nie bardzo nam odpowiada, bez problemu mogliśmy go zamienić.
+ że&nbsp;stolik nam zaproponowany nie bardzo nam odpowiada, bez problemu mogliśmy go zamienić.
 Za piękny wieczór Walentynkowy i&nbsp;wspaniałe dania Degustująca Istota przyznaje Odznakę Wesołego Bakłażana.
 
 <center><div style="width:35%">
-<img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+<img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 
