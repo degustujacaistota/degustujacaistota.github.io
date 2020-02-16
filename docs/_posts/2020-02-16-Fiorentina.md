@@ -6,7 +6,7 @@ tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wine_and_Food_Noble
 restaurant: Fiorentina
 location: Kraków Polska
 points: 241
-translated: true
+translated: false
 ---
 
 Skuszona pięknie brzmiącym menu Walentynkowym Degustująca Istota ze swoją Walentynką wybrała się do
