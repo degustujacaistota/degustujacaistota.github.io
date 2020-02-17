@@ -12,7 +12,7 @@ translated: false
 Skuszona pięknie brzmiącym menu Walentynkowym Degustująca Istota ze swoją Walentynką wybrała się do
  restauracji @fiorentina_krakow.
 Szefem Kuchni restauracji Fiorentina Dom Polski jest Robert Koczwara.
- Restauracja jest rekomendowana przez żółty przewodnik @gaultmillaupolska, w&nbsp;którym otrzymała dwie czapki.
+ Restauracja posiada rekomendację żółtego przewodnika @gaultmillaupolska, w&nbsp;którym otrzymała dwie czapki.
 
 Wystrój restauracji jest stylowy i&nbsp;romantyczny. Idealny na świętowanie Walentynek. 
 <center><div style="width:65%">
