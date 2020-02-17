@@ -6,7 +6,7 @@ tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wine_and_Food_Noble
 restaurant: Fiorentina
 location: Kraków Polska
 points: 241
-translated: false
+translated: true
 ---
 
 Skuszona pięknie brzmiącym menu Walentynkowym Degustująca Istota ze swoją Walentynką wybrała się do
@@ -116,8 +116,7 @@ To, co zasługuje na wyróżnienie w&nbsp;zaserwowanych potrawach to dbałość 
  Deser również dał nam dużo radości i&nbsp;zadowolenia. 
  Jedynym minusem w&nbsp;tym wieczorze była obsługa. Panie były uprzejme, 
  ale bardzo zaganiane, przez co podawanie dań i&nbsp;opowiadanie o&nbsp;nich odbywało się w&nbsp;pośpiechu 
- i&nbsp;trudno było to dosłyszeć. Natomiast do Pani zajmującej się salą nie mamy żadnych zastrzeżeń. Gdy wspomnieliśmy, 
- że&nbsp;stolik nam zaproponowany nie bardzo nam odpowiada, bez problemu mogliśmy go zamienić.
+ i&nbsp;trudno było to dosłyszeć.
 Za piękny wieczór Walentynkowy i&nbsp;wspaniałe dania Degustująca Istota przyznaje Odznakę Wesołego Bakłażana.
 
 <center><div style="width:35%">
