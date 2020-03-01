@@ -2,7 +2,7 @@
 layout: post
 title: Fiorentina - Walentynki 
 featured-img: fior_main
-tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wine_and_Food_Noble_Night Walentynki
+tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wine_and_Food_Noble_Night Walentynki Wesoły_bakłażan
 restaurant: Fiorentina
 location: Kraków Polska
 points: 241
