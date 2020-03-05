@@ -10,7 +10,7 @@ translated: false
 ---
 
 Tajemnicza restauracja Biały Królik mieści się na parterze hotelu Quadrille w Gdyni.
- Szefem kuchni jest tutaj Rafał Koziorzemski (@rafalchef__smakmiasta)  a Szefem Patronem Marcin Popielarz (@popek_52).
+ Szefem Kuchni jest tutaj Rafał Koziorzemski (@rafalchef__smakmiasta) a Szefem Patronem Marcin Popielarz (@popek_52).
 
  Zaintrygowana interesująco brzmiącym menu “Podążaj za Białym Królikiem” Degustująca Istota skusiła się odwiedzić
   tą restaurację pod koniec listopada ubiegłego roku. Niestety wcześniej 
@@ -20,8 +20,8 @@ Tajemnicza restauracja Biały Królik mieści się na parterze hotelu Quadrille 
 
 #### *Chleb własnego wypieku/chips z gryki/masło ze szczypioru/masło karmelowe*
 
-Już przy pieczywie zostaliśmy przeniesieni w leśne klimaty. Dekoracja z kory,
- całych orzeszków i żołędzi była bardzo ciekawa. _3&nbsp;[bakłażany]._
+Już przy pieczywie zostaliśmy przeniesieni w leśne klimaty. Zostało ono podane w kręgu z kory udekorowanej
+ całymi orzeszkami i żołędziami. Cieszyło oko i podniebienie. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/bk_bread.jpg" alt="
 Kromki chleba z butelką oliwy w kręgu uformowanym z kory i ozdobionym orzechami i żołędziami."
@@ -29,8 +29,9 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Masła były bardzo dobre i również ciekawie podane.
-<center><div style="width:50%">
+Masła zaserwowane w postaci uroczych kuleczek, razem z chipsek z gryki.
+ Chciałoby się więcej tych masełek, bo były bardzo dobre.
+<center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_butter.jpg" alt="
 Na podkładce drewnianej są ułożone małe miseczki z masłami w kształcie kulek (żółta i zielona)
  oraz dwa pionowo ułożone beżowe chipsy."
@@ -50,7 +51,8 @@ height="200px" width="40px" />
 
 #### *Kaczy język/świńska skóra/żórawina*
 
-Amuse-bouche w formie szaszłyka. Chrupiący, o ładnie skomponowanym smaku. _4&nbsp;[bakłażany]._
+Nieco kontrowersyjny Amuse-bouche w formie szaszłyka. Warto się jednak na niego skusić. 
+Był chrupiący i miał ładnie skomponowany smak. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_am2.jpg" alt="
 Mini szaszłyk podany na łupku. Dwa małe kawałki w tempurze z kropkami różowego żelu, nadziane na czerwony patyczek."
@@ -81,7 +83,7 @@ czarna i żółta kulka, przedzielone różowymi lodami i otoczone mniejszymi ku
 #### *Kapuśniak na wędzonych żeberkach z kiszonym ogórkiem i macerowanym jesiotrem*
 
 Doskonała esencjonalna zupa z delikatnym jesiotrem. Przepięknie podana i bardzo dobra. 
-Podana została z równie pysznym żeberkiem. Całość ładnie się komponowała. 
+Do niej przyniesiono również pyszne i rozpadające się w ustach żeberka. Całość ładnie się uzupełniała. 
 Degustująca Istota przyznaje temu Kapuśniakowi Odznakę Wesołego Bakłażana. 
 _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
@@ -118,11 +120,11 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *”murzynek” z orzechem laskowym i pasternakiem/lody z rokitnika *
+#### *”Murzynek” z orzechem laskowym i pasternakiem/lody z rokitnika*
 
-Ciekawy deser, który łączył w sobie kilka faktur. Dla Degustującej Istoty był jednak zbyt słodki. _2&nbsp;[bakłażany]._
+Ciekawy deser, który łączył w sobie kilka faktur. Dla Degustującej Istoty był jednak zbyt słodki. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/bk_desser.jpg" alt="Na płaskim białym talerzu 
+<img src="{{site.img_url}}/assets/img/posts/bk_dessert.jpg" alt="Na płaskim białym talerzu 
 leży brązowy pasek musu w który wetknięte są pomarańczowe tafle i ciemnobrązowe, czekoladowe gąbki.
  Obok na pokruszonych orzechach ułożona jest porcja pomarańczowych lodów z rokitnika również z
   wetkniętymi pomarańczowymi taflami."
@@ -132,7 +134,7 @@ height="200px" width="40px" />
 
 #### *Petits Fours*
 
-Prażone polskie żyto/ziołowy miód. Pigwa/jałowiec/sosna. Bajaderka - Śliczne słodkości,
+Prażone polskie żyto/ziołowy miód. Pigwa/jałowiec/sosna. Bajaderka. To śliczne słodkości,
  które przypominały grzybki rosnące w lesie.
 _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
@@ -153,7 +155,8 @@ Kolacja “Podążaj za Białym Królikiem” była pełna niespodzianek. Dania 
   Doszukując się słabych stron, obsługa czasem była dość chłodna i niechętnie odpowiadała na pytania dotyczące dań. 
   
 Warto dodać, że cały hotel razem z restauracją ma zasadę, że wpuszczane są jedynie te osoby, które ukończyły 16 rok życia. 
-Owa kontrowersyjna reguła Degustującej Istocie akurat się podoba.
+Degustująca Istota nie widzi w tym nic złego, dobrze, że są miejsca w których można przyjść z dziećmi i dobrze, że są takie,
+gdzie od dzieci można odpocząć.
 
 Degustująca Istota za miły i magiczny wieczór w @bialykrolikgdynia przyznaje tej restauracji Odznakę Wesołego Bakłażana.
 
