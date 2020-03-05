@@ -6,7 +6,7 @@ tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wesoły_bakłażan
 restaurant: Biały_królik
 location: Gdynia Trójmiasto Polska
 points: 242
-translated: false
+translated: true
 ---
 
 Tajemnicza restauracja Biały Królik mieści się na parterze hotelu Quadrille w Gdyni.
