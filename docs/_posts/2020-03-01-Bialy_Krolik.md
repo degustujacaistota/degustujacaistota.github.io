@@ -29,7 +29,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Masła zaserwowane w postaci uroczych kuleczek, razem z chipsek z gryki.
+Masła zaserwowane w postaci uroczych kuleczek, razem z chipsem z gryki.
  Chciałoby się więcej tych masełek, bo były bardzo dobre.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_butter.jpg" alt="
@@ -49,7 +49,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Kaczy język/świńska skóra/żórawina*
+#### *Kaczy język/świńska skóra/żurawina*
 
 Nieco kontrowersyjny Amuse-bouche w formie szaszłyka. Warto się jednak na niego skusić. 
 Był chrupiący i miał ładnie skomponowany smak. _4&nbsp;[bakłażany]._
