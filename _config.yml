@@ -85,9 +85,9 @@ paginate_path:    '/:num'
 remote_theme: degustujacaistota/sleek
 
 # jekyll-seo-tag
-title: Fine Dining i&nbsp;inne cuda kulinarne
+title: Fine Dining i inne cuda kulinarne
 tagline: >
-  Fine Dining w&nbsp;restauracjach polecanych przez Michelin Guide, ale nie tylko.
+  Fine Dining w restauracjach polecanych przez Michelin Guide, ale nie tylko.
    Nie&nbsp;samymi gwiazdkami człowiek żyje...
 description: >
   Restauracje Fine Dining okiem Degustującej Istoty.
