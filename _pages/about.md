@@ -41,7 +41,7 @@ Niestety, wychodzi różnie.
 I jeśli ktoś poczuł się urażony moimi słowami to z góry przepraszam. Nie było to moim zamiarem.
 Zdaję sobie sprawę ile wysiłku i zaangażowania wymaga praca w restauracji.
 
-4. Nie dla pieniędzy: 
+4. Bo to moje hobby:
 
 Nie piszę treści sponsorowanych. Nie zarabiam na prowadzeniu bloga, jest to wyłącznie moje hobby na które przeznaczam sporą
 część domowego budżetu :D Menu degustacyjne potrafią kosztować niesamowite pieniądze, ale jeszcze żadnego nie żałowałam.
