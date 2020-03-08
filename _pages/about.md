@@ -25,24 +25,23 @@ spięci, jak na egzaminie.
 
 ### Po co piszę ten blog?
  
-1. Dla siebie:
+1. Dla siebie: <br/>
    Bo mam słabą pamięć. Kocham pyszne jedzenie i chcę móc zapamiętać,
     co i gdzie jadłam, jakie to było pyszne, albo i nie ;) 
    oraz który z Szefów Kuchni te dania przyrządził.  
 
-2. Dla ludzi, którzy szukają dobrej kuchni:
+2. Dla ludzi, którzy szukają dobrej kuchni: <br/>
 Przy okazji upubliczniając swoje zdanie o restauracji/daniach chciałabym się przydać tym,
 co szukają poleceń dobrych restauracji. Albo szukają inspiracji dla własnych szaleństw kulinarnych.
 
-3. Dla Szefów Kuchni i restauracji:
+3. Dla Szefów Kuchni i restauracji: <br/>
 Czasem zarówno restauracje, jak i Szefowie Kuchni, zwłaszcza w restauracjach typu Fine Dining, ale nie tylko, proszą
 o feedback. Staram się, aby moje uwagi były jak najbardziej merytoryczne i jak najmniej emocjonalne. 
 Niestety, wychodzi różnie. 
 I jeśli ktoś poczuł się urażony moimi słowami to z góry przepraszam. Nie było to moim zamiarem.
 Zdaję sobie sprawę ile wysiłku i zaangażowania wymaga praca w restauracji.
 
-4. Bo to moje hobby:
-
+4. Bo to moje hobby: <br/>
 Nie piszę treści sponsorowanych. Nie zarabiam na prowadzeniu bloga, jest to wyłącznie moje hobby na które przeznaczam sporą
 część domowego budżetu :D Menu degustacyjne potrafią kosztować niesamowite pieniądze, ale jeszcze żadnego nie żałowałam.
 
