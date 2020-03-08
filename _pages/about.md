@@ -4,24 +4,49 @@ title: O Degustującej Istocie
 permalink: /about/
 translated: true
 ---
-Degusutjąca Istota chodzi sobie razem z innymi Degustującymi Istotami po restauracjach.
-Jada w nich, zdjęcia robi a potem opisuje, co degustowała. Stara się oceną nikogo nie krzywdzić.
- Ma świadomość, że zespół w restautacji często wkłada wiele pracy i serca w to co robi.
- Istota bardzo tą pracę docenia a zarazem chce być pomocna dla
-tych, którzy szukają poleceń dobrych restauracji.
-Nie spodziewajcie się pięknych, okrągłych zdań i poprawnej gramatyki. To nie jest Istoty mocna strona.
-Zawodowo też testuje. Jest inżynierem do spraw zapewniania jakości w branży IT.
-Mieszka na Śląsku. Sympatyzuje z kuchnią roślinną, ale nie jest wegetarianką. Degustująca Istota szczególnie uwielbia
-Sztukę kulinarną Fine Dining.
+Degustująca Istota chodzi sobie razem z innymi Degustującymi Istotami po restauracjach.
+Jada w nich, zdjęcia robi a potem opisuje, co degustowała. 
+
+Zawodowo też testuje, tylko, że oprogramowanie. Jest inżynierem do spraw zapewniania jakości w branży IT.
+Mieszka na Śląsku. Sympatyzuje z kuchnią roślinną, ale nie jest wegetarianką. Szczególnie uwielbia
+Sztukę kulinarną Fine Dining i kuchnię molekularną. 
+
+### Dlaczego Bakłażan?
+
+Z jednej strony dlatego, że uważam go za jednego z mniej docenianych warzyw, a kryje on w sobie niesamowity
+potencjał. W wielu restauracjach spotkałam się z zupełnym niezrozumieniu jego smaku i złym przygotowaniem.
+Został on więc symbolem mojego bloga, jako warzywo dobrze pokazujące zdolności Szefa Kuchni. 
+
+Z drugiej strony, uważam, że śmieszny jest ten degustujący bakłażan. I chciałam dodać trochę humoru, aby blog w którym 
+piszę najczęściej o luksusowych i eleganckich kolacjach w stylu Fine Dining nie był zbyt pretensjonalny i sztywny. 
+W końcu nawet jedząc w restauracji z gwiazdkami Michelin Guide chcemy pysznie zjeść i dobrze się bawić, a nie siedzieć
+spięci, jak na egzaminie.
 
 
-Nie pisze treści sponsorowanych, zawsze sama (albo z bliskimi Istotami) wybiera co i gdzie testuje i sama za to płaci.
+### Po co piszę ten blog?
+ 
+1. Dla siebie:
+   Bo mam słabą pamięć. Kocham pyszne jedzenie i chcę móc zapamiętać,
+    co i gdzie jadłam, jakie to było pyszne, albo i nie ;) 
+   oraz który z Szefów Kuchni te dania przyrządził.  
 
+2. Dla ludzi, którzy szukają dobrej kuchni:
+Przy okazji upubliczniając swoje zdanie o restauracji/daniach chciałabym się przydać tym,
+co szukają poleceń dobrych restauracji. Albo szukają inspiracji dla własnych szaleństw kulinarnych.
 
-Po co pisze ten blog? Bo ma słabą pamięć :D a kocha pyszne jedzenie i chce móc sobie powspominać, co i gdzie jadła
-i jakie to było pyszne, albo i nie ;) Przy okazji upubliczniając swoje zdanie o restauracji/potrawie chciałaby się przydać tym,
-co szukają poleceń dobrych restauracji.
-Jak ocenia?
+3. Dla Szefów Kuchni i restauracji:
+Czasem zarówno restauracje, jak i Szefowie Kuchni, zwłaszcza w restauracjach typu Fine Dining, ale nie tylko, proszą
+o feedback. Staram się, aby moje uwagi były jak najbardziej merytoryczne i jak najmniej emocjonalne. 
+Niestety, wychodzi różnie. 
+I jeśli ktoś poczuł się urażony moimi słowami to z góry przepraszam. Nie było to moim zamiarem.
+Zdaję sobie sprawę ile wysiłku i zaangażowania wymaga praca w restauracji.
+
+4. Nie dla pieniędzy: 
+
+Nie piszę treści sponsorowanych. Nie zarabiam na prowadzeniu bloga, jest to wyłącznie moje hobby na które przeznaczam sporą
+część domowego budżetu :D Menu degustacyjne potrafią kosztować niesamowite pieniądze, ale jeszcze żadnego nie żałowałam.
+
+Jak oceniam?
 
 ### Kryteria oceny:
 1. Smak potraw i technika wykonania
@@ -35,7 +60,7 @@ Jak ocenia?
 Maksymalnie restauracja/bistro/bar może otrzymać 250 pkt.
 
 <a name="baklazan"></a>
-### Dodatkowo (od niedawna) oceniane są potrawy.
+### Dodatkowo oceniane są potrawy.
 Danie może dostać od 0 do 5 bakłażanów.
 * 0 bakłażanów - nie jadalne
 * 1 bakłażan - da się zjeść
@@ -45,7 +70,7 @@ Danie może dostać od 0 do 5 bakłażanów.
 * 5 bakłażanów - fenomenalne, zaskakujące, genialne!
 
 ### Odznaczenie specjalne
-Odznaka wesołego bakłażana - najwyższe wyróżnienie. Nadawane ulubionym potrawom Istoty albo resutauracji
+Odznaka wesołego bakłażana - najwyższe wyróżnienie. Nadawane moim ulubionym potrawom albo resutauracji
 w której Degustująca Istota się zakochała.
 
 
@@ -53,18 +78,19 @@ w której Degustująca Istota się zakochała.
 </div></center>
 
 ### Tagi
-Pod każdym artykułem znajduje się lista tagów, dzięki którym Istota pogrupowała wpisy.
+Pod każdym artykułem znajduje się lista tagów, dzięki którym Degustująca Istota pogrupowała wpisy.
 Tagi: Michelin_guide oraz Gault_Millau są umieszczone przy restauracjach, które zostały wspomniane w tych
 przewodnikach.
 
 ### Techniczne informacje
-Zdjęcie na stronie głównej Degustująca Istota zrobiła w restauracji Umami w Pyskowicach.
+Zdjęcie na stronie głównej Degustująca Istota zrobiła w restauracji Babel w Budapeszcie.
 Logo Degustującej Istoty wykonała @dranka.
 Blog Degustującej Istoty oparty jest na podstawie motywu [Sleek], który używa statycznego generatora stron [Jekyll].
-Blog żyje i rozwija się dzięki pomocy niesamowitego programisty, autora bloga [WriteOnly].
+Blog żyje i rozwija się dzięki pomocy genialnego programisty, autora bloga [WriteOnly].
 Jak masz ochotę, to możesz napisać mail do [Degustującej Istoty](mailto:{{site.email}}).
 Dla tych, co nie używają klienta poczty: degustujaca.istota@gmail.com.
 Jednak Istota poleca kontaktować się przez jej fanpage na facebooku lub Instagramie - odpisze tak szybko, jak to możliwe.
+Redaktorem Degustującej Istoty jest Danuta Żabińska.
 
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
