@@ -9,8 +9,8 @@ points: 242
 translated: true
 ---
 
-Tajemnicza restauracja Biały Królik mieści się na parterze hotelu Quadrille w Gdyni.
- Szefem Kuchni jest tutaj Rafał Koziorzemski (@rafalchef__smakmiasta) a Szefem Patronem Marcin Popielarz (@popek_52).
+Tajemnicza restauracja Biały Królik mieści się na parterze hotelu Quadrille w&nbsp;Gdyni.
+ Szefem Kuchni jest tutaj Rafał Koziorzemski (@rafalchef__smakmiasta) a&nbsp;Szefem Patronem Marcin Popielarz (@popek_52).
 
  Zaintrygowana interesująco brzmiącym menu “Podążaj za Białym Królikiem” Degustująca Istota skusiła się odwiedzić
   tą restaurację pod koniec listopada ubiegłego roku. Niestety wcześniej 
@@ -18,10 +18,10 @@ Tajemnicza restauracja Biały Królik mieści się na parterze hotelu Quadrille 
 
 ### Degustacja:
 
-#### *Chleb własnego wypieku/chips z gryki/masło ze szczypioru/masło karmelowe*
+#### *Chleb własnego wypieku/chips z&nbsp;gryki/masło ze szczypioru/masło karmelowe*
 
-Już przy pieczywie zostaliśmy przeniesieni w leśne klimaty. Zostało ono podane w kręgu z kory udekorowanej
- całymi orzeszkami i żołędziami. Cieszyło oko i podniebienie. _3&nbsp;[bakłażany]._
+Już przy pieczywie zostaliśmy przeniesieni w&nbsp;leśne klimaty. Zostało ono podane w&nbsp;kręgu z&nbsp;kory udekorowanej
+ całymi orzeszkami i&nbsp;żołędziami. Cieszyło oko i&nbsp;podniebienie. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/bk_bread.jpg" alt="
 Kromki chleba z butelką oliwy w kręgu uformowanym z kory i ozdobionym orzechami i żołędziami."
@@ -29,7 +29,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Masła zaserwowane w postaci uroczych kuleczek, razem z chipsem z gryki.
+Masła zaserwowane w&nbsp;postaci uroczych kuleczek, razem z&nbsp;chipsem z&nbsp;gryki.
  Chciałoby się więcej tych masełek, bo były bardzo dobre.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_butter.jpg" alt="
@@ -41,7 +41,7 @@ height="200px" width="40px" />
 
 #### *Ślimak/pieczony czosnek*
 
-Piękny i smaczny amuse-bouche.  _3&nbsp;[bakłażany]._
+Piękny i&nbsp;smaczny amuse-bouche.  _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_am1.jpg" alt="Na okrągłym, 
 szklanym talerzyku jest zielona kulka zrobiona ze ślimaka, na której jest nieco czerwonego sosu i wetknięty na górze liść."
@@ -51,8 +51,8 @@ height="200px" width="40px" />
 
 #### *Kaczy język/świńska skóra/żurawina*
 
-Nieco kontrowersyjny Amuse-bouche w formie szaszłyka. Warto się jednak na niego skusić. 
-Był chrupiący i miał ładnie skomponowany smak. _4&nbsp;[bakłażany]._
+Nieco kontrowersyjny Amuse-bouche w&nbsp;formie szaszłyka. Warto się jednak na niego skusić. 
+Był chrupiący i&nbsp;miał ładnie skomponowany smak. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_am2.jpg" alt="
 Mini szaszłyk podany na łupku. Dwa małe kawałki w tempurze z kropkami różowego żelu, nadziane na czerwony patyczek."
@@ -60,9 +60,9 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Sałatka ziemniaczana z opiekanym śledziem i smażonym żółtkiem*
+#### *Sałatka ziemniaczana z&nbsp;opiekanym śledziem i&nbsp;smażonym żółtkiem*
 
-Pyszny śledź w towarzystwie kremowego żółtka i sałatki ziemniaczanej. _5&nbsp;[bakłażanów]._
+Pyszny śledź w&nbsptowarzystwie kremowego żółtka i&nbsp;sałatki ziemniaczanej. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_herring.jpg" alt="
 Pasek śledzia ze skórą, obok niego samo żółtko oprószone zielonym pudrem.
@@ -71,19 +71,19 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Panierowana kozia feta z tarniną, pieczonymi burakami i topinamburem*
+#### *Panierowana kozia feta z&nbsp;tarniną, pieczonymi burakami i&nbsp;topinamburem*
 
-Ładnie zbalansowane i smaczne danie. Bardzo ciekawe panierki. _3&nbsp;[bakłażany]._
+Ładnie zbalansowane i&nbsp;smaczne danie. Bardzo ciekawe panierki. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_goat_feta.jpg" alt="Na ciemnym talerzu znajdują się: 
 czarna i żółta kulka, przedzielone różowymi lodami i otoczone mniejszymi kulkami z buraków." height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Kapuśniak na wędzonych żeberkach z kiszonym ogórkiem i macerowanym jesiotrem*
+#### *Kapuśniak na wędzonych żeberkach z&nbsp;kiszonym ogórkiem i&nbsp;macerowanym jesiotrem*
 
-Doskonała esencjonalna zupa z delikatnym jesiotrem. Przepięknie podana i bardzo dobra. 
-Do niej przyniesiono również pyszne i rozpadające się w ustach żeberka. Całość ładnie się uzupełniała. 
+Doskonała esencjonalna zupa z&nbsp;delikatnym jesiotrem. Przepięknie podana i&nbsp;bardzo dobra. 
+Do niej przyniesiono również pyszne i&nbsp;rozpadające się w&nbsp;ustach żeberka. Całość ładnie się uzupełniała. 
 Degustująca Istota przyznaje temu Kapuśniakowi Odznakę Wesołego Bakłażana. 
 _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
@@ -107,10 +107,9 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Policzek z dzikia w sosie chrzanowym z czerwoną kapustą i marynowaną Suską Sechlońską*
+#### *Policzek z&nbsp;dzikia w&nbspsosie chrzanowym z&nbsp;czerwoną kapustą i&nbsp;marynowaną Suską Sechlońską*
 
-Danie główne było wspaniałe. Miękkie, rozpadające się mięso i chrupiąca czerwona kapusta idealnie się zgrały z 
-Suską Sechlońską.
+Danie główne było wspaniałe. Miękkie, rozpadające się mięso i&nbsp;chrupiąca czerwona kapusta idealnie się zgrały z&nbsp;Suską Sechlońską.
 _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_boar.jpg" alt="Biały płaski talerz,
@@ -120,9 +119,9 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *”Murzynek” z orzechem laskowym i pasternakiem/lody z rokitnika*
+#### *”Murzynek” z&nbsp;orzechem laskowym i&nbsp;pasternakiem/lody z&nbsp;rokitnika*
 
-Ciekawy deser, który łączył w sobie kilka faktur. Dla Degustującej Istoty był jednak zbyt słodki. _3&nbsp;[bakłażany]._
+Ciekawy deser, który łączył w&nbsp;sobie kilka faktur. Dla Degustującej Istoty był jednak zbyt słodki. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_dessert.jpg" alt="Na płaskim białym talerzu 
 leży brązowy pasek musu w który wetknięte są pomarańczowe tafle i ciemnobrązowe, czekoladowe gąbki.
@@ -135,7 +134,7 @@ height="200px" width="40px" />
 #### *Petits Fours*
 
 Prażone polskie żyto/ziołowy miód. Pigwa/jałowiec/sosna. Bajaderka. To śliczne słodkości,
- które przypominały grzybki rosnące w lesie.
+ które przypominały grzybki rosnące w&nbsp;lesie.
 _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_petits_fours.jpg" alt="Na krążkach wyciętych z pnia drzewa i
@@ -147,18 +146,18 @@ height="200px" width="40px" />
 
 ### Podsumowanie:
 
-Kolacja “Podążaj za Białym Królikiem” była pełna niespodzianek. Dania doskonale wpisywały się w tematykę lasu i magii,
- co bardzo się Degustującej Istocie spodobało. Były one również fantazyjnie przygotowane i serwowane. 
+Kolacja “Podążaj za Białym Królikiem” była pełna niespodzianek. Dania doskonale wpisywały się w&nbsp;tematykę lasu i&nbsp;magii,
+ co bardzo się Degustującej Istocie spodobało. Były one również fantazyjnie przygotowane i&nbsp;serwowane. 
  Widać było duży wkład pracy włożony, aby podać tak ciekawe potrawy.
-  Na sam koniec z mężem zostaliśmy poczęstowani doskonałą nalewką. 
+  Na sam koniec z&nbsp;mężem zostaliśmy poczęstowani doskonałą nalewką. 
   
-  Doszukując się słabych stron, obsługa czasem była dość chłodna i niechętnie odpowiadała na pytania dotyczące dań. 
+  Doszukując się słabych stron, obsługa czasem była dość chłodna i&nbsp;niechętnie odpowiadała na pytania dotyczące dań. 
   
-Warto dodać, że cały hotel razem z restauracją ma zasadę, że wpuszczane są jedynie te osoby, które ukończyły 16 rok życia. 
-Degustująca Istota nie widzi w tym nic złego, dobrze, że są miejsca w których można przyjść z dziećmi i dobrze, że są takie,
+Warto dodać, że cały hotel razem z&nbsp;restauracją ma zasadę, że wpuszczane są jedynie te osoby, które ukończyły 16 rok życia. 
+Degustująca Istota nie widzi w&nbsp;tym nic złego, dobrze, że są miejsca w&nbsp;których można przyjść z&nbsp;dziećmi i&nbsp;dobrze, że są takie,
 gdzie od dzieci można odpocząć.
 
-Degustująca Istota za miły i magiczny wieczór w @bialykrolikgdynia przyznaje tej restauracji Odznakę Wesołego Bakłażana.
+Degustująca Istota za miły i&nbsp;magiczny wieczór w @bialykrolikgdynia przyznaje tej restauracji Odznakę Wesołego Bakłażana.
 
 <center><div style="width:35%">
 <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
