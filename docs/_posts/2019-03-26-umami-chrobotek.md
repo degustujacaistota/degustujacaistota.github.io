@@ -69,7 +69,7 @@ Na koniec coś, co skłoniło Istotę, aby ponownie odwiedzić Umami.
 
 Za tak wspaniałe wrażenia i świetne pomysły Degustująca Istota przyznaje order “Wesołego Bakłażana”!
 <center><div style="width:30%">
-   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Umami otrzymuje punktów: **230/250!**

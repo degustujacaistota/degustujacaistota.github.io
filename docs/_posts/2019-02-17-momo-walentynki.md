@@ -60,7 +60,7 @@ Restauracja Momo skradła serce Degustującej Istoty nie tylko Wege Walentynkami
 gdzie Momo prezentowało doskonały poziom. Tylko raz, można powiedzieć, że zaliczyli wpadkę,
  podając na Restaurant Week niedoprawiony tatar z&nbsp;bakłażana i&nbsp;twarde bliny, ale poza tym incydentem dania były tam idealne.
 <center><div style="width:30%">
-   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ### Podsumowanie :

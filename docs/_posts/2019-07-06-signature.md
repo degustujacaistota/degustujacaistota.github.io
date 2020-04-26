@@ -74,7 +74,7 @@ Deser. Tarta została nagrodzona pierwszym miejscem na @winefoodnoblenight. _4&n
 ### Podsumowanie:
 
 <center><div style="width:30%">
-   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 Istota jest zauroczona Signature i przyznaje tej restauracji Odznakę Wesołego Bakłażana. Obsługa jest miła i profesjonalna. Dania są bardzo smaczne i nie przekombinowane.

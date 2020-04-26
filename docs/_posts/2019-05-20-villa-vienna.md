@@ -75,7 +75,7 @@ Dużym plusem restauracji Villa Vienna jest duży parking, bo w&nbsp;tej okolicy
 Obsługa bardzo miła i&nbsp;profesjonalna.
 Za całość tych wszystkich pysznych dań Villa Vienna otrzymuje Odznakę Wesołego Bakłażana! Istota Gratuluje :D
 <center><div style="width:30%">
-   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Villa Vienna otrzymuje punktów: **230/250!!!**

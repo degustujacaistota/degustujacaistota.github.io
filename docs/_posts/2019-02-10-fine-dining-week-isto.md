@@ -13,7 +13,7 @@ Isto dzięki świetnej kolacji na najwyższym poziomie utrzymuje odznakę Wesoł
 
 
 <center><div style="width:30%">
-    <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+    <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 Całość wydarzenia rozpoczął już tradycyjnie chleb, a&nbsp;właściwie 3&nbsp;rodzaje chleba,

@@ -152,7 +152,7 @@ Istota ma zamiar tu wracać, być&nbsp;może zakosztować menu degustacyjnego. I
 Gratulacje!
 
 <center><div style="width:30%">
-   <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+   <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 ## Restauracja Villa Gardena otrzymuje punktów: **230/250!!!**

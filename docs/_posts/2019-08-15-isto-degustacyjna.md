@@ -122,7 +122,7 @@ Obsługa jest tam profesjonalna i&nbsp;miła. Naprawdę chce się wracać, co Is
 Naturalnie Odznaka Wesołego Bakłażana dla Isto pozostaje!
 
 <center><div style="width:30%">
-  <img src="{{site.img_url}}/assets/img/posts/odznaka.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
+  <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
 
