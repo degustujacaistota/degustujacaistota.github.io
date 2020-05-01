@@ -17,7 +17,7 @@ w&nbsp;którym otrzymała dwie czapki.
 
 Szef Kuchni Dominik Duraj wiele razy udowodnił 
 nam swój talent i&nbsp;przygotował dania, które będziemy długo pamiętać. 
-Na przykład genialny krem zvziemniaków ze świeżą truflą, który był naszą pierwszą potrawą
+Na przykład genialny krem z&nbsp;ziemniaków ze świeżą truflą, który był naszą pierwszą potrawą
  w @restauracja_villa_gardena i&nbsp;od którego absolutnie zakochaliśmy się w&nbsp;tym miejscu.
   Była też perliczka zaserwowana na Fine Dining Week. Najlepiej przygotowana perliczka,
    jaką mieliśmy przyjemność jeść.
