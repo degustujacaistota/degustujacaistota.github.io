@@ -6,7 +6,7 @@ tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wesoły_bakłażan 
 restaurant: La_Rotisserie
 location: Warszawa Polska
 points: 241
-translated: false
+translated: true
 ---
 
 Podczas ostatniego Fine Dining Week zawędrowaliśmy do warszawskiej restauracji La Rotisserie. 
