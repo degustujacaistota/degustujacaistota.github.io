@@ -5,7 +5,7 @@ featured-img: wie_main
 tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Fine_dinind_week Luksusowa_restauracja
 restaurant: Wierzynek
 location: Kraków Polska
-points: 240
+points: 238
 translated: false
 ---
 
@@ -117,7 +117,7 @@ Obsługa przez cały czas bardzo się starała i trzeba przyznać, że im to zna
   co jednak z przyjemnością nadrobiliśmy.
 
 
-## Restauracja Wierzynek otrzymuje: **240/250**
+## Restauracja Wierzynek otrzymuje: **238/250**
 Link do restauracji [Wierzynek]
 
 Adres: Rynek Główny 16, 
