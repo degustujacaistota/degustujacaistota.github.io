@@ -77,7 +77,7 @@ height="200px" width="40px" />
 
 
 Polska kaczka z&nbsp;puree z&nbsp;pasternaka, sosem Jacqueline oraz orzechami laskowymi. _3&nbsp;[bakłażany]._
-<center><div style="width:50%">
+<center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/fior_duck.jpg" alt="Na puree z pasternaka zrobiony ciemnym sosem znaczek ślimaczka.
  Obok pasek z filetu z kaczki." height="200px" width="40px" />
 </div></center>
