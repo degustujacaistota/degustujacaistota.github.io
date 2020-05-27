@@ -5,8 +5,8 @@ featured-img: wie_main
 tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Fine_dinind_week Luksusowa_restauracja
 restaurant: Wierzynek
 location: Kraków Polska
-points: 238
-translated: false
+points: 240
+translated: true
 ---
 
 Wierzynek to miejsce kultowe i sławne na całą Polskę. 
@@ -15,7 +15,7 @@ To pierwsze co przychodzi mi do głowy, gdy myślę o Wierzynku. Piękne, histor
 bogata zastawa stołowa. Również ceny należą do jednych z najwyższych, jakie do tej pory mieliśmy okazję widzieć w Polsce. 
 
 Razem z innymi Degustującymi Istotami postanowiliśmy w końcu przetestować co dobrego można zjeść na kolacji Fine diningowej
- w Wierzynku a festiwal sztuki kulinarnej Fine Dining Week idealnie się do tego nadawał.
+ w Wierzynku, a festiwal sztuki kulinarnej Fine Dining Week idealnie się do tego nadawał.
 
 ### Degustacja:
 
@@ -41,7 +41,7 @@ height="200px" width="40px" />
 
 #### *Krem rakowy/żółtko sous vide/fenkuł/suszony rak*
 
-Tradycyjnie podany krem rakowy. _2&nbsp;[bakłażany]._
+Tradycyjnie podany krem rakowy. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/wie_crayfish.jpg" alt="
 W głębokim talerzu nalany jest żółtobrązowy krem rakowy. Na środku położona jest połowa suszonego raka."
@@ -117,7 +117,7 @@ Obsługa przez cały czas bardzo się starała i trzeba przyznać, że im to zna
   co jednak z przyjemnością nadrobiliśmy.
 
 
-## Restauracja Wierzynek otrzymuje: **238/250**
+## Restauracja Wierzynek otrzymuje: **240/250**
 Link do restauracji [Wierzynek]
 
 Adres: Rynek Główny 16, 
