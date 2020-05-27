@@ -11,7 +11,7 @@ translated: true
 
 Wierzynek to miejsce kultowe i sławne na całą Polskę. 
 Pobyt w tej historycznej restauracji nasunął mi pomysł nowego taga na stronie Degustującej Istoty, mianowicie “Luksusowa restauracja”. 
-To pierwsze co przychodzi mi do głowy, gdy myślę o Wierzynku. Piękne, historyczne wnętrza, urządzone ze smakiem i specjalna, 
+To pierwsze co przychodzi mi do głowy, gdy myślę o @wierzynek_restauracja. Piękne, historyczne wnętrza, urządzone ze smakiem i specjalna, 
 bogata zastawa stołowa. Również ceny należą do jednych z najwyższych, jakie do tej pory mieliśmy okazję widzieć w Polsce. 
 
 Razem z innymi Degustującymi Istotami postanowiliśmy w końcu przetestować co dobrego można zjeść na kolacji Fine diningowej
