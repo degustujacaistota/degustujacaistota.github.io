@@ -39,7 +39,7 @@ height="200px" width="40px" />
 #### *Hołubcie Bielkowskie*
 
 Kapuściane rożki z ziemniakami, smażoną cebulką, prażoną kaszą pęczak i kwiatami szczypiorku. _5&nbsp;[bakłażanów]._
-<center><div style="width:65%">
+<center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/bg_holubcie.jpg" alt="
 Złotobrązowe rożki z kapusty ułożone w miseczce pełnej ziaren kaszy pęczak. Rożki ozdobione są od góry fioletowymi kwiatuszkami."
 height="200px" width="40px" />
@@ -83,7 +83,7 @@ height="200px" width="40px" />
 #### *Cykoria/koper włoski/ogórek małosolny*
 
 Następne danie w wersji wegetariańskiej, gdzie turbota zastąpiła cykoria. _3&nbsp;[bakłażany]._
-<center><div style="width:50%">
+<center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bg_chicory.jpg" alt="Na płaskim talerzu leży kawałek smażonej cykorii. Po jej lewej stronie znajduje się fenkuł, a po prawej ogórek małosolny."
 height="200px" width="40px" />
 </div></center>
