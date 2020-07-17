@@ -6,12 +6,12 @@ tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Michelin_guide Mich
 restaurant: Bez_Gwiazdek
 location: Warszawa Polska
 points: 240
-translated: false
+translated: true
 ---
 
 Kolejna wizyta w restauracji rekomendowanej przez przewodnik @michelinguide i ponownie jest co świętować. Na świętowanie urodzin przyjaciela Degustującej Istoty, Degustująca Istota została zaproszona do restauracji @bezgwiazdek, gdzie Szefem Kuchni jest Robert Trzopek @roberttrzopek. Już długo myślałam nad wizytą w tej restauracji, ale jakoś wcześniej się nie złożyło.
 Bez Gwiazdek to niewielka restauracja w której mieści się tylko kilka stolików.
-Atmosfera jest bardziej domowa niż restauracyjna i obsługa wydaje się być również na luzie. 
+Jest tam przytulnie, bardziej domowo niż restauracyjnie i obsługa również jest bardziej na luzie. 
 
 Menu zmieniane jest raz na miesiąc i skupia się na wybranym na dany miesiąc regionie. 
 My trafiliśmy na menu inspirowane potrawami z województwa zachodniopomorskiego. 
@@ -107,7 +107,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Petit fours*
+#### *Petit four*
 
 Kolację zamknęły tradycyjnie, małe słodkości od Szefa Kuchni. Lodowe mini tartaletki o smaku rabarbarowym, galaretki z derenia oraz moja ulubiona Suska Sechlońska. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
@@ -120,7 +120,7 @@ height="200px" width="40px" />
 
 W Bez Gwiazdek było bardzo smacznie, choć trzeba przyznać, że trafiliśmy na nie do końca dopasowane pod nasze gusta menu. Nie jesteśmy dużymi zwolennikami ryb, a już w szczególności solenizant, który ich wcale nie jada i wybrał wersje wegetariańskie. 
 Niestety w Warszawie nie jesteśmy tak często jak byśmy chcieli i
- mimo wszystko chcieliśmy spróbować autorskich potraw Szefa Kuchni Robert Trzopek. 
+ mimo wszystko postanowiliśmy spróbować autorskich potraw Szefa Kuchni. 
  
 Uważam, że wieczór był bardzo udany i cieszę się, że poznaliśmy minimalistyczne i mniej formalne podejście do Fine Dining. 
 
