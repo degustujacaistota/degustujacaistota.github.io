@@ -2,7 +2,7 @@
 layout: post
 title: Walentynkowe Momo
 featured-img: momo
-tags: Walentynki Wesoły_bakłażan
+tags: Walentynki Wesoły_bakłażan Wege Wegan
 restaurant: Momo
 location: Gliwice Śląsk Polska
 points: 240
