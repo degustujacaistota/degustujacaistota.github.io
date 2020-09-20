@@ -76,7 +76,7 @@ Genialny, jedwabisty jesiotr w marynacie z mleka kokosowego z dodatkiem lekko s�
 </div></center>
 <br />&ensp;&ensp;
 
-W wersji wegetariańskiej zamiast jesiotra podano pokrojony fenkuł. _4&nbsp;[bakłażanów]._
+W wersji wegetariańskiej zamiast jesiotra podano pokrojony fenkuł. _4&nbsp;[bakłażany]._
 Photo. Krzysztof Biliński
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Si_sturgeon_wege.jpg" alt="Na białym, głębokim talerzu są pokrojone kawałki fenkuła, ułożone w kształt koła i oblane zieloną oliwą. Na wierzchu udekorowane płatkami kwiatów i listkami." height="200px" width="40px" />
