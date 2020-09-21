@@ -6,7 +6,7 @@ tags: Restauracja Wesoły_bakłażan Fine_dining Menu_degustacyjne Luksusowa_res
 restaurant: Silvio_Nickol
 location: Wiedeń Austria
 points: 248
-translated: false
+translated: true
 ---
 
 Drugi raz odwiedziliśmy Wiedeń z wyprawą kulinarną i tym razem zdecydowaliśmy się sięgnąć na najwyższą półkę i spróbować kolacji degustacyjnych w restauracjach z dwoma i trzema gwiazdkami @michelinguide.
@@ -22,7 +22,12 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Piękna, elegancka sala do której nas zaprowadzono z imponującą, podświetloną ścianą ametystów służącą za tło dla wielkiego, białego jajka. Jajko pojawiało się też w innych miejscach restauracji i jak się okazało było motywem przewodnim zarówno kolacji, jak i całej restauracji. Zostało nazwane “The egg of Origin” (Jajko Pochodzenia). Ma nawiązywać do filozoficznych pytań o początek istnienia oraz do naszej kruchości w związku z otaczającym wszechświatem.
+Piękna, elegancka sala do której nas zaprowadzono z imponującą, 
+podświetloną ścianą ametystów służącą za tło dla wielkiego, białego jajka. 
+Jajko pojawiało się też w innych miejscach restauracji i jak się okazało było 
+motywem przewodnim zarówno kolacji, jak i całej restauracji. Zostało nazwane “The egg of Origin”
+ (Jajko Pochodzenia). Ma nawiązywać do filozoficznych pytań o początek istnienia oraz do naszej kruchości w 
+ związku z otaczającym wszechświatem.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/Si_inside.jpg" alt="Sala z dużymi okrągłymi stołami przykrytymi białymi obrusami. Na centralnej, czarnej ścianie umieszczony jest duży ametystowy blok, podświetlony od dołu z wiszącym białym jajkiem."
 height="200px" width="40px" />
@@ -35,7 +40,9 @@ height="200px" width="40px" />
 
 Lekki i orzeźwiający amuse-bouche. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_am1.jpg" alt="W szklanej przezroczystej miseczce znajduje się dysk posypany pudrem koperkowym, pod spodem pomarańczowy mus a na dysku pomarańczowa ikra."
+<img src="{{site.img_url}}/assets/img/posts/Si_am1.jpg" alt="W szklanej 
+przezroczystej miseczce znajduje się dysk posypany pudrem koperkowym, pod spodem pomarańczowy 
+mus a na dysku pomarańczowa ikra."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -45,41 +52,50 @@ height="200px" width="40px" />
 
 Kolejny amuse-bouche. Tartaletki z tatarem doprawione estragonem. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_buffalo.jpg" alt="Na kości ułożone są małe tartaletki z tatarem, ozdobione zielonym majonezem i zielonymi listkami."
+<img src="{{site.img_url}}/assets/img/posts/Si_buffalo.jpg" alt="Na kości ułożone są małe
+ tartaletki z tatarem, ozdobione zielonym majonezem i zielonymi listkami."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Boczek z marchewką*
 
-Następny amuse-bouche. Chrupiąca marchewka pięknie komponowała się z boczkiem w sosie teriyaki. Bardzo ciekawy był sposób w jaki mieliśmy zjeść tą przekąskę. W tym celu dostaliśmy pęsetę kucharską. _3&nbsp;[bakłażany]._
+Następny amuse-bouche. Chrupiąca marchewka pięknie komponowała się z boczkiem w sosie teriyaki. 
+Bardzo ciekawy był sposób w jaki mieliśmy zjeść tą przekąskę. W tym celu dostaliśmy pęsetę kucharską. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_pork_belly.jpg" 	alt="W białej, małej miseczce ułożone jest kawałek boczku oblany ciemnym sosem. Na jego wierzchu są chrupiące, cienkie, paseczki marchewki"
+<img src="{{site.img_url}}/assets/img/posts/Si_pork_belly.jpg" 	alt="W białej, małej miseczce ułożone 
+jest kawałek boczku oblany ciemnym sosem. Na jego wierzchu są chrupiące, cienkie, paseczki marchewki."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Chleb*
 
-Pieczywo na zakwasie z chrupiącą skórką. Podane cieplutkie. Do chleba mieliśmy dwa rodzaje masła: z prażoną cebulką i szczypiorkowe. Oba doskonałe i kremowe, choć mi bardziej do gustu przypadło szczypiorkowe. _4&nbsp;[bakłażany]._
+Pieczywo na zakwasie z chrupiącą skórką. Podane cieplutkie. Do chleba mieliśmy dwa rodzaje masła: z prażoną 
+cebulką i szczypiorkowe. Oba doskonałe i kremowe, choć mi bardziej do gustu przypadło szczypiorkowe. _4&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_bread.jpg" alt="Pokrojony na cztery części bochenek chleba, położony na ciemnym talerzu. Obok dwa rodzaje masła na czarnych podstawkach. Jedno zielone a drugie szaro-żółte."
+<img src="{{site.img_url}}/assets/img/posts/Si_bread.jpg" alt="Pokrojony na cztery części bochenek chleba,
+ położony na ciemnym talerzu. Obok dwa rodzaje masła na czarnych podstawkach. Jedno zielone a drugie szaro-żółte."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Jesiotr/kokos/morela/werbena/soliród*
 
-Genialny, jedwabisty jesiotr w marynacie z mleka kokosowego z dodatkiem lekko słodkiej moreli, intensywnej, ziołowej oliwy z werbeny oraz chili. Ta kompozycja zdecydowanie zasługuje na Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Genialny, jedwabisty jesiotr w marynacie z mleka kokosowego z dodatkiem lekko słodkiej moreli, intensywnej,
+ ziołowej oliwy z werbeny oraz chili. Ta kompozycja zdecydowanie zasługuje na Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_sturgeon.jpg" alt="Na białym, głębokim talerzu są pokrojone kawałki surowego jesiotra, ułożone w kształt koła i oblane zieloną oliwą. Na wierzchu udekorowane płatkami kwiatów i listkami." height="200px" width="40px" />
+<img src="{{site.img_url}}/assets/img/posts/Si_sturgeon.jpg" alt="Na białym, głębokim talerzu są 
+pokrojone kawałki surowego jesiotra, ułożone w kształt koła i oblane zieloną oliwą. Na wierzchu udekorowane 
+płatkami kwiatów i listkami." height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 W wersji wegetariańskiej zamiast jesiotra podano pokrojony fenkuł. _4&nbsp;[bakłażany]._
 Photo. Krzysztof Biliński
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_sturgeon_wege.jpg" alt="Na białym, głębokim talerzu są pokrojone kawałki fenkuła, ułożone w kształt koła i oblane zieloną oliwą. Na wierzchu udekorowane płatkami kwiatów i listkami." height="200px" width="40px" />
+<img src="{{site.img_url}}/assets/img/posts/Si_sturgeon_wege.jpg" alt="Na białym, głębokim talerzu są pokrojone 
+kawałki fenkuła, ułożone w kształt koła i oblane zieloną oliwą. Na wierzchu udekorowane płatkami kwiatów i listkami." height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
@@ -91,7 +107,9 @@ To danie zachwyciło całą naszą trójkę. Jak się okazało było to popisowe
  które wyglądały jak prawdziwe. Do tego kora z czekolady, jadalny mech zdaje się, że z pistacji, ale nie jestem tego pewna. Były też prawdziwe marynowane grzybki. Ten las pełen niespodzianek, które odkrywaliśmy podczas jedzenia będę długo wspominać. Perfekcyjne i zachwycające! Dostaje oczywiście Order Wesołego Bakłażana.
 _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_foiegras.jpg" alt="W grubym, ciemno szarym naczyniu ułożone są grzybki i żołędzie z musu wątróbkowego, otoczone zielonymi gałązkami, żółtymi i bordowymi płatkami kwiatów, oraz pionowo ułożonymi kawałkami czekolady."
+<img src="{{site.img_url}}/assets/img/posts/Si_foiegras.jpg" alt="W grubym, ciemno szarym naczyniu 
+ułożone są grzybki i żołędzie z musu wątróbkowego, otoczone zielonymi gałązkami, żółtymi i bordowymi płatkami kwiatów,
+ oraz pionowo ułożonymi kawałkami czekolady."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -105,9 +123,14 @@ height="200px" width="40px" />
 
 #### *Sum/por/topinambur/kalarepa/kawior*
 
-Przepiękne danie główne, które zachwycało i wyglądem i smakiem. Ryba była zrobiona w marynacie barbeque, wędzona i grillowana. Miała zwarte, ale delikatne mięso. Sos z białych szparagów był gładki i idealnie komponował się z sumem. Małe rurki ozdobione kawiorem i kwiatami były wspaniałym dodatkiem. Kolejne zachwycające danie, któremu chętnie przyznaję order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Przepiękne danie główne, które zachwycało i wyglądem i smakiem. Ryba była zrobiona w marynacie
+ barbeque, wędzona i grillowana. Miała zwarte, ale delikatne mięso. Sos z białych szparagów był gładki i 
+ idealnie komponował się z sumem. Małe rurki ozdobione kawiorem i kwiatami były wspaniałym dodatkiem. 
+ Kolejne zachwycające danie, któremu chętnie przyznaję order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_catfish.jpg" alt="W głębokim białym talerzu, którego dno przykryte jest zieloną oliwą, ułożony jest kawałek grillowanej ryby. Obok suma położone są białe rurki ozdobione kwiatami i kawiorem. Z białego dzbaneczka nalewany jest biały, gładki sos."
+<img src="{{site.img_url}}/assets/img/posts/Si_catfish.jpg" alt="W głębokim białym talerzu, którego dno 
+przykryte jest zieloną oliwą, ułożony jest kawałek grillowanej ryby. Obok suma położone są białe rurki ozdobione kwiatami 
+i kawiorem. Z białego dzbaneczka nalewany jest biały, gładki sos."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -122,21 +145,26 @@ height="200px" width="40px" />
 
 I jeszcze piękniejsza wersja wegetariańska. Jak letnia łąka pełna kwiatów.
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_vege_catfish.jpg" alt="Białe rurki ozdobione różnokolorowymi kwiatami ułożone są na białym talerzu, na którego dnie nalana jest intensywnie zielona oliwa."
+<img src="{{site.img_url}}/assets/img/posts/Si_vege_catfish.jpg" alt="Białe rurki ozdobione 
+różnokolorowymi kwiatami ułożone są na białym talerzu, na którego dnie nalana jest intensywnie zielona oliwa."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Jajko z niespodzianką*
 
-Orzeźwiające intermezzo podane w incepcji jajecznej w oparach ciekłego azotu. Przed nami postawiono ceramiczne jajko, po czym podniesiono jego górną część uwalniając opary azotu i ukazując kolejne jajko wypełnione gazpacho z selerem naciowym, pomidorami i śmietaną. _5&nbsp;[bakłażanów]._
+Orzeźwiające intermezzo podane w incepcji jajecznej w oparach ciekłego azotu.
+ Przed nami postawiono ceramiczne jajko, po czym podniesiono jego górną 
+ część uwalniając opary azotu i ukazując kolejne jajko wypełnione gazpacho z selerem naciowym, pomidorami i śmietaną. _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_gazpacho.jpg" alt="Jajko z zieloną pianką, umieszczone w połówce ceramicznego jajka z którego unosi się para."
+<img src="{{site.img_url}}/assets/img/posts/Si_gazpacho.jpg" alt="Jajko z zieloną pianką, umieszczone 
+w połówce ceramicznego jajka z którego unosi się para."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Zarówno sposób w jaki to gazpacho zostało nam zaserwowane, jak i smak oraz struktura, zdecydowanie zasługują na Order Wesołego Bakłażana.  _5&nbsp;[bakłażanów]._
+Zarówno sposób w jaki to gazpacho zostało nam zaserwowane, jak i smak oraz struktura, 
+zdecydowanie zasługują na Order Wesołego Bakłażana.  _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/Si_gazpacho2.jpg" alt="To samo jajko w przybliżeniu."
 height="200px" width="40px" />
@@ -145,9 +173,14 @@ height="200px" width="40px" />
 
 #### *Truflowa polenta/jajko przepiórcze*
 
-Może to danie wizualnie nie było najpiękniejsze, ale smak i konsystencja były cudowne. Najbardziej puszysta i kremowa polenta jaką jadłam. Oprócz grubych plasterków trufli były jeszcze kawałki trufli w środku. Została tutaj użyta letnia trufla z Istrii. Kocham trufle, bardzo, a polenta była doskonałym nośnikiem truflowego smaku i aromatu. I tak! To danie również dostaje Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Może to danie wizualnie nie było najpiękniejsze, ale smak i konsystencja były cudowne.
+ Najbardziej puszysta i kremowa polenta jaką jadłam. Oprócz grubych plasterków trufli
+  były jeszcze kawałki trufli w środku. Została tutaj użyta letnia trufla z Istrii. 
+  Kocham trufle, bardzo, a polenta była doskonałym nośnikiem truflowego smaku i aromatu. I tak! 
+  To danie również dostaje Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_truffle_polenta.jpg" alt="Biały talerz wypełniony polentą i przykryty od góry plastrami trufli i zielonymi listeczkami w środku."
+<img src="{{site.img_url}}/assets/img/posts/Si_truffle_polenta.jpg" alt="Biały talerz wypełniony polentą
+ i przykryty od góry plastrami trufli i zielonymi listeczkami w środku."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -158,7 +191,8 @@ height="200px" width="40px" />
 Przekąska z jagnięciny, czyli mini wersja dania głównego.
    _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_pork_belly_ginger.jpg" alt="Na białym talerzu w kształcie łódeczki jest położony ciemny kawałek mięsa, na którym położone są zielone i żółte liście."
+<img src="{{site.img_url}}/assets/img/posts/Si_pork_belly_ginger.jpg" alt="Na białym talerzu w 
+kształcie łódeczki jest położony ciemny kawałek mięsa, na którym położone są zielone i żółte liście."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -167,7 +201,8 @@ height="200px" width="40px" />
 
 Tutaj najbardziej smakowała mi cebula i intensywny, bogaty sos. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_lamb.jpg" alt="Na płaskim białym talerzu po lewej leży ciemny kawałek jagnięciny, a po prawej cebula ozdobiona listkami i wyciętą różyczką. Pośrodku nalewany jest ciemny sos."
+<img src="{{site.img_url}}/assets/img/posts/Si_lamb.jpg" alt="Na płaskim białym talerzu po lewej
+ leży ciemny kawałek jagnięciny, a po prawej cebula ozdobiona listkami i wyciętą różyczką. Pośrodku nalewany jest ciemny sos."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -176,7 +211,8 @@ height="200px" width="40px" />
 
 Zapowiedź potrawy z dziczyzny. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_tatar.jpg" alt="Na Pudełku wypełnionym pestkami wiśni, z położonymi szyszkami, kamieniami i korą, leży srebra łódeczka z niewielką ilością tatara i plasterkiem surowego kalafiora."
+<img src="{{site.img_url}}/assets/img/posts/Si_tatar.jpg" alt="Na Pudełku wypełnionym pestkami wiśni,
+ z położonymi szyszkami, kamieniami i korą, leży srebra łódeczka z niewielką ilością tatara i plasterkiem surowego kalafiora."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -186,34 +222,44 @@ height="200px" width="40px" />
 
 Soczysty kawałek mięsa, obtoczony w zielonym pieprzu. Do tego jako dodatki: wiśnie, orzech włoski i przypieczony kalafior. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_venison.jpg" alt="Kawałek mięsa z zewnątrz otoczony zielonkawą warstwą ziół. Na środku talerza polany jest jasno brązowy sos, a po prawej leży połówka wiśni z małą różową różyczką w środku, plasterek kalafiora i połówka orzecha."
+<img src="{{site.img_url}}/assets/img/posts/Si_venison.jpg" alt="Kawałek mięsa z zewnątrz otoczony
+ zielonkawą warstwą ziół. Na środku talerza polany jest jasno brązowy sos, a po prawej leży połówka wiśni z 
+ małą różową różyczką w środku, plasterek kalafiora i połówka orzecha."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Shakshuka*
 
-Pomidorowy dżem z granitą z kwiatów bzu i melonem._4&nbsp;[bakłażany]._
+Pomidorowy dżem z granitą z kwiatów bzu i melonem. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_shakshuka.jpg" alt="Dwie szklane miseczki z pomarańczowym dżemem, oprószone białą granitą, z kawałkami melona i ozdobione bordowymi listkami."
+<img src="{{site.img_url}}/assets/img/posts/Si_shakshuka.jpg" alt="Dwie szklane miseczki z 
+pomarańczowym dżemem, oprószone białą granitą, z kawałkami melona i ozdobione bordowymi listkami."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Magdalenka z kawą*
 
-Do deseru czasem zamawiamy sobie kawę. Tym razem do kawy dostaliśmy smaczną, ciepłą magdalenkę. _4&nbsp;[bakłażany]._
+Do deseru czasem zamawiamy sobie kawę. Tym razem do kawy dostaliśmy smaczną, ciepłą magdalenkę. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_coffe.jpg" alt="Magdalenka w kształcie muszelki jest położone na kwadratowym, ciemnoszarym łupku, kawa z mlekiem i różne rodzaje cukru w probówkach: biały, trzcinowy i w brązowych bryłkach."
+<img src="{{site.img_url}}/assets/img/posts/Si_coffe.jpg" alt="Magdalenka w kształcie muszelki
+ jest położone na kwadratowym, ciemnoszarym łupku, kawa z mlekiem i różne rodzaje cukru w probówkach:
+  biały, trzcinowy i w brązowych bryłkach."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Jabłko/kwaśna śmietana/koperek/fenkuł/burak*
 
-Sorbet jabłkowy z fenkułem zamkniętym w sferkach, paloną kwaśną śmietaną, bezą w formie gładkich tafli i białym burakiem. Niezwykle ciekawy, odważny deser z warzywami bardzo mi przypadł do gustu. Świetny balans słodkiego i kwaśnego, do tego jeszcze wiele struktur i skomplikowane elementy. Deser idealny dla mnie i za to przyznaję mu Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Sorbet jabłkowy z fenkułem zamkniętym w sferkach, paloną kwaśną śmietaną, bezą w formie gładkich tafli i białym burakiem.
+ Niezwykle ciekawy, odważny deser z warzywami bardzo mi przypadł do gustu.
+  Świetny balans słodkiego i kwaśnego, do tego jeszcze wiele struktur i skomplikowane elementy. 
+  Deser idealny dla mnie i za to przyznaję mu Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_dessert.jpg" alt="Na czarnym talerzu spiralnie nałożona kwaśna śmietana z widocznymi przypalonymi miejscami. W centrum spirali nałożona jest porcja zielonego sorbetu. Na dwóch końcach spirali są umieszczone zielone sferki. Całość ozdobiona białymi taflami bezy."
+<img src="{{site.img_url}}/assets/img/posts/Si_dessert.jpg" alt="Na czarnym talerzu spiralnie nałożona kwaśna śmietana
+ z widocznymi przypalonymi miejscami. W centrum spirali nałożona jest porcja zielonego sorbetu. Na dwóch końcach spirali
+  są umieszczone zielone sferki. Całość ozdobiona białymi taflami bezy."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -222,16 +268,19 @@ height="200px" width="40px" />
 
 Kremowy, puszysty jogurt, z musem z awokado, mango i rokitnikiem. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_petit_fours.jpg" alt="W szklanej miseczce położona jest pianka ozdobiona kruszonką i płatkami pomarańczowych kwiatów od góry i małą różową różyczką."
+<img src="{{site.img_url}}/assets/img/posts/Si_petit_fours.jpg" alt="W szklanej miseczce położona jest pianka
+ ozdobiona kruszonką i płatkami pomarańczowych kwiatów od góry i małą różową różyczką."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Cannelés de Bordeaux*
 
-Zachwycające mini ciasto, podane ciepłe z kremem z fasoli tonka i czerwoną porzeczką. I nie mogę się powstrzymać więc przyznaję za to cudo Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Zachwycające mini ciasto, podane ciepłe z kremem z fasoli tonka i czerwoną porzeczką. 
+I nie mogę się powstrzymać więc przyznaję za to cudo Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_petit_fours2.jpg" alt="Ciasteczko z ciemną karmelizowaną skórką, które ma kształt małego, prążkowanego cylindra. Podane na drewnianej deseczce."
+<img src="{{site.img_url}}/assets/img/posts/Si_petit_fours2.jpg" alt="Ciasteczko z ciemną karmelizowaną skórką,
+ które ma kształt małego, prążkowanego cylindra. Podane na drewnianej deseczce."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -246,7 +295,8 @@ height="200px" width="40px" />
 <br />&ensp;&ensp;
 
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Si_box2.jpg" alt="Wnętrze pudełka, które zawiera orzeszki laskowe, a na nich leżą dwa wafelki ozdobione od góry połówką orzecha laskowego a po bokach posiekanymi orzechami."
+<img src="{{site.img_url}}/assets/img/posts/Si_box2.jpg" alt="Wnętrze pudełka, które zawiera orzeszki laskowe, 
+a na nich leżą dwa wafelki ozdobione od góry połówką orzecha laskowego a po bokach posiekanymi orzechami."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -255,7 +305,9 @@ height="200px" width="40px" />
 
 Zamknięte w białej czekoladzie i obtoczone w płatkach Campari było orzeźwiającym zakończeniem kolacji. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Si_campari.jpg" alt="Na szklanej misce pod którą umieszczono brązowe wiórki i suszone pomarańcze, leżą trzy kulki obtoczone w brązowych płatkach z czerwonym żelem na szczycie i błękitnym małym kwiatkiem wetkniętym w kropkę żelu."
+<img src="{{site.img_url}}/assets/img/posts/Si_campari.jpg" alt="Na szklanej misce
+ pod którą umieszczono brązowe wiórki i suszone pomarańcze, leżą trzy kulki obtoczone
+  w brązowych płatkach z czerwonym żelem na szczycie i błękitnym małym kwiatkiem wetkniętym w kropkę żelu."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
