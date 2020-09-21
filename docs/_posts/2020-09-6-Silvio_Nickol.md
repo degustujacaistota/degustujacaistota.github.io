@@ -11,7 +11,7 @@ translated: false
 
 Drugi raz odwiedziliśmy Wiedeń z wyprawą kulinarną i tym razem zdecydowaliśmy się sięgnąć na najwyższą półkę i spróbować kolacji degustacyjnych w restauracjach z dwoma i trzema gwiazdkami @michelinguide.
 
-Jako dwugwiazdkową wybraliśmy restaurację Szefa Kuchni Silvio Nickol czyli Silvio Nickol GourmetRestaurantm, która mieści się w Palais Coburg.
+Jako dwugwiazdkową wybraliśmy restaurację Szefa Kuchni Silvio Nickol czyli Silvio Nickol GourmetRestaurant, która mieści się w Palais Coburg.
 
 Przed wejściem oczywiście znalazła się tabliczka z informacją o przyznanch dwóch gwiazdkach Michelin oraz o tym,
  że ta restauracja jest członkiem luksusowego Les Grandes Tables du Monde.
@@ -86,7 +86,9 @@ Photo. Krzysztof Biliński
 
 #### *Kacza wątróbka/grzyby/świerk/czekolada*
 
-To danie zachwyciło całą naszą trójkę. Nie powinno dziwić, skoro jest to popisowe danie (signature dish) Szefa Kuchni. Przepiękny las w którym były grzybki i żołędzie uformowane z musu z wątróbki, które wyglądały jak prawdziwe. Do tego kora z czekolady, jadalny mech zdaje się, że z pistacji, ale nie jestem tego pewna. Były też prawdziwe marynowane grzybki. Ten las pełen niespodzianek, które odkrywaliśmy podczas jedzenia będę długo wspominać. Perfekcyjne i zachwycające! Dostaje oczywiście Order Wesołego Bakłażana.
+To danie zachwyciło całą naszą trójkę. Jak się okazało było to popisowe danie (signature dish) Szefa Kuchni Silvio Nickol. 
+ Przepiękny las w którym były grzybki i żołędzie uformowane z musu z wątróbki, 
+ które wyglądały jak prawdziwe. Do tego kora z czekolady, jadalny mech zdaje się, że z pistacji, ale nie jestem tego pewna. Były też prawdziwe marynowane grzybki. Ten las pełen niespodzianek, które odkrywaliśmy podczas jedzenia będę długo wspominać. Perfekcyjne i zachwycające! Dostaje oczywiście Order Wesołego Bakłażana.
 _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Si_foiegras.jpg" alt="W grubym, ciemno szarym naczyniu ułożone są grzybki i żołędzie z musu wątróbkowego, otoczone zielonymi gałązkami, żółtymi i bordowymi płatkami kwiatów, oraz pionowo ułożonymi kawałkami czekolady."
@@ -271,10 +273,17 @@ Naturalnie, za całokształt perfekcyjnej kolacji degustacyjnej przyznaję Order
 <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
 
-Jeszcze zwyczajowo kilka słów o cenach. Wybraliśmy menu degustacyjne siedmiodaniowe za 149 euro za osobę. Do rachunku doliczona została też opłata ”cover”, jak mniemam, za dodatki w stylu pieczywa i masła, w wysokości 7,50 euro za osobę. Nie przepadam za tego typu opłatami w restauracjach. Wolę kiedy wszystkie niezbędne koszty wliczone są w cenę menu.
+Na zakończenie mieliśmy przyjemność poznać Szefa Kuchni i całą załogę, oraz zamienić z nimi kilka słów.
+To zaszczyt poznać kogoś kto potrafi przygotować takie genialne menu, która nas oczarowało.
+
+Jeszcze zwyczajowo kilka słów o cenach. Wybraliśmy menu degustacyjne siedmiodaniowe za 149 euro za osobę. 
+Do rachunku doliczona została też opłata ”cover”, zdaje się, że za dodatki w stylu pieczywa i masła, w wysokości 7,50 euro 
+za osobę. Wolę kiedy wszystkie niezbędne koszty wliczone są w cenę menu. Napiwek nie był doliczony do rachunku.
 
 ## Restauracja Silvio Nickol GourmetRestaurant otrzymuje: **248/250!**
 Link do restauracji [Silvio Nickol GourmetRestaurant]
+
+Data degustacji: 28.08.2020
 
 Adres: Coburgbastei 4, 1010 Wien, Austria
 
