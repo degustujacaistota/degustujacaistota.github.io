@@ -320,7 +320,7 @@ Niespodzianek w trakcie kolacji było mnóstwo. Potrawy były dopracowane w najd
 Obsługa była perfekcyjna oraz tempo serwowanych dań było dla nas odpowiednie, bo często przez robienie zdjęć nasza kolacja nieco się wydłuża w porównaniu do standardowego czasu.
 Wiele z tych dań nigdy nie zapomnę i mam nadzieję, że jeszcze kiedyś ponownie zawitamy do Silvio na taką wspaniałą ucztę.
 
-Naturalnie, za całokształt perfekcyjnej kolacji degustacyjnej przyznaję Order Wesołego Bakłażana.
+Naturalnie, za perfekcyjną kolację w stylu fine dining, na najwyższym poziomie, przyznaję Order Wesołego Bakłażana.
 <center><div style="width:35%">
 <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
 </div></center>
