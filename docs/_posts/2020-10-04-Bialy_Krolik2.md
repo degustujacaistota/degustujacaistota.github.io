@@ -6,7 +6,7 @@ tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wesoły_bakłażan
 restaurant: Biały_królik
 location: Gdynia Trójmiasto Polska
 points: 243
-translated: false
+translated: true
 ---
 
 Przy okazji pobytu w Trójmieście na Fine Diningowej wycieczce postanowiliśmy
@@ -172,7 +172,7 @@ height="200px" width="40px" />
 W listopadzie Biały Królik nas zachwycił a teraz zachwycił nas jeszcze bardziej. Ciekawe zioła, których nigdzie indziej nie da się spróbować, pracochłonne, starannie przygotowane dania, które zachwycają swoim wyglądem oraz bardzo miła, relaksująca atmosfera.
 Najchętniej zamawialibyśmy w Biały Króliku na pierwsze danie menu degustacyjne “Podążaj za Białym Królikiem” a na drugie danie menu “Degustację Roślinnie Jemy”.
 
-Mieliśmy też przyjemność zamienić kilka swół z Szefem Kuchni Rafałem Koziorzemskim na koniec obiadu.
+Zamieniliśmy kilka słów z Szefem Kuchni Rafałem Koziorzemskim na koniec obiadu.
  To była ogromna przyjemność poznać Chef’a osobiście.
   W maju uczestniczyłam w Webinarze organizowanym przez @roslinniejemy z Szefem Rafałem. 
   Opowiadał on o zastosowaniu ziół w kuchni oraz o Fine Dining w wydaniu wegańskim. Bardzo interesujący webinar.
@@ -181,11 +181,11 @@ Mieliśmy też przyjemność zamienić kilka swół z Szefem Kuchni Rafałem Koz
 
 Już niedługo mamy nadzieję, że uda nam się wziąć udział w roślinnej kolacji degustacyjnej,
  która będzie mieć miejsce w restauracji @dworeknewrestaurant 22 października. 
- To wegańskie menu mają wspólnie przyrządzać Chef Rafał Koziorzemski oraz Chef Wojciech Korfel z restauracji Prologue,
+ To wegańskie menu mają wspólnie przyrządzać Chef Rafał Koziorzemski oraz Chef Wojciech Korfel (@wojciechkorfel) z restauracji Prologue,
   gdzie byliśmy kilka dni po lipcowej wizycie w Białym Króliku i [tu] możecie przeczytać, jak było pysznie.
    Nie możemy się doczekać tego wieczoru. 
 
-Naturalnie podtrzymujemy dla restauracji Biały Królik naszą Odznakę Wesołego Bakłażana za rewelacyjny degustacyjny obiad.
+Naturalnie podtrzymujemy dla restauracji Biały Królik naszą Odznakę Wesołego Bakłażana za świetny degustacyjny obiad.
 
 <center><div style="width:35%">
 <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Odznaka Wesołego Bakłażana" height="100" width="auto" />
@@ -197,7 +197,7 @@ Jeszcze kilka słów o cenach. Menu Degustacyjne “Podążaj za Białym Królik
 ## Restauracja Biały Królik otrzymuje: **243/250!**
 Link do restauracji [Biały Królik]
 
-Adres: ul. Folwarczna 2, 81-547 Gdynia, Poland
+Adres: ul. Folwarczna 2, 81-547 Gdynia, Polska
 
 Data degustacji: 09.07.2020
 
