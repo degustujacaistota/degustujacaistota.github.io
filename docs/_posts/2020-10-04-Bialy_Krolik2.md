@@ -10,7 +10,8 @@ translated: false
 ---
 
 Przy okazji pobytu w Trójmieście na Fine Diningowej wycieczce postanowiliśmy
- po raz drugi skosztować menu degustacyjnego u Szefa Kuchni Rafała Koziorzemskiego w Białym Króliku @bialykrolikgdynia. Nasze
+ po raz drugi skosztować menu degustacyjnego u Szefa Kuchni Rafała Koziorzemskiego (@rafalchef__smakmiasta)
+  w Białym Króliku @bialykrolikgdynia. Gdzie Szefem Patronem jest Marcin Popielarz (@popek_52). Nasze
  wrażenia z pierwszej wizyty możecie przeczytać w tym [artykule].
 
 Ponieważ tradycyjnie już przyjechaliśmy na miejsce ponad godzinę za wcześnie,
