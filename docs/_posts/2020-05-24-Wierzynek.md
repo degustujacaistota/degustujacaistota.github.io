@@ -2,7 +2,7 @@
 layout: post
 title: Wierzynek - Fine Dining Week 
 featured-img: wie_main
-tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Fine_dinind_week Luksusowa_restauracja
+tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Fine_dining_week Luksusowa_restauracja
 restaurant: Wierzynek
 location: Kraków Polska
 points: 240
