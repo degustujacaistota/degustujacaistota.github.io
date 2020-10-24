@@ -85,13 +85,13 @@ paginate_path:    '/:num'
 remote_theme: degustujacaistota/sleek
 
 # jekyll-seo-tag
-title: Fine Dining i inne cuda kulinarne
+title: Degustująca Istota
 tagline: >
-  Fine Dining to Sztuka Kulinarna, która jest moją pasją. Jednak, nie samą sztuką człowiek żyje.
+  Blog o restauracjach Fine Dining, Slow Food i o dobrym jedzeniu
 description: >
   Restauracje Fine Dining okiem Degustującej Istoty.
-  Kolacje degustacyjne, dania à la Carte również w restauracjach z poleceniem Michelin Guide, ale nie tylko.
-  Znalazło się też miejsca dla kilku perełek kulinarnych poza światem sztuki kulinarnej Fine Dining.
+  Kolacje degustacyjne, dania à la Carte w restauracjach polecanych przez Michelin Guide, Gault & Millau ale nie tylko.
+  Znalazło się też miejsce dla kilku perełek kulinarnych poza światem sztuki kulinarnej Fine Dining.
 
 url: 'https://www.degustujacaistota.pl/'
 author: Danuta Irena Żabińska
