@@ -84,13 +84,16 @@ Fantastycznie podany tatar.
 
 Dodatki do tatara: jajko  i mech lubczykowy.
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/bk2_duck2.jpg" alt="W płaskim drewnianym pudełku leży smażone żółtko na plasterku boczniaka oraz po lewej zielony mech lubczykowy." height="200px" width="40px" />
+<img src="{{site.img_url}}/assets/img/posts/bk2_duck2.jpg" alt="W płaskim drewnianym pudełku leży
+ smażone żółtko na plasterku boczniaka oraz po lewej zielony mech lubczykowy." height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/bk2_duck.jpg" alt="Tatar z kuleczkami musztardy i derenia położony na beżowym pergaminie, który leży na turkusowym talerzu. W tatar są wetknięte niewielkie żółte chrupki i zielone listki." height="200px" width="40px" />
+<img src="{{site.img_url}}/assets/img/posts/bk2_duck.jpg" alt="Tatar z kuleczkami musztardy
+ i derenia położony na beżowym pergaminie, który leży na turkusowym talerzu.
+  W tatar są wetknięte niewielkie żółte chrupki i zielone listki." height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
