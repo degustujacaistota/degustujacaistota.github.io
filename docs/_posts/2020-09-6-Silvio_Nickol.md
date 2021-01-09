@@ -11,7 +11,7 @@ translated: true
 
 Drugi raz odwiedziliśmy Wiedeń z wyprawą kulinarną i tym razem zdecydowaliśmy się sięgnąć na najwyższą półkę i spróbować kolacji degustacyjnych w restauracjach z dwoma i trzema gwiazdkami @michelinguide.
 
-Jako dwugwiazdkową wybraliśmy restaurację Szefa Kuchni Silvio Nickol czyli Silvio Nickol GourmetRestaurant, która mieści się w Palais Coburg.
+Jako dwugwiazdkową wybraliśmy restaurację Szefa Kuchni Silvio Nickol czyli Silvio Nickol Gourmet Restaurant, która mieści się w Palais Coburg.
 
 Przed wejściem oczywiście znalazła się tabliczka z informacją o przyznanch dwóch gwiazdkach Michelin oraz o tym,
  że ta restauracja jest członkiem luksusowego Les Grandes Tables du Monde.
@@ -332,8 +332,8 @@ Jeszcze zwyczajowo kilka słów o cenach. Wybraliśmy menu degustacyjne siedmiod
 Do rachunku doliczona została też opłata ”cover”, zdaje się, że za dodatki w stylu pieczywa i masła, w wysokości 7,50 euro 
 za osobę. Wolę kiedy wszystkie niezbędne koszty wliczone są w cenę menu. Napiwek nie był doliczony do rachunku.
 
-## Restauracja Silvio Nickol GourmetRestaurant otrzymuje: **248/250!**
-Link do restauracji [Silvio Nickol GourmetRestaurant]
+## Restauracja Silvio Nickol Gourmet Restaurant otrzymuje: **248/250!**
+Link do restauracji [Silvio Nickol Gourmet Restaurant]
 
 Data degustacji: 28.08.2020
 
@@ -341,7 +341,7 @@ Adres: Coburgbastei 4, 1010 Wien, Austria
 
 _Obrazek tytułowy: Kacza wątróbka_
 
-[Silvio Nickol GourmetRestaurant]: https://palais-coburg.com/en/culinary/silvio-nickol/
+[Silvio Nickol Gourmet Restaurant]: https://palais-coburg.com/en/culinary/silvio-nickol/
 [bakłażany]: /about#baklazan
 [bakłażanów]: /about#baklazan
 
