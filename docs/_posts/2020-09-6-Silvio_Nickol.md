@@ -13,7 +13,7 @@ Drugi raz odwiedziliśmy Wiedeń z wyprawą kulinarną i tym razem zdecydowaliś
 
 Jako dwugwiazdkową wybraliśmy restaurację Szefa Kuchni Silvio Nickol czyli Silvio Nickol Gourmet Restaurant, która mieści się w Palais Coburg.
 
-Przed wejściem oczywiście znalazła się tabliczka z informacją o przyznanch dwóch gwiazdkach Michelin oraz o tym,
+Przed wejściem oczywiście znalazła się tabliczka z informacją o przyznanych dwóch gwiazdkach Michelin oraz o tym,
  że ta restauracja jest członkiem luksusowego Les Grandes Tables du Monde.
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Si_entrance.jpg" alt="Na ścianie z czerwonych cegieł, przed wejściem do
