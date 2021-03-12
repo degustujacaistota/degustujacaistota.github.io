@@ -6,7 +6,7 @@ tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Michelin_guide Mich
 restaurant: Copernicus
 location: Kraków Polska
 points: 243
-translated: false
+translated: true
 ---
 
 W sierpniowy letni dzień wybraliśmy się na romantyczną kolację do Krakowa. No dobra, romantyczny obiad w zasadzie. 
@@ -28,7 +28,7 @@ Zdecydowaliśmy się na 9 daniowe degustacyjne menu Szefa Kuchni. Było jeszcze 
 
 #### *Consommé  botwinkowe/ lody jogurtowo-cytrynowe/łosoś*
 
-Kolacja rozpoczęła się tradycyjnie od Amuse-bouche. _3&nbsp;[bakłażany]._
+Kolacja rozpoczęła się tradycyjnie od amuse-bouche. _3&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_lemon_icecream.jpg" alt="Na błękitnym talerzu leży porcja białych lodów otoczonych consomme buraczanym i ozdobione kawałkami łososia."
 height="200px" width="40px" />
@@ -57,7 +57,8 @@ height="200px" width="40px" />
 
 #### *Pieczony kalafior z cytrynowym hummusem*
 
-Doskonały, lekko orzechowy smak pieczonego kalafiora pięknie komponował się z cytrynowym hummusem. Orzeszki pinii jeszcze tą ocherzowość podkreślały. Chętnie przyznaję tej przystawce Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Doskonały, lekko orzechowy smak pieczonego kalafiora pięknie komponował się z cytrynowym hummusem.
+ Orzeszki pinii jeszcze tą orzechowość podkreślały. Chętnie przyznaję tej przystawce Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_hummus.jpg" alt="Na płaskim, białym talerzu leżą brązowe różyczki kalafiora.
 Pośrodku posmarowany jest hummus. Całość posypana orzeszkami pinii i udekorowana natką pietruszki." height="200px" width="40px" />
@@ -75,7 +76,7 @@ height="200px" width="40px" />
 
 #### *Foie gras z chutney truskawkowym*
 
-Na talerzu znalazło się zarówno Pate z foie gras jak i smażone foie gras. Dla przełamania ciężkości dodano plasterki truskawek i truskawkowy chutney. Bardzo ciekawa kombinacja. Szkoda tylko, że foie gras było tak malutko. _3&nbsp;[bakłażany]._
+Na talerzu znalazło się zarówno pate z foie gras jak i smażone foie gras. Dla przełamania ciężkości dodano plasterki truskawek i truskawkowy chutney. Bardzo ciekawa kombinacja. Szkoda tylko, że foie gras było tak malutko. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_foie_gras.jpg" alt="Na płaskim, ciemnoszarym talerzu leży kawałek przysmażonej wątróbki, porcja pate, plasterki truskawek, dwie porcje chutney truskawkowego i kropki różowego żelu."
 height="200px" width="40px" />
@@ -86,14 +87,15 @@ height="200px" width="40px" />
 
 Smaczny, esencjonalny bulion z jednym dużym pierożkiem nadzianym również intensywnym śliwkowym nadzieniem. _4&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Cop_dumpling.jpg" alt="Podniesiona pokrywa znad tatara, spod której ulatnia się dym."
+<img src="{{site.img_url}}/assets/img/posts/Cop_dumpling.jpg" alt="Ciemny bulion w białym głębokim talerzu. W bulionie zanurzony jest
+nieco duży pieróg z ciemnym nadzieniem. Obok leżą kawałki cebulek."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Pstrąg ojcowski z zielonymi warzywami i miodem pitnym*
 
-Pyszny pstrąg z chrupiącą skórką z musem szpinakowo miodowym oraz grillowaną cebulką dymką.  Świetne danie, któremu również przyznaję Order Wesołego Bakłażana. _4&nbsp;[bakłażany]._
+Pyszny pstrąg z chrupiącą skórką z musem szpinakowo miodowym oraz grillowaną cebulką dymką. Świetne danie, któremu również przyznaję Order Wesołego Bakłażana. _4&nbsp;[bakłażany]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_trout.jpg" alt="Na białym, płaskim talerzu leży kwadratowy kawałek ryby z przypieczoną brązową skórką. Obok leżą szkliste listki szpinaku i grillowana cebulka dymka w całości."
 height="200px" width="40px" />
@@ -104,7 +106,7 @@ height="200px" width="40px" />
 
 Przyjemne intermezzo z mirabelki z syropem miętowym, chili oraz z sorbetem cytrynowym. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
-<img src="{{site.img_url}}/assets/img/posts/Cop_Intermezzo.jpg" alt="W białej mieszczce umieszczony jest pomarańczowy sos a na nim położona jest porcja sorbetu cytrynowego."
+<img src="{{site.img_url}}/assets/img/posts/Cop_Intermezzo.jpg" alt="W białej miseczce umieszczony jest pomarańczowy sos a na nim położona jest porcja sorbetu cytrynowego."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -136,19 +138,21 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Śmietankowe parfait z malinami i Consommé z kwiatów czarnego bzu*
+#### *Śmietankowe parfait z malinami i consommé z kwiatów czarnego bzu*
 
 Rewelacyjny, lekki deser. Słodki, ale bez przesady. Z delikatną bezą i nutami owocowymi.
 Rzadko, ale jednak zdarza się, że deser dostaje ode mnie Order Wesołego Bakłażana i tak jest właśnie w tym przypadku. _5&nbsp;[bakłażanów]._
 <center><div style="width:65%">
-<img src="{{site.img_url}}/assets/img/posts/Cop_parfait.jpg" alt="Na białym talerzu, białe kawałki parfait i pokruszonej bezy. Są tam jeszcze kawałki malin, pomarańczowe płatki kwiatów oraz zielone listki. Kelner nalewa z ceramicznego, białego dzbanka przezroczyste  Consommé ."
+<img src="{{site.img_url}}/assets/img/posts/Cop_parfait.jpg" alt="Na białym talerzu, białe kawałki parfait i pokruszonej bezy.
+ Są tam jeszcze kawałki malin, pomarańczowe płatki kwiatów oraz zielone listki. Kelner nalewa z ceramicznego,
+  białego dzbanka przezroczyste consommé."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
 #### *Słodkości na pożegnanie*
 
-Czyli tzw. Petit Four na które składały się różne pralinki i ciastka, w tym Cantucci.   _3&nbsp;[bakłażany]._
+Czyli tzw. Petit Four na które składały się różne pralinki i ciastka, w tym cantucci. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_sweets.jpg" alt="Na czarnym, prostokątnym kamieniu ułożone są czekoladowe pralinki i ciasteczka."
 height="200px" width="40px" />
@@ -166,7 +170,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Widok na wawel z tarasu restauracji.
+Widok na Wawel z tarasu restauracji.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_view.jpg" alt="Jest już ciemno i widać pięknie oświetlony Wawel."
 height="200px" width="40px" />
@@ -177,7 +181,7 @@ Kolacja 9 daniowa na którą złożyły się też liczne drobiazgi od Szefa Kuch
 
 Kolacja była wspaniała. Idealnie się wpasowała w nasz gust. Jedyne co moglibyśmy jeszcze chcieć to większe porcje, ale stosunek jakości do ceny i tak bardzo dobry.
 
-Obsługa była bez zarzutu. Pan który nas obsługiwał chętnie opowiadał o szczegółach każdego dania i tworzył bardzo serdeczną atmosferę.
+Obsługa była bardzo dobra. Pan który nas obsługiwał chętnie opowiadał o szczegółach każdego dania i tworzył bardzo serdeczną atmosferę.
 
 Szczerze to dziwimy się, że restauracja ma tylko Plate od Michelin Guide, bo my chętnie dalibyśmy jej gwiazdkę za tak wspaniałą kuchnię. Gwiazdki dać nie możemy, ale możemy i dajemy Odznakę Wesołego Bakłażana za wspaniały wieczór i doskonałe potrawy.
 
