@@ -1,4 +1,14 @@
-- term: Foie Gras
-  details: pasztet produkowany ze stłuszczonych wątróbek kaczych i gęsich.
-- term: Magdalenka
-  details: małe francuskie ciastko o charakterystycznym muszelkowatym kształcie, który uzyskuje się dzięki pieczeniu w specjalnych foremkach z wgłębieniami. Ciasto przygotowuje się z mąki, jajek, cukru, masła oraz kilku kropel soku z cytryny.
+- id: foie_gras
+  term: Foie Gras
+  details: >
+    Wątroba lub produkt z wątroby kaczki lub gęsi. Jego smak jest opisywany jako bogaty, maślany i delikatny.
+    Foie gras sprzedaje się w całości lub przygotowuje się z niego mus, parfait lub pasztet.
+    Foie gras należy do chronionego dziedzictwa kulturowego i gastronomicznego Francji.
+    Zgodnie z prawem francuskim foie gras definiuje się jako wątrobę kaczki lub gęsi przymusowo tuczonej.
+    W innych krajach foie gras jest czasami produkowane metodą naturalnego karmienia.
+- id: madeleine
+  term: Magdalenka (Madeleine/Petite madeleine)
+  details: >
+    Magdalenki to bardzo małe ciastka biszkoptowe o charakterystycznym kształcie przypominającym muszlę,
+    który zawdzięczają pieczeniu w foremkach z wgłębieniami w kształcie muszli. Jest tradycyjnym ciastkiem z Commercy i Liverdun,
+    dwóch gmin regionu Lotaryngii w północno-wschodniej Francji.
