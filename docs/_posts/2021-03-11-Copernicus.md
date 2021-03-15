@@ -74,9 +74,9 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Foie gras z chutney truskawkowym*
+#### *[Foie gras] z chutney truskawkowym*
 
-Na talerzu znalazło się zarówno pate z foie gras jak i smażone foie gras. Dla przełamania ciężkości dodano plasterki truskawek i truskawkowy chutney. Bardzo ciekawa kombinacja. Szkoda tylko, że foie gras było tak malutko. _3&nbsp;[bakłażany]._
+Na talerzu znalazło się zarówno pate z [foie gras] jak i smażone [foie gras]. Dla przełamania ciężkości dodano plasterki truskawek i truskawkowy chutney. Bardzo ciekawa kombinacja. Szkoda tylko, że [foie gras] było tak malutko. _3&nbsp;[bakłażany]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_foie_gras.jpg" alt="Na płaskim, ciemnoszarym talerzu leży kawałek przysmażonej wątróbki, porcja pate, plasterki truskawek, dwie porcje chutney truskawkowego i kropki różowego żelu."
 height="200px" width="40px" />
@@ -202,4 +202,5 @@ _Obrazek tytułowy: Łosoś jurajski_
 [Copernicus]: http://likusrestauracje.pl/restauracje/restauracja-copernicus/
 [bakłażany]: /about#baklazan
 [bakłażanów]: /about#baklazan
-
+[foie gras]: /dictionary#foie_gras
+[Foie gras]: /dictionary#foie_gras
