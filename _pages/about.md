@@ -48,7 +48,7 @@ Jak oceniam?
 
 Przede wszystkim, wszystkie oceny w artykułach są moim(lub osób z którymi chodzę na kolacje) subiektywnymi ocenami.
 Nie jestem ekspertem kulinarnym, a jedynie miłośnikiem fine diningu i antuzjastą Michelin Giude. Moja wiedza i doświadczenie bierze
-się z setek kolacji degustacyjnych, książek kulinarnych, z rozmów z Szefami Kuchni i oczywiście z internetu.
+się z setek wizyt w restauracjach, z książek kulinarnych, z rozmów z Szefami Kuchni i oczywiście z internetu.
 
 ### Kryteria oceny:
 1. Smak potraw i technika wykonania
@@ -59,6 +59,7 @@ się z setek kolacji degustacyjnych, książek kulinarnych, z rozmów z Szefami 
 6. Stosunek jakości do ceny
 7. Kreatywność/Wizja
 
+Nie biorę pod uwagę wyboru alkoholi ani ich dopasowania do potrawy, ponieważ przeważnie nie pijemy alkoholu.
 Na starszych artykułach można znaleźć przyznane punkty. Z czasem odeszłam od sztywnych ocen punktowych, ponieważ poczułam,
 że nie oddają one w pełni tego co chciałabym przekazać. Dlatego postanowiłam umieszczać wyłącznie ocenę opisową w sekcji Podsumowanie.
 
@@ -72,10 +73,11 @@ Danie może dostać od 0 do 5 bakłażanów.
 * 4 bakłażany - wspaniałe
 * 5 bakłażanów - fenomenalne, zaskakujące, genialne!
 
-### Odznaczenie specjalne
-Odznaka Wesołego Bakłażana - najwyższe wyróżnienie. Nadawane moim ulubionym potrawom albo restauracji
-w której Degustująca Istota się zakochała. To odznaczenie jest rozłączne z bakłażanową oceną, choć często idzie w parze.
-Mimo wszystko można mieć 3 lub 4 bakłażany i order/odznakę Wesołego Bakłażana. Danie które techniczne nie było bardzo zaawansowane, albo były w nim
+### Odznaka Wesołego Bakłażana 
+To wyjątkowe wyróżnienie. Nadawane moim ulubionym potrawom albo restauracji
+w której Degustująca Istota się zakochała. To odznaczenie jest rozłączne z bakłażanową oceną, choć często idzie z nią w parze.
+Mimo wszystko można mieć 3 lub 4 bakłażany i order/odznakę Wesołego Bakłażana. 
+Danie które techniczne nie było bardzo zaawansowane, albo były w nim
 niedociągnięcia, albo jakiś element mi nie smakował, nadal może mnie zachwycić i zakocham się w nim.
 
 
@@ -87,9 +89,11 @@ Pod każdym artykułem znajduje się lista tagów, dzięki którym Degustująca 
 Tagi: Michelin_guide oraz Gault_Millau są umieszczone przy restauracjach, które zostały wspomniane w tych
 przewodnikach.
 
-### Lokalizacja
+### Lokalizacje
 Na końcu artykułu, oraz na zdjęciu tytułowym można znaleźć lokalizację danej restauracji.
 Klikając w miasto bądź kraj zostanie się przekierowanym do strony z artykułami o wizytach w restauracjach w danej lokalizacji.
+Można również zobaczyć listę wszystkich dostępnych lokalizacji z linkami do odpowiednich artykułów klikając w napis "Lokalizacje" w górnej
+części strony.
 
 ### Wyszukiwarka
 Możesz kliknąć napis "Wyszukaj" u góry strony, co przekieruje Cię na stronę wyszukiwarki, gdzie możesz wpisać szukaną frazę.
