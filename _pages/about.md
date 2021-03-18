@@ -48,7 +48,7 @@ Jak oceniam?
 
 Przede wszystkim, wszystkie oceny w artykułach są moim(lub osób z którymi chodzę na kolacje) subiektywnymi ocenami.
 Nie jestem ekspertem kulinarnym, a jedynie miłośnikiem fine diningu i antuzjastą Michelin Giude. Moja wiedza i doświadczenie bierze
-się z rozmów z Szefami Kuchni,z książek kulinarnych i z setek wizyt w restauracjach.
+się z rozmów z Szefami Kuchni, z książek kulinarnych i z setek wizyt w restauracjach.
 
 ### Kryteria oceny:
 1. Smak potraw i technika wykonania
@@ -84,21 +84,21 @@ niedociągnięcia, albo jakiś element mi nie smakował, nadal może mnie zachwy
 <center><div style="width:40%"><img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
-### Tagi
+### [Tagi]
 Pod każdym artykułem znajduje się lista tagów, dzięki którym Degustująca Istota pogrupowała wpisy.
-Tagi: Michelin_guide oraz Gault_Millau są umieszczone przy restauracjach, które zostały wspomniane w tych
+Tagi: [Michelin_guide] oraz [Gault_Millau] są umieszczone przy restauracjach, które zostały wspomniane w tych
 przewodnikach.
 
-### Lokalizacje
+### [Lokalizacje]
 Na końcu artykułu, oraz na zdjęciu tytułowym można znaleźć lokalizację danej restauracji.
 Klikając w miasto bądź kraj zostanie się przekierowanym do strony z artykułami o wizytach w restauracjach w danej lokalizacji.
 Można również zobaczyć listę wszystkich dostępnych lokalizacji z linkami do odpowiednich artykułów klikając w napis "Lokalizacje" w górnej
 części strony.
 
-### Wyszukiwarka
+### [Wyszukiwarka]
 Możesz kliknąć napis "Wyszukaj" u góry strony, co przekieruje Cię na stronę wyszukiwarki, gdzie możesz wpisać szukaną frazę.
 
-### Słownik
+### [Słownik]
 Najnowsze udogodnienie na stronie. Słownik jest cały czas rozwijany o pojęcia z branży kulinarnej, a w szczególności z Fine Diningu.
 Można do niego przejść przez napis u góry strony, lub przez wyróżnione słowo w treści artykułu.
 
