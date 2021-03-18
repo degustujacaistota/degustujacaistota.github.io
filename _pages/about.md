@@ -48,7 +48,7 @@ Jak oceniam?
 
 Przede wszystkim, wszystkie oceny w artykułach są moim(lub osób z którymi chodzę na kolacje) subiektywnymi ocenami.
 Nie jestem ekspertem kulinarnym, a jedynie miłośnikiem fine diningu i antuzjastą Michelin Giude. Moja wiedza i doświadczenie bierze
-się z setek wizyt w restauracjach, z książek kulinarnych, z rozmów z Szefami Kuchni i oczywiście z internetu.
+się z rozmów z Szefami Kuchni,z książek kulinarnych i z setek wizyt w restauracjach.
 
 ### Kryteria oceny:
 1. Smak potraw i technika wykonania
@@ -115,3 +115,9 @@ Redaktorem Degustującej Istoty jest Danuta Żabińska.
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
 [WriteOnly]: https://www.writeonly.pl
+[Lokalizacje]: /locations
+[Wyszukiwarka]: /search-jekyll-simple/
+[Słownik]: /dictionary
+[Tagi]: /tags
+[Michelin_guide]: /tags/Michelin_guide
+[Gault_Millau]: /tags/Gault_Millau
