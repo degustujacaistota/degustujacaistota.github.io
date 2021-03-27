@@ -36,7 +36,7 @@
   term: Intermezzo
   details: >
     Drobna, lekka i orzeźwiająca przekąska lub napój serwowany między daniami, który ma na celu oczyszczenie kubków smakowych.
-    Zazwyczaj intermezzo podawane jest przed daniem głównym. Podobnie jak amuse-bouche intermezzo nie jest zamawiane z karty,
+    Zazwyczaj intermezzo podawane jest przed daniem głównym. Podobnie jak [amuse-bouche] intermezzo nie jest zamawiane z karty,
     ani doliczane do rachunku. Najczęściej w tej roli spotyka się sorbet, lody albo orzeźwiające shoty.
 - id: kaszanka
   term: Kaszanka (Krupniok)
@@ -55,11 +55,13 @@
   details: >
     Sałatka z pokrojonych lub tartych ogórków, cebuli i śmietany. Zamist śmietany używa się także jogurtu, majonezu lub kefiru.
     Doprawiana pieprzen, solą, czasem koperkiem lub sokiem z cytryny.
-  - id: pate_a_choux
-    term: Ptyś (pâte à choux/choux au craquelin)
-    details: >
-      Ciasto ptysiowe/ciasto parzone (pâte à choux) jest delikatnym ciastem używanym w wielu wypiekach.
-       Zawiera tylko masło, wodę, mąkę i jajka. Zamiast środka spulchniającego wykorzystuje się w nim wysoką wilgotność,
-      aby podczas gotowania wytworzyć parę, która nadaje ciastu puszystość.
-      Wariacją ptysia jest choux au craquelin, czyli ptyś z chrupiącą skorupką. Wykonuje się ją z brązowego cukru, mąki i masła.
-      Składniki te łączy się, wałkuje na cieńki placek i wycina w nim krążki, które następnie układa się na ptysiach przed pieczeniem.
+- id: pate_a_choux
+  term: Ptyś (pâte à choux/choux au craquelin)
+  details: >
+    Ciasto ptysiowe/ciasto parzone (pâte à choux) jest delikatnym ciastem używanym w wielu wypiekach.
+    Zawiera tylko masło, wodę, mąkę i jajka. Zamiast środka spulchniającego wykorzystuje się w nim wysoką wilgotność,
+    aby podczas gotowania wytworzyć parę, która nadaje ciastu puszystość.
+    Wariacją ptysia jest choux au craquelin, czyli ptyś z chrupiącą skorupką. Wykonuje się ją z brązowego cukru, mąki i masła.
+    Składniki te łączy się, wałkuje na cieńki placek i wycina w nim krążki, które następnie układa się na ptysiach przed pieczeniem.
+
+  [amuse-bouche](/[amuse_bouche])
