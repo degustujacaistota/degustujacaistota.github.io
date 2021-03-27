@@ -2,7 +2,7 @@
 layout: post
 title: Copernicus
 featured-img: Cop_main
-tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Michelin_guide Michelin_plate Luksusowa_restauracja
+tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Michelin_guide Michelin_plate Luksusowa_restauracja Wesoły_bakłażan
 restaurant: Copernicus
 location: Kraków Polska
 points: 243
