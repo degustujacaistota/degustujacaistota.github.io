@@ -1,3 +1,29 @@
+- id: amuse_bouche
+  term: Amuse-bouche
+  details: >
+    Przysmak zwyczajowo na jeden kęs lub dwa kęsy. Różni się tym od przystawek, że nie jest zamawiany z karty. Ma przygotować gościa
+    do posiłku oraz zaprezentować styl szefa kuchni. Nie powinien być doliczany do rachunku. Serwowany jest wszystkim gościom przy stole.
+- id: consomme
+  term: Consommé
+  details: >
+    Rodzaj francuskiej, klarownej zupy wykonanej z bogato aromatyzowanego bulionu. Intensywny w smaku, powstały z gotowania mięs i warzyw na wolnym ogniu.
+    Do usunięcia nadmiaru tłuszczu i osadu stosuje się białka jaj. Podawany z reguły na gorąco.
+- id: demi_glace
+  term: Demi-glace
+  details: >
+    Bogaty, zredukowany, brązowy sos na bazie mięsnego (zazwyczaj cielęcego lub wołowego) wywaru. W kuchni francuskiej uważany za króla sosów.
+    Może służyć jako baza do innych sosów lub też może być stosowany samodzielnie.
+    Podstawowy przepis na demi-glace zawdzięcza się francuskiemu szefowi kuchni Auguste Escoffier.
+- id: fine_dining
+  term: Fine dining (Fine dine)
+  details: >
+    Pod pojęciem fine dining kryje się bardzo wiele. Czasem restauracji używające luksusowych produktów najlepszej jakości,
+    czasem oznacza to, że w restauracji są piękne, designerskie wnętrza, białe obrusy i srebrna zastawa. Czasem określa się tak restauracje
+    w której jest uznany szef kuchni, który potrafi wyczarować prawdziwe arcydzieła na talerzu, czasem rewelacyjna obsługa dla której nic nie
+    jest problemem, czasem stosowana jest w takich restauracjach kuchnia molekularna, a często wszystkie te cechy razem.
+    Jedno jest pewne, fine dining to nie tylko jedzenie, to znacznie więcej. Wyjście do restauracji klasy fine dining,
+    to jak wyjście do teatru, galerii sztuki, na koncert czy do opery. To spektakl, który ma nam dostarczyć pięknych wrażeń jakie
+    będziemy pamiętać długo. Oczywiście za te piękne chwile i luksusowe produkty płaci się więcej niż w przeciętnej restauracji.
 - id: foie_gras
   term: Foie Gras
   details: >
@@ -6,9 +32,34 @@
     Foie gras należy do chronionego dziedzictwa kulturowego i gastronomicznego Francji.
     Zgodnie z prawem francuskim foie gras definiuje się jako wątrobę kaczki lub gęsi przymusowo tuczonej.
     W innych krajach foie gras jest czasami produkowane metodą naturalnego karmienia.
+- id: intermezzo
+  term: Intermezzo
+  details: >
+    Drobna, lekka i orzeźwiająca przekąska lub napój serwowany między daniami, który ma na celu oczyszczenie kubków smakowych.
+    Zazwyczaj intermezzo podawane jest przed daniem głównym. Podobnie jak amuse-bouche intermezzo nie jest zamawiane z karty,
+    ani doliczane do rachunku. Najczęściej w tej roli spotyka się sorbet, lody albo orzeźwiające shoty.
+- id: kaszanka
+  term: Kaszanka (Krupniok)
+  details: >
+    Wędlina sporządzana z kaszy gryczanej lub jęczmiennej, krwi i podrobów wieprzowych. Doprawiana zazwyczaj cebulą, majerankiem i pieprzem.
+    Ma kolor ciemnobrązowy i osłonkę z jelita. Kaszankę można jeść na zimno, ale tradycyjnie grilluje się ją lub smaży z cebulą,
+     a następnie podaje z ziemniakami i kiszoną kapustą.
 - id: madeleine
   term: Magdalenka (Madeleine/Petite madeleine)
   details: >
     Magdalenki to bardzo małe ciastka biszkoptowe o charakterystycznym kształcie przypominającym muszlę,
     który zawdzięczają pieczeniu w foremkach z wgłębieniami w kształcie muszli. Jest tradycyjnym ciastkiem z Commercy i Liverdun,
     dwóch gmin regionu Lotaryngii w północno-wschodniej Francji.
+- id: mizeria
+  term: Mizeria
+  details: >
+    Sałatka z pokrojonych lub tartych ogórków, cebuli i śmietany. Zamist śmietany używa się także jogurtu, majonezu lub kefiru.
+    Doprawiana pieprzen, solą, czasem koperkiem lub sokiem z cytryny.
+  - id: pate_a_choux
+    term: Ptyś (pâte à choux/choux au craquelin)
+    details: >
+      Ciasto ptysiowe/ciasto parzone (pâte à choux) jest delikatnym ciastem używanym w wielu wypiekach.
+       Zawiera tylko masło, wodę, mąkę i jajka. Zamiast środka spulchniającego wykorzystuje się w nim wysoką wilgotność,
+      aby podczas gotowania wytworzyć parę, która nadaje ciastu puszystość.
+      Wariacją ptysia jest choux au craquelin, czyli ptyś z chrupiącą skorupką. Wykonuje się ją z brązowego cukru, mąki i masła.
+      Składniki te łączy się, wałkuje na cieńki placek i wycina w nim krążki, które następnie układa się na ptysiach przed pieczeniem.
