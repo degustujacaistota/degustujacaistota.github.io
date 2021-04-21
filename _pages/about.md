@@ -110,7 +110,7 @@ Blog żyje i rozwija się dzięki pomocy genialnego programisty, autora bloga [W
 Jak masz ochotę, to możesz napisać mail do [Degustującej Istoty](mailto:{{site.email}}).
 Dla tych, co nie używają klienta poczty: degustujaca.istota@gmail.com.
 Jednak Istota poleca kontaktować się przez jej fanpage na facebooku lub Instagramie - odpisze tak szybko, jak to możliwe.
-Redaktorem Degustującej Istoty jest Danuta Żabińska.
+Redaktorem naczelnym Degustującej Istoty jest Danuta Żabińska. Redaktorem technicznym jest Kamil Żabiński.
 
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
