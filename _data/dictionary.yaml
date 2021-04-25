@@ -32,6 +32,11 @@
     Foie gras należy do chronionego dziedzictwa kulturowego i gastronomicznego Francji.
     Zgodnie z prawem francuskim foie gras definiuje się jako wątrobę kaczki lub gęsi przymusowo tuczonej.
     W innych krajach foie gras jest czasami produkowane metodą naturalnego karmienia.
+- id: gazpacho
+  term: Gazpacho
+  details: >
+    Rodzaj podawanej na zimno zupy przyrządzonej z krojonych bądź miksowanych warzyw z dodatkiem octu i oliwy.
+    Zupa ta nie wymaga gotowania. Jej najsławniejsza odmiana to oparte głównie na pomidorach, gazpacho andaluz.
 - id: intermezzo
   term: Intermezzo
   details: >
@@ -63,4 +68,16 @@
     aby podczas gotowania wytworzyć parę, która nadaje ciastu puszystość.
     Wariacją ptysia jest choux au craquelin, czyli ptyś z chrupiącą skorupką. Wykonuje się ją z brązowego cukru, mąki i masła.
     Składniki te łączy się, wałkuje na cienki placek i wycina w nim krążki, które następnie układa się na ptysiach przed pieczeniem.
-
+- id: petit_four
+  term: Petit four (small oven/mały piekarnik)
+  details: >
+    To niewielkie słodkości podawane na koniec posiłku, jako upominek od Szefa Kuchni. Tak jak [amuse-bouche](#amuse_bouche)
+    nie są one doliczane do rachunku. Mogą to być: makaroniki, bezy, małe wersje ciast, owoce kandyzowane lub orzechy w czekoladzie,
+    pralinki, czekoladki, galaretki, lizaki, małe lody, Cannelés czy magdalenki. Tak naprawdę nie ma ograniczeń i wielu Szefów Kuchni
+    podchodzi do petit four bardzo kreatywnie, chcąc jeszcze raz zachwycić gości przed opuszczeniem restauracji.
+- id: sacher_torte
+  term: Torcik Sachera (Sacher-Torte)
+  details: >
+    Jego historia zaczyna się 1832 roku, kiedy to 16 letni Franz Sacher, gdy szef kuchni był chory, stworzył niezwykły torcik specjalnie dla księcia
+    Metternich. Sacher Torte to czekoladowy torcik, którego oryginalna receptura jest pilnie strzeżona. Można go spróbować w Hotelu Sacher
+    w kilku jego restauracjach i kawiarniach. Ma on wyłączne prawo do używania tej nazwy.
