@@ -111,7 +111,7 @@ social:
 # THEME SETTINGS
 email: degustujaca.istota@gmail.com
 hero_img: posts/main.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
-img_url: 'https://www.degustujacaistota.pl/img'
+img_url: 'https://degustujacaistota.pl/img'
 img_baseurl: '/'
 
 service_worker: false
