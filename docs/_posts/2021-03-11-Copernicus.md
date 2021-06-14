@@ -5,7 +5,6 @@ featured-img: Cop_main
 tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Michelin_guide Michelin_plate Luksusowa_restauracja Wesoły_bakłażan
 restaurant: Copernicus
 location: Kraków Polska
-points: 243
 translated: true
 ---
 
@@ -177,8 +176,6 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Kolacja 9 daniowa na którą złożyły się też liczne drobiazgi od Szefa Kuchni kosztowała nas 350 zł za osobę. Napiwek nie był doliczony do rachunku, więc oczywiście zostawiliśmy odpowiednią sumę w etui na stoliku. 
-
 Kolacja była wspaniała. Idealnie się wpasowała w nasz gust. Jedyne co moglibyśmy jeszcze chcieć to większe porcje, ale stosunek jakości do ceny i tak bardzo dobry.
 
 Obsługa była bardzo dobra. Pan który nas obsługiwał chętnie opowiadał o szczegółach każdego dania i tworzył bardzo serdeczną atmosferę.
@@ -190,8 +187,6 @@ Szczerze to dziwimy się, że restauracja ma tylko Plate od Michelin Guide, bo m
 </div></center>
 
 
-
-## Restauracja Copernicus otrzymuje: **243/250**
 Link do restauracji [Copernicus]
 
 Adres: Kanonicza 16,

@@ -5,7 +5,6 @@ featured-img: Si_main
 tags: Restauracja Wesoły_bakłażan Fine_dining Menu_degustacyjne Luksusowa_restauracja Dwie_gwiazdki_Michelin Michelin_guide
 restaurant: Silvio_Nickol
 location: Wiedeń Austria
-points: 248
 translated: true
 ---
 
@@ -328,11 +327,7 @@ Naturalnie, za perfekcyjną kolację w stylu fine dining, na najwyższym poziomi
 Na zakończenie mieliśmy przyjemność poznać Szefa Kuchni i całą załogę, oraz zamienić z nimi kilka słów.
 To zaszczyt poznać kogoś kto potrafi przygotować takie genialne menu, która nas oczarowało.
 
-Jeszcze zwyczajowo kilka słów o cenach. Wybraliśmy menu degustacyjne siedmiodaniowe za 149 euro za osobę. 
-Do rachunku doliczona została też opłata ”cover”, zdaje się, że za dodatki w stylu pieczywa i masła, w wysokości 7,50 euro 
-za osobę. Wolę kiedy wszystkie niezbędne koszty wliczone są w cenę menu. Napiwek nie był doliczony do rachunku.
 
-## Restauracja Silvio Nickol Gourmet Restaurant otrzymuje: **248/250!**
 Link do restauracji [Silvio Nickol Gourmet Restaurant]
 
 Data degustacji: 28.08.2020

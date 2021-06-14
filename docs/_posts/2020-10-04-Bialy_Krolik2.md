@@ -5,7 +5,6 @@ featured-img: bk2_main
 tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Wesoły_bakłażan
 restaurant: Biały_królik
 location: Gdynia Trójmiasto Polska
-points: 243
 translated: true
 ---
 
@@ -172,8 +171,10 @@ height="200px" width="40px" />
 
 ### Podsumowanie:
 
-W listopadzie Biały Królik nas zachwycił a teraz zachwycił nas jeszcze bardziej. Ciekawe zioła, których nigdzie indziej nie da się spróbować, pracochłonne, starannie przygotowane dania, które zachwycają swoim wyglądem oraz bardzo miła, relaksująca atmosfera.
-Najchętniej zamawialibyśmy w Biały Króliku na pierwsze danie menu degustacyjne “Podążaj za Białym Królikiem” a na drugie danie menu “Degustację Roślinnie Jemy”.
+W listopadzie Biały Królik nas zachwycił a teraz zachwycił nas jeszcze bardziej. 
+Ciekawe zioła, których nigdzie indziej nie da się spróbować, pracochłonne, starannie przygotowane dania, które zachwycają swoim wyglądem oraz bardzo miła, relaksująca atmosfera.
+Najchętniej zamawialibyśmy w Biały Króliku na pierwsze danie menu degustacyjne “Podążaj za Białym Królikiem” 
+a na drugie danie menu “Degustację Roślinnie Jemy”.
 
 Zamieniliśmy kilka słów z Szefem Kuchni Rafałem Koziorzemskim na koniec obiadu.
  To była ogromna przyjemność poznać Chef’a osobiście.
@@ -195,9 +196,6 @@ Naturalnie podtrzymujemy dla restauracji Biały Królik naszą Odznakę Wesołeg
 </div></center>
 
 
-Jeszcze kilka słów o cenach. Menu Degustacyjne “Podążaj za Białym Królikiem” kosztowało nas 270 zł za osobę. Serwis nie został doliczony do rachunku.
-
-## Restauracja Biały Królik otrzymuje: **243/250!**
 Link do restauracji [Biały Królik]
 
 Adres: ul. Folwarczna 2, 81-547 Gdynia, Polska

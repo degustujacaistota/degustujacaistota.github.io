@@ -5,7 +5,6 @@ featured-img: bg_main
 tags: Restauracja Fine_dining Gault_Millau Menu_degustacyjne Michelin_guide Michelin_plate
 restaurant: Bez_Gwiazdek
 location: Warszawa Polska
-points: 240
 translated: true
 ---
 
@@ -124,11 +123,7 @@ Niestety w Warszawie nie jesteśmy tak często jak byśmy chcieli i
  
 Uważam, że wieczór był bardzo udany i cieszę się, że poznaliśmy minimalistyczne i mniej formalne podejście do Fine Dining. 
 
-Myślę, że cena 160 zł/osobę za sześciodaniowe menu, piękne dania i starannie dobrane, świetnej jakości składniki nie jest wygórowana. 
 
-
-
-## Restauracja Bez Gwiazdek otrzymuje: **240/250**
 Link do restauracji [Bez Gwiazdek]
 
 Adres: ul. Wiślana 8,
