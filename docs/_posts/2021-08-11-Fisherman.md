@@ -5,9 +5,8 @@ featured-img: FM_main
 tags: Restauracja Fine_dining Wesoły_bakłażan Menu_degustacyjne
 restaurant: Fisherman
 location: Sopot Polska
-translated: false
+translated: true
 ---
-
    Podczas naszej majowej wizyty w Trójmieście odwiedziliśmy kilka nowych miejscach i kilka naszych ulubionych restauracji [Fine Dining]. 
    Z nowych wybraliśmy restaurację Fisherman, której Szefa Kuchni Rafała Koziorzemskiego (@rafalchef__smakmiasta)
     mieliśmy przyjemność poznać w restauracji Biały Królik w Gdyni. Dlatego mieliśmy przeczucie graniczące z pewnością,
@@ -29,7 +28,7 @@ height="200px" width="40px" />
 
 #### *Suszony pstrąg z majonezem rybnym*
 
-Jako amuse-bouche dostaliśmy rewelacyjny chrupek ze skóry pstrąga z majonezem, słoniną i gwiazdnicą pospolitą. To co uwielbiam w Kuchni Szefa Rafała, to między innymi duża ilość ciekawych ziół i innych roślin, jakie można spotkać w Szefa autorskiej kuchni. Za ten doskonały początek degustacji przyznajemy chętnie Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Jako [amuse-bouche] dostaliśmy rewelacyjny chrupek ze skóry pstrąga z majonezem, słoniną i gwiazdnicą pospolitą. To co uwielbiam w Kuchni Szefa Rafała, to między innymi duża ilość ciekawych ziół i innych roślin, jakie można spotkać w Szefa autorskiej kuchni. Za ten doskonały początek degustacji przyznajemy chętnie Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/FM_skin.jpg" alt="W drewnianej, niedużej skrzyneczce są muszelki na których ułożone są chrupki ze skórą pstrąga z kropkami majonezu i listkami gwiazdnicy."
 height="200px" width="40px" />
@@ -38,7 +37,7 @@ height="200px" width="40px" />
 
 #### *Królowa lasu i łąk*
 
-I tu na pierwsze miejsce wychodzi rzeżucha, ale nie ta zwykła którą wszyscy znamy, tylko rzeżucha leśna i łąkowa. Pod zieloną kołderką ukrywała się wspaniała, delikatna kałamarnica z palonym masłem. Całość oprószona była pudrem pietruszkowym. Wizualnie i smakowo genialne i dlatego kolejny bakłażanowy order leci do Fishermana. _5&nbsp;[bakłażanów]._
+Tu na pierwsze miejsce wychodzi rzeżucha, ale nie ta zwykła którą wszyscy znamy, tylko rzeżucha leśna i łąkowa. Pod zieloną kołderką ukrywała się wspaniała, delikatna kałamarnica z palonym masłem. Całość oprószona była pudrem pietruszkowym. Wizualnie i smakowo genialne i dlatego kolejny bakłażanowy order leci do Fishermana. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/FM_squid.jpg" alt="Ciemnoszara miseczka wypełniona jest białymi kwiatami i łodyżkami rzeżuch obsypanych zielonym pudrem."
 height="200px" width="40px" />
@@ -60,7 +59,7 @@ Cudowny podwędzany tatar z pstrąga solonego z kaparami, piklowaną cebulką, �
 
 #### *Majowy zbiór czosnku niedźwiedziego*
 
-Zupa z czosnku niedźwiedziego ze słodkim makaronem z kalmara. I to był absolutny hit! Jedna z najlepszych zup w życiu. Uwielbiam czosnek niedźwiedzi, a w postaci zupy jeszcze nigdy nie miałam okazji go jeść. Zachwycająca! Mam nadzieję, że jeszcze uda nam się ją zjeść w restauracji Fisherman następnym razem. Oczywiście otrzymuje ona Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Zupa z czosnku niedźwiedziego ze słodkim makaronem z kalmara. To był absolutny hit! Jedna z najlepszych zup w życiu. Uwielbiam czosnek niedźwiedzi, a w postaci zupy jeszcze nigdy nie miałam okazji go jeść. Zachwycająca! Mam nadzieję, że jeszcze uda nam się ją zjeść w restauracji Fisherman następnym razem. Oczywiście otrzymuje ona Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/FM_soup.jpg" alt="Makaron z kalmara przed nalaniem zupy." height="200px" width="40px" />
 </div></center>
@@ -90,7 +89,7 @@ height="200px" width="40px" />
 
 Przyszedł czas na deser. Czekałam na niego rok i byłam bardzo ciekawa, jak smakują lody z białych szparagów. Otóż, są pyszne, a jeszcze lepsza była panna cotta, która im towarzyszyła. Kompozycję wzbogacały truskawki w sosie z ziołami, kwiat czarnego bzu oraz palony słód. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
-<img src="{{site.img_url}}/assets/img/posts/FM_dessert.jpg" alt="Na duży, płaski, biały talerz obok panna cotty i lodów szparagowycch nakładane są złotą łyżką kawałki truskawek w sosie."
+<img src="{{site.img_url}}/assets/img/posts/FM_dessert.jpg" alt="Na duży, płaski, biały talerz obok panna cotty i lodów szparagowych nakładane są złotą łyżką kawałki truskawek w sosie."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -104,9 +103,11 @@ height="200px" width="40px" />
 
 #### *Dziękuję*
 
-Na zakończenie dostaliśmy las, a dokładniej szyszki. To były absolutnie zachwycające, autentyczne szyszki w syropie z hibiskusa, podane z lodami lawendowymi, które to były obsypane pyłkiem kwiatowym. I może to już nudne, ale ja nie mogę nie dać tym szyszkom Orderu Wesołego Bakłażana! Były super i pięknie współgrały z delikatnymi lodami lawendowymi! _5&nbsp;[bakłażanów]._
+Na zakończenie dostaliśmy las, a dokładniej szyszki. To były absolutnie zachwycające, autentyczne szyszki w syropie z hibiskusa, 
+podane z lodami lawendowymi, które to były obsypane pyłkiem kwiatowym. Może to już nudne, ale ja nie mogę nie dać tym szyszkom Orderu Wesołego Bakłażana! Były super i pięknie współgrały z delikatnymi lodami lawendowymi! _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
-<img src="{{site.img_url}}/assets/img/posts/FM_petitfour.jpg" alt="Na stole przykrytym białym obrusem leży deska drewniana na której są dwie szare miseczki z jasnymi lodami obsypaymi pyłkiem kwiatowym. Deska przykryta jest gałęziami iglaków a na nich posypane cukrem pudrem są umieszczone małe szyszki."
+<img src="{{site.img_url}}/assets/img/posts/FM_petitfour.jpg" alt="Na stole przykrytym białym obrusem leży deska
+ drewniana na której są dwie szare miseczki z jasnymi lodami obsypanymi pyłkiem kwiatowym. Deska przykryta jest gałęziami iglaków a na nich posypane cukrem pudrem są umieszczone małe szyszki."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -119,7 +120,9 @@ height="200px" width="40px" />
 
 ### Podsumowanie:
 
-Wyszliśmy z Fishermana zachwyceni jedzeniem, obsługą i całym miejscem. Ta restauracja jest daleka od sztywnej formy Fine Dining i może bardziej wpisuje się w coraz modniejszy Casual Dining, ale dla nas doskonałe produkty, o których jakość dba sam Szef oraz jego talent, to to czego oczekujemy od Fine Diningowych restauracji.
+Wyszliśmy z Fishermana zachwyceni jedzeniem, obsługą i całym miejscem. Ta restauracja jest daleka od sztywnej formy Fine Dining 
+i może bardziej wpisuje się w coraz modniejszy Casual Dining, ale dla nas doskonałe produkty, 
+o których jakość dba sam Szef oraz jego talent to to, czego oczekujemy od Fine Diningowych restauracji.
 
 Jak można zauważyć las, łąki i morze były widoczne w każdym daniu, te odwołania do natury sprawiają, że jest to coś dla czego warto przyjechać do Sopotu, przejść kilka kroków od Monciaka i zjeść w Fishermanie. 
 
@@ -149,6 +152,7 @@ _Obrazek tytułowy: Wołowina z młodymi burakami_
 
 [Fine Dining]: /dictionary#fine_dining
 [demi-glace]: /dictionary#demi_glace
+[amuse-bouche]:  /dictionary#amuse_bouche 
 
 
 
