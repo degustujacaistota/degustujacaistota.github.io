@@ -8,8 +8,11 @@ location: Sopot Polska
 translated: false
 ---
 
-   W maju, kiedy ponownie pozwolono otworzyć się restauracjom postanowiliśmy odwiedzić Trójmiasto. Zaplanowaliśmy kilka wizyt w nowych miejscach i kilka w naszych ulubionych restauracjach [Fine Dining]. Z nowych wybraliśmy restaurację Fisherman, w której jeszcze nie byliśmy, ale jej Szef Kuchni był nam bardzo dobrze znany. Szefa Kuchni Rafała Koziorzemskiego (@rafalchef__smakmiasta) mieliśmy przyjemność poznać w restauracji Biały Królik, stąd mieliśmy przeczucie graniczące z pewnością, że Fisherman to restauracja, którą warto odwiedzić.
-Restauracja Fisherman serwuje dania z menu a la carte, ale na naszą prośbę Szef Rafał zrobił dla nas Menu Degustacyjne, za co jesteśmy bardzo wdzięczni.
+   Podczas naszej majowej wizyty w Trójmieście odwiedziliśmy kilka nowych miejscach i kilka naszych ulubionych restauracji [Fine Dining]. 
+   Z nowych wybraliśmy restaurację Fisherman, której Szefa Kuchni Rafała Koziorzemskiego (@rafalchef__smakmiasta)
+    mieliśmy przyjemność poznać w restauracji Biały Królik w Gdyni. Dlatego mieliśmy przeczucie graniczące z pewnością,
+     że Fisherman to restauracja, którą warto odwiedzić. Serwuje się tam dania z menu a la carte,
+ ale na naszą prośbę Szef Rafał zrobił dla nas Menu Degustacyjne, za co jesteśmy wdzięczni.
  
   
 ### Degustacja:
