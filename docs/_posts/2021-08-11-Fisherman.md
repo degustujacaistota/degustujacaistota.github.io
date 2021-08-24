@@ -7,7 +7,7 @@ restaurant: Fisherman
 location: Sopot Polska
 translated: true
 ---
-   Podczas naszej majowej wizyty w Trójmieście odwiedziliśmy kilka nowych miejscach i kilka naszych ulubionych restauracji [Fine Dining]. 
+   Podczas naszej majowej wizyty w Trójmieście odwiedziliśmy kilka nowych miejsc i kilka naszych ulubionych restauracji [Fine Dining]. 
    Z nowych wybraliśmy restaurację Fisherman, której Szefa Kuchni Rafała Koziorzemskiego (@rafalchef__smakmiasta)
     mieliśmy przyjemność poznać w restauracji Biały Królik w Gdyni. Dlatego mieliśmy przeczucie graniczące z pewnością,
      że Fisherman to restauracja, którą warto odwiedzić. Serwuje się tam dania z menu a la carte,
