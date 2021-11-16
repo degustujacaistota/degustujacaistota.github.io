@@ -157,7 +157,7 @@ height="200px" width="40px" />
 Podobne zestawienie jak w daniu powyżej. Tylko w tej wersji dostaliśmy konfitowane udko gęsi z limonką, kafirem i tamaryndowcem. 
 Warto wspomnieć, że do dań głównych dostaliśmy piękny, oryginalny nóż laguiole. Cudne danie to i cudna ocena oraz order. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
-<img src="{{site.img_url}}/assets/img/posts/Ni_goose_with_burek" alt="Na płaskim, białym, kwadratowym talerzu, w jego lewym dolnym rogu, ułożone jest danie. Na ziemniaczanym purée ułożony jest kawałek mięsa z gęsi. Obok leży smażony rydz i kurki oraz długa zielona fasolka. Bliżej lewej krawędzi talerza wsadzony w purée jest trójkątny kawałek ciasta burek."
+<img src="{{site.img_url}}/assets/img/posts/Ni_goose_with_burek.jpg" alt="Na płaskim, białym, kwadratowym talerzu, w jego lewym dolnym rogu, ułożone jest danie. Na ziemniaczanym purée ułożony jest kawałek mięsa z gęsi. Obok leży smażony rydz i kurki oraz długa zielona fasolka. Bliżej lewej krawędzi talerza wsadzony w purée jest trójkątny kawałek ciasta burek."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
