@@ -97,7 +97,8 @@ height="200px" width="40px" />
 
 #### *Ostrygi Fine de claire*
 
-Ostrygi Fine de claire z Oléron we Francji.  Nie przepadam za ostrygami, ale te były wybitne. Ugotowane na parze w piecu podane z ryżowym makaronem Vermicelli doprawionym słonym zabaglione, czosnkiem i sosem ostrygowym oraz z dodatkiem tataru z pomidorków Green Zebra. Za te cudownie pyszne ostrygi przyznajemy order Wesołego Bakłażana.  _5&nbsp;[bakłażanów]._
+Ostrygi Fine de claire z Oléron we Francji.  Nie przepadam za ostrygami, ale te były wybitne.
+ Ugotowane na parze w piecu podane z ryżowym makaronem Vermicelli doprawionym słonym zabaglione, czosnkiem i sosem ostrygowym oraz z dodatkiem tatara z pomidorków Green Zebra. Za te cudownie pyszne ostrygi przyznajemy order Wesołego Bakłażana.  _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_oysters.jpg" alt="Na płaskim, owalnym talerzu widać dwie muszle ostryg osadzone w porcji puree. Wewnątrz muszli znajduje się zawinięty ryżowy makaron w jasnobrązowym sosie na wierzchu którego znajduje się zielony mus. " height="200px" width="40px" />
 </div></center>
@@ -188,7 +189,11 @@ height="200px" width="40px" />
 
 #### *Trzy Skarby Ziemi*
 
-To kolejne oryginalne chińskie danie, którego Szef Kuchni nauczył się od swojej mamy. Świeżą paprykę i bakłażana do tej potrawy Szef Nicholas przywiózł sam z wyprawy do Grecji. Papryka, bakłażan i ziemniaki były usmażone w lekkiej tempurze w sosie słodko-kwaśnym z dodatkiem karmelizowanych płatków czosnku i octu ryżowego starzonego przez 3 lata. Doskonale, ostre i smaczne danie. Bakłażan był niesamowicie delikatny i pełen smaku. Chciałoby się jeść to danie codziennie. Już za nim tęsknię i naturalnie przyznaję Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+To kolejne oryginalne chińskie danie, którego Szef Kuchni nauczył się od swojej mamy. 
+Świeżą paprykę i bakłażana do tej potrawy Szef Nicholas przywiózł sam z wyprawy do Grecji. 
+Papryka, bakłażan i ziemniaki były usmażone w lekkiej tempurze w sosie słodko-kwaśnym z dodatkiem karmelizowanych płatków czosnku i
+ octu ryżowego starzonego przez 3 lata. Doskonałe, ostre i smaczne danie. Bakłażan był niesamowicie delikatny i pełen smaku. 
+ Chciałoby się jeść to danie codziennie. Już za nim tęsknię i naturalnie przyznaję Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_eggplant2.jpg" alt="Smażone, pokrojone warzywa w sosie. Widać kawałki bakłażana, papryki, czosnku, ziemniaków i zielone listki."
 height="200px" width="40px" />
@@ -221,7 +226,7 @@ height="200px" width="40px" />
 
 #### *Crepe z owocami*
 
-Chrupiący, francuskie naleśnik Crepe z kwiatami pomarańczy. Do tego jagody flambirowane w Grand Marnier, słony karmel i domowy krem cytrynowy. Jak zwykle podane widowiskowo. _4&nbsp;[bakłażany]._
+Chrupiący, francuski naleśnik Crepe z kwiatami pomarańczy. Do tego jagody flambirowane w Grand Marnier, słony karmel i domowy krem cytrynowy. Jak zwykle podane widowiskowo. _4&nbsp;[bakłażany]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_crepe.jpg" alt="Dwa białe talerze z dużym chrupiącym naleśnikiem uformowanym w kształt misy. Wewnątrz naleśnika leżą podsmażone owoce i cytrynowy krem. Po prawej od talerza z przodu, leży zdobiony, srebrny nóż. Po Prawej stronie zdjęcia, na stole leży srebrna misa z której wydobywają się duże ilości pary wodnej ścielące się na stole."
 height="200px" width="40px" />
