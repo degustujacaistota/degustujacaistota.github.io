@@ -8,10 +8,14 @@ location: Kraków Polska
 translated: false
 ---
 
-Zaczęło się od planowania grafiku restauracji do odwiedzenia przy okazji naszej lipcowej mini fine dining trasy w Krakowie. Kamila i Cezary (@finediningpl) polecili nam właśnie @cheznicholasresto, ale ponieważ konkurencja była silna, nie mogliśmy się zdecydować. Kiedy miałam już rezerwować restauracje przyśnił mi się piękny granatowy pokój z obrazem złotego bażanta, gdy zauważyłam w relacji na Instagramie, że dokładnie tak wygląda Bistro Szefa Kuchni Nicholasa, oczywiście zrobiłam rezerwację. Tak zaczęło się nasze uzależnienie od Chez Nicholas Bistro. Nie będę nawet próbować ukrywać, że zakochaliśmy się w tym miejscu i w samym Szefie Kuchni.
+Zaczęło się od planowania grafiku restauracji do odwiedzenia przy okazji naszej lipcowej mini fine dining trasy w Krakowie. 
+Kamila i Cezary (@finediningpl) polecili nam właśnie @cheznicholasresto, ale ponieważ konkurencja była silna, nie mogliśmy się zdecydować.
+ Kiedy miałam już rezerwować restauracje przyśnił mi się piękny granatowy pokój z obrazem złotego bażanta. Gdy zauważyłam w relacji na Instagramie,
+  że dokładnie tak wygląda Bistro Szefa Kuchni Nicholasa, oczywiście zrobiłam rezerwację. Tak zaczęło się nasze uzależnienie od restauracji Chez Nicholas. 
+  Nie będę nawet próbować ukrywać, że zakochaliśmy się w tym miejscu i w samym Szefie Kuchni.
 Pisząc ten tekst jesteśmy już po trzech genialnych obiadach u Szefa Kuchni Nicholasa i za chwilę będziemy kolejny raz.
 
-Szef Kuchni Bistro Chez Nicholas to tak naprawdę Yinliang Zhoulezi LU, a Nicholas to jego pseudonim. 
+Szef Kuchni Chez Nicholas naprawdę nazywa się Yinliang Zhoulezi LU, a Nicholas to jego pseudonim. 
 Pochodzi z Chin i ukończył renomowaną, francuską szkołę kulinarną Ferrandi w Paryżu (@ferrandiparis), po czym zdobywał doświadczenie w kilku restauracjach we Francji w tym tych z gwiazdkami @michelinguide.
 Jego urocze, niewielkie bistro jest absolutnie unikatowe. Stoliki przywiezione z Francji, na ścianach wiszą oprawione, stare francuskie gazety i oczywiście obraz przepięknego, złotego bażanta, którego Szef Kuchni Nicholas polecił namalować specjalnie do swojej butikowej francuskiej restauracji, jako chiński akcent. Posiłki je się tutaj srebrnymi sztućcami z XVIII i XIX wieku na papierowych obrusach.
 
@@ -43,7 +47,8 @@ height="200px" width="40px" />
 
 #### *Tatar z tuńczyka*
 
-Tatar z części brzusznej tuńczyka z domowej roboty sosem Ponzu, grejpfrutem, konfitowaną skórką z cytryny, z Limoncello i sokiem z cytryny, oraz z yuzu,
+Tatar z części brzusznej tuńczyka z domowej roboty sosem Ponzu, grejpfrutem, konfitowaną skórką z cytryny,
+ z Limoncello i sokiem z cytryny, oraz z yuzu,
 imbirem konfitowanym w sake, sosem mirin i japońską whisky.
 Liście portulaki jako sałatka. Rewelacyjny tatar który dostaje od nas Odznakę Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
@@ -57,7 +62,9 @@ height="200px" width="40px" />
 Tatar wołowy w Chez Nicholas jedliśmy w dwóch odsłonach i obie zasłużyły na Order Wesołego Bakłażana.
 
  Pierwszy był super niespodzianką, bo dostaliśmy podwójną porcję tatara (a la carte). Dla miłośników tego dania, trudno o coś lepszego. 
-Doskonale, drobno posiekane mięso wołowe, z majonezem z proszkiem z japońskiej chili, grejpfrutem, yuzu, chrupiącymi grzybami shitake ( od Pana Greli z Lublina), z kapustą mizuna, japońską whisky i glazurą z czerwonego wina z anyżem i cynamonem oraz purée z czarnych owoców. _5&nbsp;[bakłażanów]._
+Doskonale, drobno posiekane mięso wołowe, z majonezem z proszkiem z japońskiej chili,
+ grejpfrutem, yuzu, chrupiącymi grzybami shitake (od Pana Greli z Lublina),
+  z kapustą mizuna, japońską whisky i glazurą z czerwonego wina z anyżem i cynamonem oraz purée z czarnych owoców. _5&nbsp;[bakłażanów]._
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_big_tartare.jpg" alt="Ogromna porcja drobno posiekanego tatara wołowego, ułożonego w prostopadłościan na białym talerzu. Na wierzchu tatara ułożone są plasterki grzybów a na nich różowo białe słupki z buraków. Obok tatara nałożona jest porcja ciemnobrązowego sosu."
 height="200px" width="40px" />
@@ -118,8 +125,10 @@ height="200px" width="40px" />
 
 #### *Gratin z leśnymi grzybami*
 
-Zapiekanka z leśnymi grzybami (kurki, borowiki, rydze, kanie, boczniak królewski) z szampańskim beszamelem, foie gras, pastą z anchois, rumową brioszką i serem Gruyère.
-Do dziś pamiętam ten piękny aromat, kremowe wnętrze i harmonijne smaki grzybowo serowe. Idealne jesienne danie, które otrzymuje od nas Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Zapiekanka z grzybami (kurki, borowiki, rydze, kanie, boczniak królewski) z szampańskim beszamelem,
+ foie gras, pastą z anchois, rumową brioszką i serem Gruyère.
+Do dziś pamiętam ten piękny aromat, kremowe wnętrze i harmonijne smaki grzybowo serowe. Idealne jesienne danie,
+ które otrzymuje od nas Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_gratin.jpg" alt="Mały, czarny, żeliwny garnuszek z zapiekanką, którą od góry przykrywa przypieczona warstwa sera."
 height="200px" width="40px" />
@@ -129,7 +138,7 @@ height="200px" width="40px" />
 
 #### *Szafranowe risotto z owocami morza*
 
-Idealne risotto z krewetkami i przegrzebkiem. Do tego dodatkowo kurki, pieczony kwiat cukinii, bisque(ten boski bisque), zioła prowansalskie, białe wino, lekkie czerwone curry i crème fraîche z Normandii. Cudno! Ponownie najwyższa nota i Order! _5&nbsp;[bakłażanów]._
+Idealne risotto z krewetkami i przegrzebkiem. Do tego dodatkowo kurki, pieczony kwiat cukinii, bisque (ten boski bisque), zioła prowansalskie, białe wino, lekkie czerwone curry i crème fraîche z Normandii. Cudno! Ponownie najwyższa nota i Order! _5&nbsp;[bakłażanów]._
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_seafood.jpg" alt="Biały talerz pełen krewetek, przegrzebek i kurek. Spod spodu widać odrobinę żółtego ryżu. Na owocach morza położone jest ugotowany na parze kwiat cukinii."
 height="200px" width="40px" />
@@ -147,7 +156,10 @@ height="200px" width="40px" />
 
 #### *Filet kaczki*
 
-Pierś z kaczki marynowana w Ponzu i flambirowana z wódką ziołową. Jako uzupełnienie: francuskie purée z oliwą z oliwek, opiekana fasolka spaghetti, boczniak królewski i kurki z Lublina, które były pieczone w piekarniku z oliwą z oliwek i kaczym tłuszczem. Ciekawym elementem tego dania był też Burek. Chrupiący niby placuszek z serem w środku. Całe danie łączył pięknie sos Albufera. Sos ten został stworzony przez Marie-Antoine Carême ku czci generała Napoleona, Louis-Gabriel Sucheta, księcia D'Albufera da Valencia.  Szef kuchni Nicholas sporządził go z kurczaka, kaczki, gęsi, foie gras i crème fraîche z Deux-Sèvres. Pikantności daniu dodawała własnoręcznie suszona przez Szefa kuchni Chili przywieziona z Lecce z Włoch.  Kaczka idealna! I naturalnie Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Pierś z kaczki marynowana w Ponzu i flambirowana z wódką ziołową. Jako uzupełnienie: francuskie purée z oliwą z oliwek, opiekana fasolka spaghetti, boczniak królewski i kurki z Lublina, które były pieczone w piekarniku z oliwą z oliwek i kaczym tłuszczem. Ciekawym elementem tego dania był też Burek. Chrupiący niby placuszek z serem w środku. Całe danie łączył pięknie sos Albufera. Sos ten został stworzony przez Marie-Antoine Carême ku czci generała Napoleona, Louis-Gabriel Sucheta, księcia D'Albufera da Valencia. 
+Szef kuchni Nicholas sporządził go z kurczaka, kaczki, gęsi, foie gras i crème fraîche z Deux-Sèvres. 
+Pikantności daniu dodawała własnoręcznie suszona przez Szefa kuchni Chili przywieziona z Lecce z Włoch.
+ Kaczka idealna! I naturalnie Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_duck.jpg" alt="Na płaskim, białym, kwadratowym talerzu, w jego lewym dolnym rogu, ułożone jest danie. Na ziemniaczanym purée leżą są trzy plastry przypieczonego filetu z kaczki. Obok jest zielony szparag, smażony boczniak i kurki, zwinięta w supełek ugotowana, długa zielona fasolka. Między porcją purée a brzegiem talerza, w samym kącie nalany jest jasnobrązowy sos. Po prawej stronie talerza leży trójkątny kawałek ciasta burek."
 height="200px" width="40px" />
@@ -255,7 +267,7 @@ height="200px" width="40px" />
 Każda z wizyt w restauracji Chez Nicholas była wyjątkowa i magiczna. To fine dining na najwyższym poziomie z luksusowymi produktami doskonałej jakości prosto z Francji, ale i nie tylko. Talent, umiejętności i pracowitość Szefa Kuchni widać na każdym kroku.
 Szef Kuchni Nicholas sam serwował nam każde danie i z pasją opowiadał o wszystkich detalach, o jakie przyszło nam do głowy się zapytać. Moglibyśmy z nim tak rozmawiać godzinami. 
 
-Jak można zauważyć nie było dania, które by nam nie smakowało. Najbardziej smakowały nam wszystkie tatary, Bisque, Trzy Skarby Ziemi, foie gras,gratin , kaczka, gęś i te wiśnie… ach! Perfekcja.
+Jak można zauważyć nie było dania, które by nam nie smakowało. Najbardziej smakowały nam wszystkie tatary, Bisque, Trzy Skarby Ziemi, foie gras, gratin, kaczka, gęś i te wiśnie… ach! Perfekcja.
 I za te rewelacyjne dania, za zaangażowanie, talent i gigantyczną pracę Szefa kuchni i jego załogi przyznajemy całym sercem Odznakę Wesołego Bakłażana i przesyłamy ogromne podziękowania. Do zobaczenia wkrótce.
 
 <center><div style="width:35%">
