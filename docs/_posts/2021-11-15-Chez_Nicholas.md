@@ -188,7 +188,7 @@ height="200px" width="40px" />
 
 #### *Smażone foie gras*
 
-Danie a la carte, które tak bardzo chcieliśmy spróbować w Chez Nicholas. Idealnie przyrządzone foie gras najwyższej jakości z Tuluzy, smażone na patelni z likierem Cointreau. Do tego sos - redukcja wiśniowa oraz sałatka z różnymi pomidorkami z waniliowym winegretem z pieprzem seczuańskim. Jako danie dodatkowe piękne bakłażany, cukinie i fasolka grillowane w piekarniku. Kompozycja fantastyczna, pełnia smaku, faktur i aromatów. Oczywiście Order przyznany. _5&nbsp;[bakłażanów]._
+Danie a la carte, które tak bardzo chcieliśmy spróbować w Chez Nicholas. Idealnie przyrządzone [foie gras] najwyższej jakości z Tuluzy, smażone na patelni z likierem Cointreau. Do tego sos - redukcja wiśniowa oraz sałatka z różnymi pomidorkami z waniliowym winegretem z pieprzem seczuańskim. Jako danie dodatkowe piękne bakłażany, cukinie i fasolka grillowane w piekarniku. Kompozycja fantastyczna, pełnia smaku, faktur i aromatów. Oczywiście Order przyznany. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_foie_gras.jpg" alt="Na płaskim, białym, kwadratowym talerzu leży porcja podsmażonego foie gras. Obok znajduje się porcja gęstego, ciemnego sosu oraz różne sałaty w winegrecie z przepołowionymi, małymi pomidorkami."
 height="200px" width="40px" />
@@ -249,7 +249,7 @@ height="200px" width="40px" />
 
 #### *Petit four*
 
-Cannelé de Bordeaux z winem Wermuth. Kocham Cannelé, te cudowne maślane i mięciutkie słodkości są idealnym zwieńczeniem francuskiej degustacji z chińskim twistem. Zrobione były dokładnie tak jak być powinny. Uwielbiam je i oczywiście dostają Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
+Cannelé de Bordeaux z winem Wermuth jako [Petit four]. Kocham Cannelé, te cudowne maślane i mięciutkie słodkości są idealnym zwieńczeniem francuskiej degustacji z chińskim twistem. Zrobione były dokładnie tak jak być powinny. Uwielbiam je i oczywiście dostają Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_canele.jpg" alt="Na białym, owalnym talerzu ułożonych jest osiem canele. Są ciemnobrązowe. W tle za canele leży czerwona róża."
 height="200px" width="40px" />
@@ -265,7 +265,7 @@ height="200px" width="40px" />
 
 ### Podsumowanie:
 
-Każda z wizyt w restauracji Chez Nicholas była wyjątkowa i magiczna. To fine dining na najwyższym poziomie z luksusowymi produktami doskonałej jakości prosto z Francji, ale i nie tylko. Talent, umiejętności i pracowitość Szefa Kuchni widać na każdym kroku.
+Każda z wizyt w restauracji Chez Nicholas była wyjątkowa i magiczna. To [fine dining] na najwyższym poziomie z luksusowymi produktami doskonałej jakości prosto z Francji, ale i nie tylko. Talent, umiejętności i pracowitość Szefa Kuchni widać na każdym kroku.
 Szef Kuchni Nicholas sam serwował nam każde danie i z pasją opowiadał o wszystkich detalach, o jakie przyszło nam do głowy się zapytać. Moglibyśmy z nim tak rozmawiać godzinami. 
 
 Jak można zauważyć nie było dania, które by nam nie smakowało. Najbardziej smakowały nam wszystkie tatary, Bisque, Trzy Skarby Ziemi, foie gras, gratin, kaczka, gęś i te wiśnie… ach! Perfekcja.
@@ -295,5 +295,9 @@ _Obrazek tytułowy: Cherries à la Jubilée_
 [Chez Nicholas]: https://www.facebook.com/Cheznicholasresto
 [bakłażany]: /about#baklazan
 [bakłażanów]: /about#baklazan
+
+[Petit Fours]: /dictionary#petit_four
+[fine Dining]: /dictionary#fine_dining
+[foie gras]: /dictionary#foie_gras
 
 
