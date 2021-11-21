@@ -5,7 +5,7 @@ featured-img: Ni_main
 tags: Restauracja Wesoły_bakłażan Fine_dining Menu_degustacyjne 
 restaurant: Chez_Nicholas
 location: Kraków Polska
-translated: false
+translated: true
 ---
 
 Zaczęło się od planowania grafiku restauracji do odwiedzenia przy okazji naszej lipcowej mini fine dining trasy w Krakowie. 
@@ -26,8 +26,10 @@ Po tym przydługim wstępie czas na degustację. Czyli w tym przypadku zestawien
 
 ### Degustacja:
 
-#### *Bułki na parze/ masło/ oliwa*
-Zamiast tradycyjnego pieczywa przed posiłkiem dostaliśmy bułeczki w stylu bułek na parze w różnych smakach. Szef kuchni uzupełniał je, jak tylko się skończyły, co nam się bardzo podobało, bo były idealne do sosów, a sosy u Szefa kuchni Nicholasa grzech zostawiać. Są boskie.
+#### *Bułki na parze / masło / oliwa*
+
+Zamiast tradycyjnego pieczywa przed posiłkiem dostaliśmy bułeczki w stylu bułek na parze w różnych smakach.
+ Szef kuchni uzupełniał je, jak tylko się skończyły, co nam się bardzo podobało, bo były idealne do sosów, a sosy u Szefa kuchni Nicholasa grzech zostawiać. Są boskie.
 Bułeczki były zrobione przy użyciu wody alkalicznej, czerwonego wina Julienas Beaujolais oraz ze szpinakiem i szczawiem.
 Do bułeczek dostaliśmy masło na bazie Isigny Butter AOP z Normandii z czarną truflą letnią Tuber Aestivum z Chorwacji oraz oliwkami Taggiasche i papryką Espelette.
 Również nie zabrakło doskonałej oliwy z oliwek AOP Les Vallées de Baux de Provence. _4&nbsp;[bakłażany]._
@@ -63,8 +65,7 @@ Tatar wołowy w Chez Nicholas jedliśmy w dwóch odsłonach i obie zasłużyły 
 
  Pierwszy był super niespodzianką, bo dostaliśmy podwójną porcję tatara (a la carte). Dla miłośników tego dania, trudno o coś lepszego. 
 Doskonale, drobno posiekane mięso wołowe, z majonezem z proszkiem z japońskiej chili,
- grejpfrutem, yuzu, chrupiącymi grzybami shitake (od Pana Greli z Lublina),
-  z kapustą mizuna, japońską whisky i glazurą z czerwonego wina z anyżem i cynamonem oraz purée z czarnych owoców. _5&nbsp;[bakłażanów]._
+ grejpfrutem, yuzu, chrupiącymi grzybami shitake (od Pana Greli z Lublina) z kapustą mizuna, japońską whisky i glazurą z czerwonego wina z anyżem i cynamonem oraz purée z czarnych owoców. _5&nbsp;[bakłażanów]._
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_big_tartare.jpg" alt="Ogromna porcja drobno posiekanego tatara wołowego, ułożonego w prostopadłościan na białym talerzu. Na wierzchu tatara ułożone są plasterki grzybów a na nich różowo białe słupki z buraków. Obok tatara nałożona jest porcja ciemnobrązowego sosu."
 height="200px" width="40px" />
@@ -85,7 +86,7 @@ I jak w przypadku tatarów, oba  kraby były rewelacyjne i dostają od nas order
 
 W pierwszej wersji dostaliśmy kraba z majonezem z czarnym czosnkiem oraz zestawem warzyw, w tym ugotowanym na parze kwiatem cukinii. _5&nbsp;[bakłażanów]._
 <center><div style="width:60%">
-<img src="{{site.img_url}}/assets/img/posts/Ni_Crab.jpg" alt="Na białym, płaskim talerzu, położona jest duża, pomarańczowa z zewątrz i beżowa w środku muszla kraba. Zdjęcie jest wykonane z boku muszli. W środku muszli widać szary mus, sałatę i wystający poza brzeg muszli, ugotowany na parze kwiat cukinii."
+<img src="{{site.img_url}}/assets/img/posts/Ni_Crab.jpg" alt="Na białym, płaskim talerzu, położona jest duża, pomarańczowa z zewnątrz i beżowa w środku muszla kraba. Zdjęcie jest wykonane z boku muszli. W środku muszli widać szary mus, sałatę i wystający poza brzeg muszli, ugotowany na parze kwiat cukinii."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -239,14 +240,14 @@ height="200px" width="40px" />
 
 #### *Crepe z owocami*
 
-Chrupiący, francuski naleśnik Crepe z kwiatami pomarańczy. Do tego jagody flambirowane w Grand Marnier, słony karmel i domowy krem cytrynowy. Jak zwykle podane widowiskowo. _4&nbsp;[bakłażany]._
+Chrupiący, francuski naleśnik Crepe z kwiatami pomarańczy. Do tego owoce flambirowane w Grand Marnier, słony karmel i domowy krem cytrynowy. Jak zwykle podane widowiskowo. _4&nbsp;[bakłażany]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_crepe.jpg" alt="Dwa białe talerze z dużym chrupiącym naleśnikiem uformowanym w kształt misy. Wewnątrz naleśnika leżą podsmażone owoce i cytrynowy krem. Po prawej od talerza z przodu, leży zdobiony, srebrny nóż. Po Prawej stronie zdjęcia, na stole leży srebrna misa z której wydobywają się duże ilości pary wodnej ścielące się na stole."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Petit  four*
+#### *Petit four*
 
 Cannelé de Bordeaux z winem Wermuth. Kocham Cannelé, te cudowne maślane i mięciutkie słodkości są idealnym zwieńczeniem francuskiej degustacji z chińskim twistem. Zrobione były dokładnie tak jak być powinny. Uwielbiam je i oczywiście dostają Order Wesołego Bakłażana. _5&nbsp;[bakłażanów]._
 <center><div style="width:85%">
@@ -255,7 +256,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Idealna kawa do Cannelé.
+Idealna kawa bez laktozy do Cannelé.
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_coffee.jpg" alt="Kawa w białej filiżance na prostokątnym spodeczku. W tle czerwona róża."
 height="200px" width="40px" />
